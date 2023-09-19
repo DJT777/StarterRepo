@@ -1,0 +1,34 @@
+URL: https://www.usi.edu/business/computer-science/program-objectives-and-student-outcomes
+cleanedDataText/business_computer-science_program-objectives-and-student-outcomes.txt
+
+URL: https://www.usi.edu/business/computer-science/program-objectives-and-student-outcomes
+The Computer Science Program at the Romain College of Business
+
+Mission Statement:
+The mission of the Computer Science Program at the University of Southern Indiana (USI) is to prepare graduates for career opportunities in the fast-growing technology field and/or for graduate study.
+
+Program Goals:
+The Computer Science Program at USI follows the recommendations of the Association for Computing Machinery (ACM) for undergraduate Computer Science programs. The program aims to adhere to the ACM Computer Science Curriculum 2013, focusing on the characteristics of computer science graduates. The program goals include:
+
+1. Mastery of computer science technical foundations
+2. Recognition of common computer science themes and principles
+3. Recognition of the interplay between theory and practice
+4. Capability of assessment from a system-level perspective
+5. Effective problem-solving and critical thinking skills
+6. Ability to work effectively in a team
+7. Commitment to life-long learning and professional and ethical responsibility
+8. Recognition of the social, legal, ethical, and cultural issues in computing
+9. Effective communication and organizational skills
+10. Awareness of the broad applicability of computing
+11. Appreciation of domain-specific knowledge
+
+Assessment Methods:
+The Computer Science Program uses examination, project work, and research assignments with written and/or oral presentations to assess student learning. The program aligns with the ACM CS2013 Knowledge Units, which are divided into core and elective topics. Assessment is conducted in required courses.
+
+Contact Information:
+Location: BE1015
+Phone: 812-464-1718
+Email: [email address]
+
+Social Media Channels: Facebook, Twitter, YouTube, Instagram, LinkedIn.
+URL: https://www.usi.edu/business/computer-science/program-objectives-and-student-outcomes

@@ -1,0 +1,43 @@
+URL: https://www.usi.edu/business-office/accounts-payable/vendor-information
+cleanedDataText/business-office_accounts-payable_vendor-information.txt
+
+URL: https://www.usi.edu/business-office/accounts-payable/vendor-information
+Vendor Information
+
+Accounts Payable
+
+    Contact Information:
+        Orr Center, OC 0029
+        Phone: 812-464-1967
+        Email provided on the site.
+
+Payments Guidelines and Procedures:
+
+        Important Notice: The University of Southern Indiana has implemented new technology to automate and streamline payment processing. Vendors are required to send invoices directly to Accounts Payable with a valid University of Southern Indiana purchase order number listed.
+        Preferred method: Email invoices to UofSouthernIndiana@easyaccessap.com.
+        If mailing, please use the following address:
+            University of Southern Indiana
+            Attn: Accounts Payable
+            PO Box 18158
+            Evansville, IN 47719
+        Invoices forwarded to Accounts Payable from University employees or departments will be flagged as potentially fraudulent transactions, resulting in delays in payment processing.
+        Tips for receiving prompt payment:
+            Require a purchase order from USI Procurement or use the University procurement credit card (p-card) before providing services or selling goods to a University department.
+            Include specific information on your invoice, such as the purchase order number, invoice number, invoice date, itemized list of goods/services sold, total amount due, company name, and remittance address.
+            For faster processing, include the vendor name or abbreviation in the email subject line and attach one PDF invoice per email.
+            Avoid sending duplicate invoices or sending the same invoice multiple times.
+        Payment terms listed on the purchase order are typically net 30 days from USI's receipt of goods/services or receipt of the invoice in Accounts Payable, whichever is later. Different payment terms must be negotiated with Procurement before issuing the purchase order.
+        Failure to follow the invoice submission instructions may result in significant payment delays, and the University will not be responsible for associated interest, late payment fees, or legal claims.
+
+Forms and Documents:
+    The website does not provide specific forms or documents related to vendor information. However, it is advised to contact Accounts Payable for any necessary forms or documents.
+
+Non-Invoice Payments:
+    In certain cases where an invoice is not available, non-invoice payments may be necessary. These payments require approval from Procurement and must meet specific criteria. Examples include fully executed contracts, lease agreements, memberships paid from order forms, and more. Non-invoice payments are processed based on the purchase order and supporting documentation provided by Procurement.
+
+W-9 Requirement:
+    Vendors must have a completed Form W-9 (Request for Taxpayer Identification Number and Certification) on file, except for specific exceptions such as payments to USI employees or payments to foreign persons. Form W-9 can be found on the IRS website.
+
+Direct Deposit:
+    USI offers the option to receive vendor payments via direct deposit (ACH). This method ensures faster and more secure payment processing. Vendors can enroll in the direct deposit program by completing the ACH Direct Deposit form and submitting it to USI Accounts Payable.
+URL: https://www.usi.edu/business-office/accounts-payable/vendor-information

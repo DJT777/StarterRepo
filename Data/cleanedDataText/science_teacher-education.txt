@@ -1,0 +1,46 @@
+URL: https://www.usi.edu/science/teacher-education
+cleanedDataText/science_teacher-education.txt
+
+URL: https://www.usi.edu/science/teacher-education
+Pott College of Science, Engineering, and Education at USI
+
+Departments:
+- Biology
+- Chemistry and Biochemistry
+- Engineering
+- Geology, Physics, and Environmental Science
+- Kinesiology and Sport
+- Mathematical Sciences
+- Teacher Education
+
+Teacher Education at USI:
+- Focus on preparing practitioners in the field of teaching
+- Teacher candidates gain professional knowledge, skills, and experiences
+- Research-based pedagogical practices that promote well-being in diverse and global settings
+- Emphasis on integrating theory into practice and developing classroom management and pedagogical skills
+- Clinical practice and practical experiences for hands-on learning
+- Contact the USI Teacher Education Department for feedback or questions
+
+Degree Programs:
+- Early Childhood Education
+- Elementary Education
+- Special Education
+- Content Area Minors (Elementary Education, Mathematics Teaching, Science Teaching, etc.)
+- Graduate and Doctoral Programs in Education
+
+Career Opportunities:
+- Pre-kindergarten Teacher
+- K-6 Teacher
+- Special Education Teacher
+- Mathematics Teacher
+- English/Language Arts Teacher
+- Science Teacher
+- Social Studies Teacher
+- Curriculum Specialist
+- Child Care Center Teacher
+- Adult Residential Home Specialist
+- School Principal
+- Curriculum Developer, and more.
+
+For more information, visit the USI website or contact the Pott College of Science, Engineering, and Education.
+URL: https://www.usi.edu/science/teacher-education

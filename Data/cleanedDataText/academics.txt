@@ -1,0 +1,27 @@
+URL: https://www.usi.edu/academics
+cleanedDataText/academics.txt
+
+URL: https://www.usi.edu/academics
+Academics at the University of Southern Indiana (USI)
+
+The University of Southern Indiana offers a wide range of academic programs in various fields. They emphasize experiential learning opportunities such as internships, co-ops, study abroad, and community engagement. USI also offers online degree programs.
+
+To search and filter the academic programs, users can visit the USI website.
+
+Academic Programs:
+
+- College of Liberal Arts
+- Pott College of Science, Engineering, and Education
+- Romain College of Business
+- College of Nursing and Health Professions
+- School of Graduate Studies
+- Online Learning
+- Outreach and Engagement
+- University Division
+
+Students can search for programs by keyword, college, delivery type (on-campus or online), program type, major, minor, and more.
+
+Users can contact USI at 8600 University Blvd or through the provided email address listed on the website.
+
+
+URL: https://www.usi.edu/academics

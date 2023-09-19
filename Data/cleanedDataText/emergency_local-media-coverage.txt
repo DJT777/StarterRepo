@@ -1,0 +1,24 @@
+URL: https://www.usi.edu/emergency/local-media-coverage
+cleanedDataText/emergency_local-media-coverage.txt
+
+URL: https://www.usi.edu/emergency/local-media-coverage
+Local Media Coverage
+
+    Contact Information:
+        Address: 8600 University Blvd
+        Phone: 812-464-8600
+        Email: provided on the site
+
+    Local Media:
+        Evansville Courier & Press
+        Eyewitness News
+        Local WEHT
+        WTVW WFIE Channel 14 - NBC
+        WNIN Channel 9 - PBS
+        WIKY Radio 104.1 FM
+
+    USI Student Media:
+        The Shield
+        The Spin Radio 95.7
+        Access USI
+URL: https://www.usi.edu/emergency/local-media-coverage

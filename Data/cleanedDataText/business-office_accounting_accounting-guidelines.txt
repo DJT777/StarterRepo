@@ -1,0 +1,54 @@
+URL: https://www.usi.edu/business-office/accounting/accounting-guidelines
+cleanedDataText/business-office_accounting_accounting-guidelines.txt
+
+URL: https://www.usi.edu/business-office/accounting/accounting-guidelines
+Business Office Accounting Guidelines
+
+Purpose:
+The purpose of these guidelines is to ensure that lease agreements entered into on behalf of the University of Southern Indiana (USI) comply with the requirements of Governmental Accounting Standards Board Statement No. 87. These guidelines also assist departments in making lease vs buy decisions.
+
+Scope:
+These guidelines apply to all lease agreements with a term greater than 12 months entered into by USI, effective on or after July 1, 2021. This includes service agreements or other contracts that involve the use of another entity's asset in exchange for payment.
+
+Exclusions:
+The following types of leases are excluded from these guidelines:
+- Leases for intangible assets (including computer software)
+- Leases for biological assets (e.g., living plants and animals)
+- Leases for inventory
+- Services concession agreements
+- Short-term leases (maximum term, including renewals, of 12 months or less)
+- Leases that transfer ownership and do not contain termination clauses
+- Leases of assets reported as investments
+- Service contracts (except those with both a lease and service component)
+
+Guidelines for Entering into a Lease with USI as the Lessee:
+- Lease agreements must be reviewed and approved by the appropriate USI personnel before execution.
+- Procurement Services is responsible for reviewing and approving leases on behalf of USI.
+- Financial Managers must notify Procurement Services of any draft contracts containing leases with a term greater than 12 months.
+- A Lease Questionnaire and Lease vs Buy Analysis must be completed by the Financial Manager and submitted to Procurement Services.
+- When leasing is confirmed to be the best option, the lease documentation should be entered into BuyUSI.
+
+Guidelines for Entering into a Lease with USI as the Lessor:
+- Leases are required when USI property is used and controlled by a non-University entity for a period of more than 90 days.
+- Lease agreement proposals should be initiated by the Financial Manager or designated contact from the leasing department.
+- The proposed lease agreement should be reviewed by Risk Management for insurance coverage and risk management considerations.
+- The Business Office Accounting Contact should review the proposed lease agreement for proper accounting treatment.
+- The lease contract should be signed by the Vice President for Finance and Administration or designee.
+- Fully executed lease agreements and any modifications should be sent to Risk Management and the Business Office Accounting Contact.
+
+General Definitions:
+- Lease: A legal contract in which one party gives another party the use and possession of property for a specified time in exchange for periodic payments.
+- Lessee: The party leasing the property.
+- Lessor: The owner or representative of the property being leased.
+- Inception Date: The effective date of the lease.
+- Non-cancelable: Lease terms make the possibility of cancellation by the lessee remote.
+- Lease Term: The period during which USI has the right to use the underlying asset, including any options to extend or terminate the lease.
+- Evergreen Lease: Leases that automatically renew on a day-to-day, week-to-week, month-to-month, or year-to-year basis.
+- Embedded Leases: Lease agreements that exist within other contracts, such as service or advertising agreements, where the lease component is separate from the service component.
+
+Contact:
+Orr Center, OC 0029
+812-464-1967
+Email provided on the site.
+
+URL: https://www.usi.edu/business-office/accounting/accounting-guidelines

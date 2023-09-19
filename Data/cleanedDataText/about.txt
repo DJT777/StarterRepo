@@ -1,0 +1,55 @@
+URL: https://www.usi.edu/about
+cleanedDataText/about.txt
+
+URL: https://www.usi.edu/about
+University of Southern Indiana (USI)
+
+About:
+
+- The appeal of USI: Size, accessibility of professors, beautiful environment, innovative housing, proximity to an urban center, friendliness of students, employees, and the community, affordability, and value.
+- Founded in 1965.
+- Enrollment: Nearly 9,200 dual credit, undergraduate, and graduate students.
+- Located on a 1,400-acre campus in Evansville, Indiana.
+- Programs offered through the College of Liberal Arts, Romain College of Business, College of Nursing and Health Professions, Pott College of Science, Engineering, and Education, and School of Graduate Studies.
+- Carnegie Foundation Community Engaged University.
+- Offers continuing education and special programs through Outreach and Engagement.
+- Study-abroad opportunities in over 60 countries.
+- Offers 19 varsity intercollegiate sports in NCAA Division I and the Ohio Valley Conference.
+- Dr. Ronald S. Rochon serves as the fourth president.
+
+Academics & Outcomes:
+
+- Enrollment Areas of Study
+- Average Class Size
+- Student Organizations
+- Alumni
+- Student Demographics:
+    - Undergraduate: 75%
+    - Graduate: 25%
+    - Full-time: 82%
+    - Part-time: 18%
+    - Women: 64%
+    - Men: 36%
+    - In-state: 77%
+    - Out-of-state: 23%
+    - Minority and International: 17%
+    - Fall 2022 enrollment: Students from 88 Indiana counties, 47 states, and 36 countries
+
+Vision and Mission:
+
+- Vision: To be a recognized leader in higher education, shaping the future and transforming the lives of students through exceptional learning and intentional innovation.
+- Mission: To provide an educated citizenry that engages civilly in a community with diverse ideas and cultural differences. To prepare students to lead, make positive contributions to the state and communities, and be lifetime learners in a diverse and global society.
+
+Strategic Plan (2021-2025) - Accelerating Impact:
+
+- Improve Student Success
+- Foster Impactful Engagement
+- Elevate Visibility and Reputation
+- Strengthen Financial Viability
+
+Contact Information:
+
+Address: 8600 University Blvd, Evansville, IN 47712
+Phone: 812-464-8600
+Website: www.usi.edu
+URL: https://www.usi.edu/about

@@ -1,0 +1,96 @@
+URL: https://www.usi.edu/science/chemistry/instrumentation
+cleanedDataText/science_chemistry_instrumentation.txt
+
+URL: https://www.usi.edu/science/chemistry/instrumentation
+Pott College of Science, Engineering, and Education - Instrumentation
+
+Faculty:
+
+Faculty members specializing in Instrumentation.
+
+Program Objectives and Student Outcomes:
+
+Program objectives and outcomes for the Instrumentation program.
+
+Student Organizations:
+
+Student organizations related to the Instrumentation program.
+
+Student Resources:
+
+Resources available for students in the Instrumentation program.
+
+Advising Information:
+
+Information about academic advising for Instrumentation students.
+
+Instrumentation:
+
+Details about the instruments used in the Instrumentation program.
+
+Faculty Research:
+
+Information about research conducted by faculty members in the Instrumentation program.
+
+Student Research:
+
+Details about research projects carried out by students in the Instrumentation program.
+
+Contact:
+
+Contact information for the Instrumentation department.
+
+NMR Spectroscopy:
+
+Details about the NMR Spectroscopy equipment available, including the JEOL 400 MHz ECS and Varian E360.
+
+Atomic Spectroscopy:
+
+Information about the Atomic Spectroscopy equipment, including Agilent Technologies 4200-Microwave Plasma Atomic Emission Spectroscopy and Varian SpectrAA 220/FS Atomic Absorption Spectrometer.
+
+Infrared Spectroscopy:
+
+Details about the Infrared Spectroscopy equipment, including Bruker, Perkin-Elmer Spectrum 2, and Nicolet Nexus 670.
+
+Raman Spectroscopy:
+
+Information about the Raman Spectroscopy equipment, including Horiba MacroRAM.
+
+UV-Vis-NIR Spectroscopy:
+
+Details about the UV-Vis-NIR Spectroscopy equipment, including Agilent Technologies Cary Series 5000 UV-VIS-NIR and Varian Cary 300 Bio.
+
+Liquid Chromatography:
+
+Information about the Liquid Chromatography equipment, including Dionex UltiMate 3000 UHPLC and Agilent HP 1100's and HP 1090's.
+
+Gas Chromatography/Mass Spectrometry:
+
+Details about the Gas Chromatography/Mass Spectrometry equipment, including Agilent 7890B Series GC and 5977B EI MSD.
+
+Fluorescence Spectroscopy:
+
+Information about the Fluorescence Spectroscopy equipment, including Horiba Fluoromax Plus and Horiba Fluoromax 4.
+
+Thermal Analysis:
+
+Details about the Thermal Analysis equipment, including Thermogravimetric Analysis (TGA-50) and Differential Scanning Calorimeters.
+
+Inert/Dry Reaction:
+
+Information about the Inert/Dry Reaction equipment, including Inert Atmosphere Glove Box and Solvent Purification System.
+
+Microwave Digester:
+
+Details about the Microwave Digester equipment, including Milestone Microwave Lab Systems.
+
+Cyclic Voltammetry:
+
+Information about the Cyclic Voltammetry equipment, including BASi Eplison EClipse.
+
+Contact:
+
+Contact information for the Chemistry and Biochemistry department.
+
+In summary, the Pott College of Science, Engineering, and Education offers a variety of programs and resources related to Instrumentation, and students can access various equipment and technologies for their studies and research in the field.
+URL: https://www.usi.edu/science/chemistry/instrumentation

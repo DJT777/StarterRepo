@@ -1,0 +1,42 @@
+URL: https://www.usi.edu/science/mathematical-sciences/student-resources
+cleanedDataText/science_mathematical-sciences_student-resources.txt
+
+URL: https://www.usi.edu/science/mathematical-sciences/student-resources
+Pott College of Science, Engineering, and Education
+
+Departments:
+
+    Biology
+    Chemistry and Biochemistry
+    Engineering
+    Geology, Physics, and Environmental Science
+    Kinesiology and Sport
+    Mathematical Sciences
+    Teacher Education
+    Pre-Professional Studies
+
+Mathematical Sciences Department:
+
+    Programs: Statistics
+    Program Outcomes and Objectives
+    Scholarships and Aid
+    Faculty
+    Student Resources
+    Student Organizations
+    Awards and Recognition
+    USI Bulletin
+    Advising Information
+    NExIDE Scholarship Program
+
+Mathematica:
+
+    USI uses Mathematica in many classes.
+    Useful information is available directly from Wolfram Research.
+    Availability on campus:
+        Computer labs: ED2102, OR2004, SC3220, SC3221
+        Mathematics Student Study Room, Rice Library
+        Some dorms, personal student computers
+    University of Southern Indiana students can download a student version of Mathematica for free. Instructions are available in the provided document.
+
+For more information, contact: 8600 University Blvd, Evansville, IN 47712, Phone: 812-464-8600.
+URL: https://www.usi.edu/science/mathematical-sciences/student-resources

@@ -1,0 +1,40 @@
+URL: https://www.usi.edu/science/teacher-education/reports
+cleanedDataText/science_teacher-education_reports.txt
+
+URL: https://www.usi.edu/science/teacher-education/reports
+
+
+Pott College of Science, Engineering, and Education
+
+    Departments:
+        - Biology
+        - Chemistry and Biochemistry
+        - Engineering
+        - Geology, Physics, and Environmental Science
+        - Kinesiology and Sport
+        - Mathematical Sciences
+        - Teacher Education
+        - Pre-Professional Studies
+
+Teacher Education Department
+
+    Accreditation:
+        - The Educator Preparation Provider (EPP) at the University of Southern Indiana is accredited by the Council for the Accreditation of Educator Preparation.
+        - The Teacher Education Department is the hub of the EPP, overseen by the Dean of the Pott College of Science, Engineering, and Education.
+
+Reports and Dashboards:
+
+    CAEP Dashboard: Online tool sharing data on USI's progress in increasing the quantity and quality of educators.
+    Title II Reports: Reports reflecting the quality of the teacher preparation program.
+    Educator Preparation Program Report: Annual report required by the Indiana Department of Education, including licensure test data, candidate GPA data, attrition/retention/completion data, principal/employer satisfaction data, teacher/alumni satisfaction data, and teacher effectiveness data.
+
+Contact Information:
+
+    Location: Education Center, ED 3114
+    Phone: 812-465-7024
+    Email provided on the site.
+
+Social Media Channels:
+
+    Facebook, TikTok, YouTube, Instagram.
+URL: https://www.usi.edu/science/teacher-education/reports

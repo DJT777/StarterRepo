@@ -1,0 +1,58 @@
+URL: https://www.usi.edu/library
+cleanedDataText/library.txt
+
+URL: https://www.usi.edu/library
+David L. Rice Library
+
+- PageForward Newsletter Spring 2023
+- Rice Library Testing Center
+
+Contact Information:
+- Phone: 812-464-1913
+- Email: [email]
+
+Services:
+- Ask a Librarian
+- Borrow and Renew
+- Course Reserve Form
+- Interlibrary Loan
+- Instruction
+- Library Account
+- Recommend a Purchase
+- Rice Library Testing Center
+- Streaming Classroom Resources
+- Scholarly Communication
+- Technology & Printing
+
+Help:
+- Ask Us
+- Citing Sources
+- Copyright and Fair Use
+- Research Guides
+
+University Archives:
+- University Archives Home
+- University Archives Appointments
+- AmUSIng Artifacts (Blog)
+
+Library Events:
+- Library Workshops
+- Book the Library (Reserve Study Space, Visit University Archives)
+
+Search Options:
+- FIND Catalog
+- Course Reserves
+- Databases
+- DOI Search
+- Journals
+- Research Guides
+- Search Everything
+- SOAR (Scholarly Open Access Repository)
+- University Archives and Special Collections
+
+About the Library:
+- Hours
+- Library Directory
+- PageForward Newsletter
+- Policies
+URL: https://www.usi.edu/library

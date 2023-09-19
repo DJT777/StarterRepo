@@ -1,0 +1,35 @@
+URL: https://www.usi.edu/dean-of-students
+cleanedDataText/dean-of-students.txt
+
+URL: https://www.usi.edu/dean-of-students
+Dean of Students Office (DOSO)
+
+    Responsibilities:
+        CARE Team Reporting and Response
+        Student Conduct
+        Student Rights and Responsibilities
+        Alcohol and Drugs Policies
+        Academic Integrity
+        Community Standards
+        Safety and Wellness Resources
+        Religious and Cultural Observances
+
+    Contact Information:
+        Location: University Center East, Room UC 1256
+        Phone: 812-464-1862
+        Email: Provided on the site
+
+    Website:
+        Provides information about the office, staff, campus services, resources, involvement opportunities, and campus policies.
+        Offers assistance and connections to campus resources for students in need.
+        Features the Campus Action Response and Engagement (CARE) Team, which assesses and responds to reports about students in crisis or exhibiting concerning behavior.
+        Provides a CARE Team report form on the website.
+        Contains additional resources, forms, and contact information.
+
+    Dr. Laurie A. Berry:
+        Dean of Students.
+        Welcomes students to USI and the DOSO.
+        Expresses the office's commitment to assisting students in achieving their education and personal goals.
+        Encourages students to visit the office for guidance and support.
+        Location: First floor of the University Center East, room UC 1256.
+URL: https://www.usi.edu/dean-of-students

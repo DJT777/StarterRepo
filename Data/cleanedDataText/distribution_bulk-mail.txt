@@ -1,0 +1,55 @@
+URL: https://www.usi.edu/distribution/bulk-mail
+cleanedDataText/distribution_bulk-mail.txt
+
+URL: https://www.usi.edu/distribution/bulk-mail
+USI Distribution Services
+
+    Services Offered:
+
+        Mail Preparation & Processing (Bulk Mail): Supports the marketing efforts of the University by preparing mass mailings designed by various colleges, departments, and programs.
+        Secure Warehousing & Fulfillment Services: Provides secure warehousing and fulfillment services.
+        Distribution: Collection & Delivery Services and Outbound Shipment Processing Services.
+
+    Contact Information:
+
+        Phone: 812-464-1823
+        Email: Provided on the site
+
+    Bulk Mailing Requirements:
+
+        Approval of proposed content by Distribution Services prior to printing.
+        Minimum volume of 200 pieces or 15 pounds.
+        Presort of the mailing list by Distribution Services prior to addressing (not the same as zip order).
+        NCOA address changes appended to the mailing list by Distribution Services prior to addressing.
+        Address must contain a USPS compliant barcode.
+        Contact Distribution Services prior to printing any "pre-addressed components" for mailing at bulk prices.
+
+    List Processing:
+
+        Utilizes specialized software to process lists and qualify for USPS postage discounts.
+        Provides presort services and National Change of Address (NCOA) services for each required mailing.
+        List data should be provided in CSV or Excel format.
+
+    Folding, Inserting, and Sealing:
+
+        Specialized equipment for various fold configurations, such as single and tri-folds.
+        Folded products and additional components can be stuffed and sealed into shipping envelopes.
+        Stand-alone folding or combined with inserting process.
+        Address positioning on printed sheet critical for delivery.
+
+    Tabbing:
+
+        Specialized equipment for tabbing and mailing self-mailer types of products.
+
+    Address Imaging:
+
+        High-speed inkjet imaging equipment for addressing mailings.
+        Additional imaging devices for printing postal permit indicia information.
+
+    Pricing:
+
+        Pricing varies based on volume and complexity.
+        Pricing effective as of July 1, 2016.
+
+For more information and specific inquiries, contact USI Distribution Services.
+URL: https://www.usi.edu/distribution/bulk-mail

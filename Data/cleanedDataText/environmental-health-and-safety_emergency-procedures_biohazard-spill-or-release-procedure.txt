@@ -1,0 +1,38 @@
+URL: https://www.usi.edu/environmental-health-and-safety/emergency-procedures/biohazard-spill-or-release-procedure
+cleanedDataText/environmental-health-and-safety_emergency-procedures_biohazard-spill-or-release-procedure.txt
+
+URL: https://www.usi.edu/environmental-health-and-safety/emergency-procedures/biohazard-spill-or-release-procedure
+Biohazard Spill or Release Procedure
+
+Introduction:
+A biohazardous spill/release refers to the unplanned release of potentially infectious material into the work environment. It is crucial to respond properly to these incidents to ensure personnel and community safety and prevent environmental contamination.
+
+Evaluation:
+1. Determining Need for Outside Assistance:
+    - Spill Volume: Generally, spills greater than 1 liter require outside assistance for clean-up.
+    - Surface Area Contaminated: Consider the amount of surface area affected.
+    - Surface Type: Evaluate if the surface is porous or vinyl.
+    - Volume and Source of Material: Take into account the volume of material and its source (e.g., crime scene, injured person).
+
+Response:
+
+1. Indoor Spills:
+   - Housekeeping personnel are trained and equipped to clean and decontaminate indoor biohazard spills.
+
+2. Outdoor Spills:
+   - Grounds personnel are trained and equipped to clean and decontaminate outdoor biohazard spills.
+
+3. Spills Beyond Our Control:
+   - If the spill is greater than 1 liter or in special circumstances, USI has a contract with an outside environmental company to respond to biohazard spills.
+   - Coordinate efforts through Environmental Health and Safety.
+   - In case of a biological spill or release in your immediate area, contact Security at 7777 or 464-1865.
+
+Additional Resources:
+
+- USI Bloodborne Pathogens Information
+- EPA Hazardous Materials Emergency Handling Guide
+
+Contact: 8600 University Blvd, Evansville, IN 47712
+Phone: 812-464-8600
+Email provided on the site.
+URL: https://www.usi.edu/environmental-health-and-safety/emergency-procedures/biohazard-spill-or-release-procedure

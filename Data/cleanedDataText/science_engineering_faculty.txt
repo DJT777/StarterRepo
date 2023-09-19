@@ -1,0 +1,61 @@
+URL: https://www.usi.edu/science/engineering/faculty
+cleanedDataText/science_engineering_faculty.txt
+
+URL: https://www.usi.edu/science/engineering/faculty
+Pott College of Science, Engineering, and Education
+
+Departments:
+
+- Biology
+- Chemistry and Biochemistry
+- Engineering
+- Geology, Physics, and Environmental Science
+- Kinesiology and Sport
+- Mathematical Sciences
+- Teacher Education
+- Pre-Professional Studies
+
+Engineering Programs:
+
+- Degrees and Programs
+- Program Educational Objectives & Student Outcomes
+- Scholarships and Aid
+- Faculty Awards and Recognition
+- Advising Information
+- Engineering Student Resources
+- Why Engineering at USI?
+- USI Bulletin (Course Catalog)
+
+Engineering Faculty:
+
+- Dr. Paul A. Kuban (Chair of Engineering Department, Professor of Engineering)
+- Mrs. Jamie R. Curry (Senior Administrative Assistant)
+- Mr. Justin M. Amos (Lab Manager)
+- Mr. Stephen R. Baim (Adjunct - Engineering)
+- Dr. Nicole L. Becklinger (Assistant Professor of Engineering)
+- Dr. Amy B. Chan Hilton (Adjunct - Engineering, Director of Center for Excellence in Teaching and Learning, Director of the Office of Sponsored Projects and Research Administration, Professor of Engineering)
+- Dr. Arthur L. Chlebowski (Associate Professor of Engineering)
+- Dr. Julian L. Davis (Associate Professor of Engineering)
+- Dr. Ronald W. Diersing (Associate Professor of Engineering)
+- Dr. Daniel T. Elg (Assistant Professor of Engineering)
+- Mr. David J. Ellert (Instructor in Engineering)
+- Dr. Susan J. Ely (Assistant Professor of Engineering, Director of Manufacturing Engineering Technology and Industrial Supervision)
+- Dr. Brandon S. Field (Associate Professor of Engineering, Director of Mechanical Engineering)
+- Dr. Kerry S. Hall (Associate Professor of Engineering)
+- Dr. Andrew J. Hill (Associate Professor of Engineering)
+- Dr. Ryan A. Integlia (Associate Professor of Engineering)
+- Mr. Bradley L. Kicklighter (Clinical Associate Professor of Engineering Technology)
+- Dr. Glen J. Kissel (Associate Professor of Engineering)
+- Dr. Jenna L. Kloosterman (Assistant Professor of Engineering)
+- Dr. Paul A. Kuban (Chair of Engineering Department, Professor of Engineering)
+- Dr. Marco A. Lara Gracia (Professor of Engineering)
+- Dr. Thomas N. McDonald (Professor of Engineering)
+- Dr. Zane W. Mitchell, Jr. (Professor of Engineering)
+- Mr. M. Kevin Nelson (Clinical Assistant Professor of Engineering Technology, Program Coordinator of Advanced Manufacturing)
+- Dr. Todd G. Nelson (Assistant Professor of Engineering)
+- Dr. Milad Rezvani-Rad (Assistant Professor of Engineering)
+- Dr. Adam G. Tennant (Associate Professor of Engineering)
+
+Contact: 8600 University Blvd, Evansville, IN 47712
+Phone: 812-464-8600
+URL: https://www.usi.edu/science/engineering/faculty

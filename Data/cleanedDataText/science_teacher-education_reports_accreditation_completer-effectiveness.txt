@@ -1,0 +1,45 @@
+URL: https://www.usi.edu/science/teacher-education/reports/accreditation/completer-effectiveness
+cleanedDataText/science_teacher-education_reports_accreditation_completer-effectiveness.txt
+
+URL: https://www.usi.edu/science/teacher-education/reports/accreditation/completer-effectiveness
+Pott College of Science, Engineering, and Education
+
+Teacher Education
+
+    Faculty
+    Program Admission
+    Program Objectives and Student Outcomes
+    Advising Information and Student Resources
+    Degree Programs for Current Educators
+    Student Organizations
+    Reports
+
+Accreditation
+
+    Educator Preparation Programs
+    Completer Effectiveness
+    Completer Ability to be Hired
+    Stakeholder Satisfaction
+    Competency at Completion
+
+Teacher Effectiveness and Teacher Impact on P-12 Student Learning (CAEP Accountability Measure 1)
+
+The University of Southern Indiana complies with Indiana legislation (IC20-28-11.5-9) requiring school corporations/districts to provide annual disaggregated results of staff performance evaluations to the Indiana Department of Education (IDOE). The legislation mandates that locally developed evaluation instruments include objective measures of student achievement and growth in both tested and non-tested areas, as well as rigorous measures of effectiveness.
+
+Evaluation results for first, second, and third year teachers are linked to the teacher preparation institution that provided their training. The positive evaluation results of program completers show that completers positively impact P-12 student learning and effectively apply the professional knowledge, skills, and dispositions gained from their preparation experiences.
+
+Report Year      | Data collection year | Percent of USI completers rated effective or highly effective | Percent of Indiana completers rated effective or highly effective
+Fall 2022             | 2020-2021                       | 98% (n=179)                                                                        | 95% (n=3560)
+Fall 2021             | 2019-2020                       | 97% (n=214)                                                                        | 98% (n=4671)
+Fall 2020             | 2018-2019                       | 99% (n=252)                                                                        | 98% (n=4596)
+Fall 2019             | 2017-2018                       | 96% (n=253)                                                                        | 96% (n=5566)
+Fall 2018             | 2016-2017                       | 97% (n=275)                                                                        | 95% (n=9172)
+
+For more details, click the file titles below:
+
+- Fall 2022 Teacher Effectiveness Data
+- Fall 2021 Teacher Effectiveness Data
+- Fall 2020 Teacher Effectiveness Data
+- Fall 2019 Teacher Effectiveness Data
+- Fall 2018 Teacher Effectiveness Data
+URL: https://www.usi.edu/science/teacher-education/reports/accreditation/completer-effectiveness

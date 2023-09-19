@@ -1,0 +1,33 @@
+URL: https://www.usi.edu/disability-resources/current-student-information
+cleanedDataText/disability-resources_current-student-information.txt
+
+URL: https://www.usi.edu/disability-resources/current-student-information
+Disability Resources at the University of Southern Indiana (USI)
+
+    Current Student Information:
+        Resources and services offered by Disability Resources to current students.
+        Guidelines for requesting professor letters for the current semester.
+        Accommodations for students with temporary disabilities.
+
+    Documentation Guidelines:
+        Guidelines for providing documentation of disabilities.
+        Verification of Disability Form (PDF).
+        Information on scheduling exams, requesting sign language interpreters or CART, and alternative textbooks.
+        Temporary Disability Parking Permit.
+
+    Disability Related Services:
+        Information on how to request services from Disability Resources.
+        Completion of Request for Accommodations form.
+        Accommodation letters for professors.
+        Grievance process for disability-related concerns.
+        Test and exam accommodations, including ETS/Praxis accommodations.
+
+    Contact Information:
+        Email address for Disability Resources.
+        Social media links for current student information.
+
+    Epi-Hab Scholarship:
+        Announcement of the release of information for the 2023-2024 Epi-Hab scholarship.
+
+
+URL: https://www.usi.edu/disability-resources/current-student-information

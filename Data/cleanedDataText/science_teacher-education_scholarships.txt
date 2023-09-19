@@ -1,0 +1,91 @@
+URL: https://www.usi.edu/science/teacher-education/scholarships
+cleanedDataText/science_teacher-education_scholarships.txt
+
+URL: https://www.usi.edu/science/teacher-education/scholarships
+Pott College of Science, Engineering, and Education Scholarships
+
+Scholarship Opportunities:
+
+    Alfred and Margie R. Kinder Endowed Teacher Education Scholarship
+        Number of Awards: 2
+        Amount: $2600
+        Criteria: For teachers enrolled in the master's degree program at the University of Southern Indiana. Not awarded to graduating seniors.
+    
+    Andrea M. Fuquay Memorial Scholarship
+        Number of Awards: 7
+        Amount: $2000
+        Criteria: For students who have experienced the death of one or both parents, U.S. citizens, full-time education majors with a 3.0 GPA. Renewable for up to three additional years with a 3.0 GPA.
+    
+    Bower-Suhrheinrich Endowment for Teaching Excellence Graduate Scholarship
+        Number of Awards: 24
+        Amount: $1500
+        Criteria: For teachers beginning a master's degree program in education. Not automatically renewable but may be awarded again if deemed eligible.
+    
+    Cobb-Brittain Scholarship
+        Number of Awards: 1
+        Amount: $500
+        Criteria: For deserving education majors pursuing an associate or bachelor's degree in early childhood education. Must have completed at least 24 hours of college coursework toward the degree. Need-based.
+    
+    Elaine C. Schwartz Scholarship for Future Educators
+        Number of Awards: 2
+        Amount: $1100
+        Criteria: Priority given to married students and graduates of Central High School with a minimum high school GPA of 2.8. Must be an education major or minor with priority given to elementary education. Renewable for up to three additional years with a cumulative GPA of 3.0 and a successful completion rate of 66% of classes attempted.
+    
+    Evansville Area Early Childhood Scholarship (EAECA)
+        Number of Awards: 1
+        Amount: $500
+        Criteria: For deserving education majors working in the field of early childhood with three years of experience as an early childhood professional. Must demonstrate a commitment to professional development.
+    
+    Evansville Retired Teachers Association Scholarship
+        Number of Awards: 2
+        Amount: $1500
+        Criteria: For deserving education majors from Gibson, Posey, Vanderburgh, or Warrick counties with personality and leadership potential. One-time non-renewable scholarship awarded to current sophomore or junior education majors.
+    
+    Helen M. Bamberger Memorial Scholarship
+        Number of Awards: 9
+        Amount: $1000
+        Criteria: For juniors or seniors with strong writing skills, a keen interest in teaching, and involvement in community activities. Renewable for one additional year.
+    
+    Jennifer & Mark Dewitt Browning Education Scholarship
+        Number of Awards: 1
+        Amount: $1200
+        Criteria: To recruit and retain a student from Evansville, Indiana, with a high school GPA of 3.0 or higher who plans a career in teaching. Renewable for three additional years with a 3.0 GPA.
+    
+    Kappa Delta Pi Scholarship
+        Number of Awards: 1
+        Amount: $1000
+        Criteria: For a promising education major with a special education minor. May be re-awarded but not automatically renewable.
+    
+    Phi Delta Kappa Prospective Educator Award
+        Number of Awards: 1
+        Amount: $500
+        Criteria: For a sophomore or higher with a scholarship, interest in teaching/professional education as a career, and involvement in school and community activities.
+    
+    Roy G. & Marguerite Long Memorial Scholarship
+        Number of Awards: 1
+        Amount: $500
+        Criteria: For a Bosse High School senior with a minimum 3.0 GPA planning to enter math education, education, a math-related career, or other. Automatically renewable with a minimum 3.0 GPA.
+    
+    Student National Education Association Scholarship
+        Number of Awards: 1
+        Amount: $500
+        Criteria: For a member of the Student Education Association demonstrating scholastic excellence and involvement in school and community activities.
+    
+    Teaching Eagles Scholarship Program
+        Information: Program designed to recruit science and mathematics teacher candidates from STEM majors (Secondary Teaching Eagles) and education majors who want to minor in mathematics or science (Elementary Teaching Eagles).
+    
+    Three Arts Club Scholarship
+        Number of Awards: 1
+        Amount: $500
+        Criteria: Awarded by the Three Arts Club every other year. Female upper-class student enrolled in education. Recipient must have graduated from Evansville Vanderburgh School Corporation. Not renewable, but possibly re-awarded.
+    
+    William E. and Rebecca N. Couch Scholarship
+        Number of Awards: 31
+        Amount: $1000
+        Criteria: Education majors who graduated in the top 15% of their high school class. Automatically renewable if full-time student maintains a 3.0 cumulative GPA.
+    
+Graduate Education Scholarships:
+
+    Aline Nunn Renner Non-traditional Scholarship: For bright deserving education majors.
+    Bower-Suhrheinrich Endowment for Teaching Excellence Graduate Scholarship: For teachers completing a graduate program in education.
+URL: https://www.usi.edu/science/teacher-education/scholarships

@@ -1,0 +1,92 @@
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/procedures-for-safely-opening-packages-containing-radioactive-material
+cleanedDataText/science_geology-and-physics_physics_physics-and-astronomy-resources_procedures-for-safely-opening-packages-containing-radioactive-material.txt
+
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/procedures-for-safely-opening-packages-containing-radioactive-material
+Procedures for Safely Opening Packages Containing Radioactive Material
+
+Pott College of Science, Engineering, and Education
+
+Location: Science Center 2214
+Phone: 812-461-5326
+Email: [email]
+
+APPENDIX A
+
+1. Package Monitoring:
+
+   - Packages will be monitored for surface contamination and external radiation levels.
+   - Monitoring will be done within 3 hours after receipt during working hours or within 18 hours if received after working hours.
+   - Shipments of liquids greater than exempt quantities will be tested for leakage.
+   - Action limits for package monitoring are as follows:
+
+     - Radioactive Material Packages:
+       - "Radioactive-White I" label:
+         - Dose rate limit on accessible surface of package: 0.5 mR/hr
+         - Dose rate limit at three feet from external surface of package: 0 mR/hr
+
+       - "Radioactive-Yellow II" label:
+         - Dose rate limit on accessible surface of package: 50 mR/hr
+         - Dose rate limit at three feet from external surface of package: 1.0 mR/hr
+
+       - "Radioactive-Yellow III" label:
+         - Dose rate limit on accessible surface of package: 200 mR/hr
+         - Dose rate limit at three feet from external surface of package: 10 mR/hr
+
+2. Opening Packages:
+
+   - Put on gloves to prevent hand contamination.
+   - Visually inspect package for any sign of damage (e.g., wetness, crushed).
+     - If damage is noted, stop the procedure and notify the Radiation Safety Officer (RSO).
+   - Open the package following these steps:
+
+     1) Open the outer package (follow manufacturer's directions, if provided) and remove the packing slip.
+     2) Open the inner package and verify that the contents match those on the packing slip.
+        - Compare the requisition, packing slip, and label on the bottle.
+     3) Check the integrity of the final source container.
+        - Inspect for breakage of seals or vials, loss of liquid, and discoloration of packaging material.
+     4) Check that the shipment does not exceed possession limits.
+   - Monitor the packing material and packages for contamination before discarding.
+     - If contaminated, treat as radioactive waste.
+     - If not contaminated, obliterate radiation labels before discarding in regular trash.
+
+3. Record Keeping:
+
+   - Maintain records of the results of checking each package using the "Radioactive Shipment Receipt/Usage Report."
+   
+    RADIOACTIVE SHIPMENT RECEIPT/USAGE REPORT
+    1. ISOTOPE__________ ACTIVITY__________(mCi, μCi) Volume________(L, mL)
+    2. P.O. No.______________________ Survey Date_________________ Time_________
+       Surveyor___________________________ Signature____________________________
+    3. CONDITION OF PACKAGE
+       Comment_______________________________________________________________
+    4. RADIATION UNITS OF LABEL ______________________________Units (mR/hr)
+       Label: White I______ Yellow II______ Yellow III______
+    5. MEASURED RADIATION LEVELS
+       a. Package Surface _____________mR/hr
+       b. Three feet from surface ____________mR/hr
+    6. DO PACKING SLIP AND CONTENTS AGREE?
+       a. Radionuclide _____yes _____no, Difference_____________________
+       b. Amount _____yes _____no, Difference_____________________
+       c. Chemical Form _____yes _____no, Difference_____________________
+    7. IF NRC/CARRIER NOTIFICATION REQUIRED, GIVE TIME, DATE, AND PERSONS NOTIFIED.
+
+   - Material Usage:
+     - Disposal Method/Place
+     - User
+     - Date
+     - Quantity Used
+     - Quantity Remaining
+     - Experiment
+     - Swipe Test
+     - Solid
+     - Liquid
+
+Contact Information:
+   - Location: Science Center 2214
+   - Phone: 812-461-5326
+   - Email: [email]
+
+For more information, visit the Pott College of Science, Engineering, and Education on Facebook.
+
+
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/procedures-for-safely-opening-packages-containing-radioactive-material

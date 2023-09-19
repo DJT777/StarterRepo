@@ -1,0 +1,62 @@
+URL: https://www.usi.edu/business-office/accounting/grant-accounting
+cleanedDataText/business-office_accounting_grant-accounting.txt
+
+URL: https://www.usi.edu/business-office/accounting/grant-accounting
+Grant Accounting
+
+    - Business Office Accounting
+        - Financial Managers
+        - Grant Accounting
+        - Property Accounting
+        - Monthly Reports
+        - Forms and Documents
+        - Accounting Guidelines
+
+    Grant Accounting Contact:
+        - Orr Center, OC 0029
+        - Phone: 812-464-1967
+        - Email provided on the site.
+
+- Pre-award Administration:
+    - All activities before accepting a grant award.
+    - Administered by the Sponsored Research Office.
+
+- Post-award Administration:
+    - Begins after accepting a grant award.
+    - Administered by the Accounting Office.
+    - Provides services such as:
+        - Creation of unique funds to track accounting activity of sponsored projects, including cost sharing funds.
+        - Preparation and submission of grant billings, invoices, or requests for funds.
+        - Preparation and submission of financial reports and financial portions of project reports.
+        - Examination of monthly accounting activity to assist financial managers and ensure compliance with regulations.
+        - Evaluation of account balances to validate classifications and identify trends.
+
+- Handling Grant Payments:
+    - All payments to the University of Southern Indiana, including grant-related income, should be sent to the Bursar's Office.
+    - Grant funds routed elsewhere on campus by a granting agency should be promptly delivered to the Bursar's Office according to the University's cash handling policy.
+
+- Requesting Grant Funds:
+    - Requests for funds should be directed to the accounting contact assigned to the college or department.
+    - The Accounting Office works with the Sponsored Research Office to gather necessary information and notify when the fund is ready.
+
+- Grant Reports:
+    - Financial reports and financial portions of grant reports must be completed by the accounting contact assigned to the grant and submitted to the granting agency by the Business Office.
+    - Narrative reports without financial information are submitted by the principal investigator or project director.
+
+- Cost Sharing:
+    - Refers to costs related to sponsored projects or programs contributed by the University or a third party other than the granting agency.
+    - Cash contributions: Costs directly related to the project absorbed by another University fund.
+    - In-kind contributions: Non-cash contributions of goods or services by a third party.
+    - Mandatory cost sharing: Required by the agency.
+    - Voluntary cost sharing: Offered in the proposal budget or narrative and becomes mandatory if the proposal is accepted and the grant is awarded.
+    - Eligible cost sharing expenditures must meet criteria outlined in the Office of Management and Budget Circular A-110.
+
+- Cost Transfers:
+    - Occur when expenses originally allocated to one fund/orgn are moved to another by journal entry or payroll reallocation.
+    - Cost transfers should be avoided as they may indicate weak internal controls or unreliable accounting systems.
+    - Requests for cost transfers must be made within 90 days of the transaction and must include sufficient explanation justifying the need for the transfer.
+
+- Contact Information:
+    - Accounting contact for fund and orgn should be contacted for grant-related inquiries.
+    - Contact information available on the Financial Manager Spreadsheet.
+URL: https://www.usi.edu/business-office/accounting/grant-accounting

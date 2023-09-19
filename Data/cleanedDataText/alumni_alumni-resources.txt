@@ -1,0 +1,26 @@
+URL: https://www.usi.edu/alumni/alumni-resources
+cleanedDataText/alumni_alumni-resources.txt
+
+URL: https://www.usi.edu/alumni/alumni-resources
+USI Alumni Resources
+
+    About Alumni:
+        Information about the USI alumni community.
+
+    Alumni Resources:
+        Screagles Mentoring Program: Connect with current students and provide guidance and support.
+        Volunteer USI: Opportunities to volunteer and give back to the university.
+        Update Your Information: Keep your contact details up to date.
+        Refer a Student: Recommend prospective students to USI.
+        Alumni Testimonials: Share your experiences as a USI alum.
+        Invest in our University: Contribute to the growth and development of USI.
+        USI License Plate: Show your USI pride on your vehicle.
+        Social Media: Connect with USI alumni on Facebook, Twitter, Instagram, and LinkedIn.
+
+    Contact:
+        University Center West
+        Phone: 812-464-1924
+        Email provided on the site.
+
+    As an alumnus/alumna of USI, you can stay connected and engaged with your alma mater. The university offers various resources to support your professional development, networking, job opportunities, and reconnecting with fellow alumni. You can update your contact information, request records, join the Screagle Mentoring Program, donate to the USI Foundation, and more. The alumni page serves as a comprehensive hub to meet all your alumni needs.
+URL: https://www.usi.edu/alumni/alumni-resources

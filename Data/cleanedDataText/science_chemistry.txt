@@ -1,0 +1,77 @@
+URL: https://www.usi.edu/science/chemistry
+cleanedDataText/science_chemistry.txt
+
+URL: https://www.usi.edu/science/chemistry
+Chemistry and Biochemistry Department at USI
+
+Mission: The Chemistry and Biochemistry Department at USI aims to provide students with exceptional educational opportunities, a curriculum accredited by the American Chemical Society, and a stimulating learning environment. Through close interactions with faculty, access to state-of-the-art equipment, and direct involvement in experimentation and research, students are encouraged to learn and grow as scientists.
+
+Programs Offered:
+
+    Majors:
+        - Biochemistry (ACS Approved)
+        - Chemistry (ACS Approved)
+        - Biochemistry (Non-ACS Approved)
+        - Chemistry (Non-ACS Approved)
+        - Science Teaching
+
+    Minors:
+        - Biochemistry
+        - Chemistry
+        - Science Teaching, Elementary Education
+
+    Pre-Professional Studies:
+        - Pre-Dentistry
+        - Pre-Medicine
+        - Pre-Optometry
+        - Pre-Pharmacy
+        - Pre-Physician Assistant
+        - Pre-Veterinary
+
+    Undergraduate Certificates:
+        - Pre-Medical Sciences
+
+Curriculum and Learning Environment:
+
+    Accreditation: The curriculum is accredited by the American Chemical Society.
+    Student-to-Faculty Ratio: Small student-to-faculty ratio ensures personalized attention and interaction.
+    Professor-Taught Classes: Courses are taught by professors, promoting a high-quality learning experience.
+    Research Opportunities: Students have access to state-of-the-art equipment and participate in experimentation and research.
+    Networking: Attending seminars and chemistry meetings allows students to network early in their careers.
+
+Faculty and Student Resources:
+
+    Advising Information
+    Instrumentation
+    Faculty Research
+    Student Research
+    Student Organizations
+
+Careers and Alumni:
+
+    Careers: Graduates from the Chemistry and Biochemistry Department are successful in various career paths including academia, industry, and government. Some career options include physician, research scientist, pharmacist, professor/teacher, environmental scientist, polymer chemist/material scientist, quality control analyst, forensic scientist, pharmaceutical scientist, and toxicologist.
+    Scholarships and Awards: The department offers scholarships and awards specifically for majors in the department.
+    Alumni Employers: Graduates have been employed by companies and organizations such as AstraZeneca, Mead Johnson, Boeing, Eli Lilly and Company, Monsanto, Argonne National Laboratory, and more.
+    Selected Professional and Graduate Programs: Graduates have been accepted into professional and graduate programs at universities such as Indiana University, Northwestern University, Michigan State University, and Washington University.
+
+Student Spotlights:
+
+The Chemistry and Biochemistry Department at USI has produced successful alumni who have pursued various careers and further education. Some notable alumni include:
+
+    Dr. Stephanie Poland '09: Associate Professor of Chemistry, Rose Hulman Institute of Technology
+    Dr. Chelsea McElroy '13: Assistant Professor, Division of Hospital Medicine, University of Nebraska Medical Center; Pediatric Hospitalist, Boys Town National Research Hospital
+    Katelyn DeTalente '15: Senior Quality Control Specialist, AstraZeneca
+    Samantha Turner '18: Industrial Management QAQC Manager, Valero Renewables
+    Paige Holley '20: Coatings Chemist, Red Spot Paints
+    Bi Yu You '13: High School Teacher
+    Dr. Lexis Will '18: Chemistry
+    Dr. Joe Kawa '12: Clinical Specialist Pharmacist, Omnicare
+    Sarah Koester '18: PhD Candidate
+    Bryson Jenkins '17: General Surgery Resident
+    Thad Whittington '15: Quality Assurance Manager
+
+Connect with USI:
+
+    Social Media Channels: Facebook, TikTok, YouTube, Instagram
+    Contact Information: SC 2255, 812-464-1701, Email
+URL: https://www.usi.edu/science/chemistry

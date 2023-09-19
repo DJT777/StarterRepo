@@ -1,0 +1,42 @@
+URL: https://www.usi.edu/business/mba/registering-for-class
+cleanedDataText/business_mba_registering-for-class.txt
+
+URL: https://www.usi.edu/business/mba/registering-for-class
+University of Southern Indiana (USI) School of Graduate Studies
+
+    Registration Process
+
+    Registration Steps:
+
+        Log-In to myUSI:
+            - If you are a first-time user, activate your account.
+            - If you already have a myUSI account, log in.
+        Navigate to Self-Service:
+            - Self-service is an application accessible through your myUSI account.
+            - Click on the appropriate icon to access it.
+        Select the Student Tab:
+            - Under the Student tab, you can view your registration status and account holds that may affect registration.
+        Click Registration then Add or Drop Classes:
+            - Select the appropriate term from the drop-down menu.
+            - Read and accept the Terms and Conditions.
+            - Enter the Course Reference Number (CRN) if provided, or proceed to the next step.
+            - Click 'Submit Changes' after entering the CRN.
+            - If you do not have the CRN, move to the next step.
+        Click Class Search:
+            - Skip this step if the CRN was entered in the previous step.
+            - Click 'Class Search' to view available courses.
+            - Select the checkbox next to the desired course and click 'Register'.
+        Check Class Schedule:
+            - Verify your enrollment by checking your class schedule.
+            - Access your class schedule under the 'Class Schedule' link in the Student tab of Self-Service.
+        Course Search and Print Registration Tips are available for more detailed guidance.
+
+    Contact Information:
+
+        Robert D. Orr Center 1060
+        Phone: 812-465-7015
+        Email provided on the site.
+
+    Social Media Channels: Facebook, Twitter, YouTube, Instagram.
+
+URL: https://www.usi.edu/business/mba/registering-for-class

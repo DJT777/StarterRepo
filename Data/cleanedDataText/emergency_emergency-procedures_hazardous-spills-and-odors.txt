@@ -1,0 +1,53 @@
+URL: https://www.usi.edu/emergency/emergency-procedures/hazardous-spills-and-odors
+cleanedDataText/emergency_emergency-procedures_hazardous-spills-and-odors.txt
+
+URL: https://www.usi.edu/emergency/emergency-procedures/hazardous-spills-and-odors
+Hazardous Spills and Odors
+
+Emergency Procedures:
+
+- Exit the Area: If a hazardous chemical is spilled, immediately exit the area. If the spill occurred in a laboratory and the fume hood is accessible, raise the sash for increased airflow.
+- Secure the Area: Close the doors to the area with the spill and secure the area, if possible. Most laboratories are under negative pressure to prevent hazardous vapors from spreading.
+- Call Public Safety: Contact USI Public Safety at 812-492-7777 or ext. 7777 from a safe location, providing information such as building name, room number, type of incident, and chemical spilled or description of odor.
+- Assess the Situation: Determine if the spill is Immediately Dangerous to Life or Health (IDLH). If not, wait outside the laboratory for the spill response team. If IDLH, proceed to the next step.
+- Pull the Fire Alarm: If the spill poses an immediate danger, activate the fire alarm to evacuate the building and notify the local fire department.
+- Exit the Building: Once the fire alarm is activated, leave the building and stay at a safe distance from the entrance. Provide complete information to emergency response teams upon arrival.
+
+Chemical Contamination:
+
+- Remove Contaminated Clothing: Immediately remove any contaminated clothing and flush all bodily contact areas with water.
+- Seek Medical Assistance: Obtain medical attention for injured or exposed individuals. Rinse contact areas with water for at least 15 minutes, unless directed otherwise by medical personnel.
+- Visit Health Services: Go to campus Health Services or a local hospital for medical care and evaluation. Bring applicable Material Safety Data Sheets (MSDS) if available.
+
+Radiation Release:
+
+- Restrict Access: Ask non-contaminated persons in the immediate area to leave and establish a restricted area for authorized personnel only.
+- Maintain Surveillance: Keep the restricted area under constant supervision by an Authorized User or the Radiation Safety Officer until it is deemed safe for occupancy.
+- Notify: Inform the Authorized User directly responsible for the radioactive material involved in the incident.
+- Follow Procedures: Assess the accident to determine if it is minor or major and follow the appropriate procedures outlined in the Radiation Safety Training Guide.
+
+Biological Spills:
+
+- Report all spills of biological materials to the Environmental Health & Safety Manager, regardless of biosafety level.
+- Extremely large spills should also be reported to Public Safety.
+- If the spill poses an inhalation hazard, do not attempt to handle it. Let Environmental Health and Safety handle the situation.
+
+Gas Leaks or Releases:
+
+- Notify Building Occupants: Immediately evacuate the area and notify building occupants to evacuate using general evacuation procedures.
+- Contact Public Safety: Call Public Safety and provide the building name, floor and room number, specific chemical name of the involved gas, and source of the gas.
+
+Unusual or Abnormal Odors:
+
+- Potentially Hazardous Odors: If the source of the odor is potentially hazardous (e.g., natural gas), contact Public Safety immediately.
+- Rotten Egg or Sewer Odors: Run water down nearby sinks to refill drain traps and check if the odor dissipates. If the odor persists, report it to Facility Operations and Planning.
+- Fishy or Musty Odors: These odors may indicate leaks in the steam system. Report them to Environmental Health and Safety.
+- Exhaust or Diesel Odors: These odors may enter the building through air intakes. If they persist, contact USI Environmental Health and Safety.
+- Unknown Odors: Report any unknown odors to Environmental Health and Safety.
+
+Contact Information:
+
+- 8600 University Blvd, Evansville, IN 47712
+- Phone: 812-464-8600
+- Email: Information provided on the site
+URL: https://www.usi.edu/emergency/emergency-procedures/hazardous-spills-and-odors

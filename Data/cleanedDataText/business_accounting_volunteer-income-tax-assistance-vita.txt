@@ -1,0 +1,23 @@
+URL: https://www.usi.edu/business/accounting/volunteer-income-tax-assistance-vita
+cleanedDataText/business_accounting_volunteer-income-tax-assistance-vita.txt
+
+URL: https://www.usi.edu/business/accounting/volunteer-income-tax-assistance-vita
+Volunteer Income Tax Assistance (VITA) - Romain College of Business
+
+- Description: Through the Volunteer Income Tax Assistance program (VITA), students from the Romain College of Business at the University of Southern Indiana provide free federal and state income tax preparation services. VITA is a partnership between the Internal Revenue Service (IRS) and national/local organizations to assist individuals with low-to-moderate incomes with tax services at no cost.
+
+- Services:
+  - Tax Preparation: Students in Accounting 390 interview and prepare taxes for individuals who make appointments for the service.
+  - Eligibility: VITA sites do not prepare Schedule C business forms or Schedule E rental forms. Federal and state tax returns are prepared and all taxpayers must be present to sign their returns. The preparation process typically takes 90 minutes to two hours.
+  - Required Documents: Individuals must bring their tax information, photo identification cards, Social Security cards (for themselves and dependents), and for international students, passports and visas.
+  - Electronic Filing: The IRS encourages electronic filing, and eligible returns will be filed electronically.
+
+- Availability: USI students provide tax preparation services for over 100 taxpayers each season. Announcements are made in the spring for individuals to schedule an appointment.
+
+- Contact: 
+  - BE1015
+  - Phone: 812-464-1718
+  - Email provided on the site
+
+- Social Media Channels: Facebook, Twitter, YouTube, Instagram, LinkedIn.
+URL: https://www.usi.edu/business/accounting/volunteer-income-tax-assistance-vita

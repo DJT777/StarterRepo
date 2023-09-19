@@ -1,0 +1,37 @@
+URL: https://www.usi.edu/bursar/billing-and-payments/authorized-users
+cleanedDataText/bursar_billing-and-payments_authorized-users.txt
+
+URL: https://www.usi.edu/bursar/billing-and-payments/authorized-users
+Bursar's Office
+
+Overview:
+
+- The Bursar's Office handles tuition and fee billing and payments at the University of Southern Indiana (USI).
+
+Billing and Payments:
+
+- Students can authorize parents, guardians, spouses, or others to access their billing and payment information within the TouchNet system.
+- Authorized users have permission to review account information, discuss the account with Bursar Office Staff, and make payments towards the student account.
+- Authorization can be set up and managed through the student's MyUSI account and the TouchNet system.
+- Payment methods, including payment plans, are available through TouchNet.
+- Third-party sponsor and employer deferment programs are also available for payment arrangements.
+- Students can access their billing and payment information and make payments through TouchNet.
+
+Authorized Users:
+
+- Authorized users can view the student's billing and payment information, make payments or set up payment plans (only one active payment plan per student), discuss the student's account with the Bursar's Office, and obtain the student's 1098T information.
+- In compliance with the Family Educational Rights Privacy Act (FERPA), student account information cannot be released to a third party without written permission from the student.
+
+How to Create Authorized Users:
+
+- The student must initiate the process by logging into their MyUSI account and accessing the TouchNet system.
+- The student enters the authorized user's email address and specifies the desired access level.
+- The authorized user will receive two emails from the Bursar's Office with login credentials and the authorized user login link.
+- The first-time authorized user will be prompted to enter their name and change the password.
+
+Contact:
+
+- Location: Lower level of the Orr Center
+- Phone: 812-464-1842
+- Email provided on the site.
+URL: https://www.usi.edu/bursar/billing-and-payments/authorized-users

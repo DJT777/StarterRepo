@@ -1,0 +1,60 @@
+URL: https://www.usi.edu/bursar/tuition-fees/explanation-of-fees
+cleanedDataText/bursar_tuition-fees_explanation-of-fees.txt
+
+URL: https://www.usi.edu/bursar/tuition-fees/explanation-of-fees
+Explanation of Fees
+
+Bursar's Office
+
+    About Us
+    Tuition and Fees
+    Billing and Payments
+    Forms 
+    Non-Student Accounts Receivable
+    Financial Care Team
+    Frequently Asked Questions
+
+Tuition and Fees
+
+    Explanation of Fees
+    Contact
+
+Explanation of Fees
+
+    Mandatory Student Fees
+        - Tuition
+        - University Services Fee
+    Miscellaneous Fee
+        - Student Activity Fee
+        - Transportation and Parking Fee
+        - Counseling Fee
+        - New Student Fee
+        - Online Learning Fee
+        - Hybrid Fee
+        - Non-resident Distance Education Fee
+        - Lab Fees
+        - KIN Profession Insurance Fee
+        - NURS Profession Insurance Fee
+        - PSY Profession Insurance Fee
+        - SOCW Profession Insurance Fee
+        - Athletics Fee
+        - International Student Fee
+        - Audit Fee
+    Other Fees
+        - Housing Student Activity Fee
+        - Deaconess Office Visit Plan
+        - Archie's Book Bundle
+        - Campus Store Inclusive Access
+    Program Fees
+        - Computer Science
+        - Engineering Undergraduate Program
+        - Health Informatics Program
+        - Social Work Program
+        - NURS BSN Program
+        - NURS MSN Program
+        - NURS DNP Program
+        - OT Program
+        - Respiratory Therapy Program
+
+For more information on specific fees, their purposes, and costs, please refer to the university's Bursar's Office or contact them directly.
+URL: https://www.usi.edu/bursar/tuition-fees/explanation-of-fees

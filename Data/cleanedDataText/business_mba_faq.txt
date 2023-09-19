@@ -1,0 +1,70 @@
+URL: https://www.usi.edu/business/mba/faq
+cleanedDataText/business_mba_faq.txt
+
+URL: https://www.usi.edu/business/mba/faq
+Romain College of Business - Frequently Asked Questions (FAQ)
+
+Contact Information:
+- Email: mba.program@usi.edu
+- Phone: BE 1015, 812-464-1926
+
+Q1: Who do I contact if I have an advising question?
+A: Please email the Romain College of Business office at mba.program@usi.edu.
+
+Q2: How do I check if courses will transfer to the USI MBA program?
+A: To request transfer credit, follow the instructions in the Transfer Credit Request Form. Up to 12 graduate credit hours from accredited institutions can be transferred if they align with the USI MBA curriculum. Transfer courses must be 3 credit hours each, no more than seven years old upon completion of the program, and have a grade of B or better.
+
+Q3: What is the required GPA to remain in good academic standing in the program?
+A: Graduate students must maintain a cumulative graduate program GPA of 3.0 to remain in good standing.
+
+Q4: What technology and software do I need for the program?
+A: A reliable computer with an operating system (such as Windows 7 or later, or Mac OSX), high-speed internet connection, Office 365, and Adobe Acrobat Reader. Refer to the system requirements for more details.
+
+Q5: When are MBA courses offered and which courses are available for registration?
+A: Tentative MBA Long-Term Schedule is provided. Registration for MBA classes closes at 4:30 pm Central time the Friday before the class starts. If a class is closed, please email mba.program@usi.edu.
+
+Q6: How do I add or drop a course online?
+A: Online Accelerated students select .AO sections, while Traditional students select .NO or in-class sections. The last day to drop a course with a 100% refund for online-only students is the Friday of the first week of class (by 4:30 pm Central Time).
+
+Q7: How do I view information on paying tuition?
+A: Current bills can be viewed in TouchNet via the 'TN' icon in your myUSI account. Textbooks are not included in tuition and can be purchased through the Campus Bookstore. The Bursar's Office webpage provides complete tuition and fee listings.
+
+Q8: How do I change my MBA concentration, add another MBA concentration, or update my bulletin term?
+A: To change your concentration or update your bulletin term, complete the Change of Graduate Program Form. Concentrations require a minimum of two unique courses (6 credit hours). Consult DegreeWorks for updated concentrations.
+
+Q9: What is the goal of the concentrations in the MBA program?
+A: The goal of each MBA concentration is to equip managers with the ability to engage effectively within a specific domain. Concentrations do not make individuals specialists in the domain itself. Students must declare a concentration if desired. Additional courses for an additional concentration can be completed as a non-degree seeking student.
+
+Q10: Can I obtain more than one concentration in the MBA program?
+A: Yes, MBA students may obtain multiple concentrations as long as there are at least two unique courses (6 credit hours) for each concentration. All concentrations will appear on the student transcript.
+
+Q11: How can I obtain MBA scholarships?
+A: Internal scholarships can be applied for on the USI Graduate Studies page. External scholarships for women and minorities are also available.
+
+Q12: How do I request a major override or request a hold be removed?
+A: Contact mba.program@usi.edu for any major override or hold removal requests.
+
+Q13: How can I view my grades?
+A: Official transcripts can be requested online, while unofficial transcripts can be printed from the myUSI account. Inquiries regarding grades should be directed to the Registrar’s Office.
+
+Q14: Can I use my personal email address during the program?
+A: Ensure all communication with faculty and staff is done through the USI-issued email address to comply with FERPA. The firewall may block emails from non-USI accounts.
+
+Q15: How do I leave feedback about a course?
+A: Course evaluations are completed during each MBA course before the last day. Follow the instructions in the email sent to your student email address.
+
+Q16: How do I create a degree plan and find textbooks?
+A: Use Degree Works to view the plan of study. Review the Campus Bookstore for required textbooks.
+
+Q17: How do I prepare for classes and find the required textbooks?
+A: Purchase textbooks from the Campus Bookstore. Access courses through the Blackboard icon in your myUSI account. Review the syllabus and module information for each course.
+
+Q18: How do I know if my degree has been conferred and how to receive my diploma?
+A: Degrees are conferred by the Registrar’s Office. You can see the degree conferral on your unofficial transcript, and diplomas are mailed approximately 2 months after final grades are posted.
+
+Q19: What is Beta Gamma Sigma?
+A: Beta Gamma Sigma is the international business honor society for AACSB-accredited schools. Top USI MBA students are invited to join based on GPA and credit hours earned.
+
+Q20: Who can I contact for information on career and internship services?
+A: Contact USI Career Services at 812-464-1865 for information on career and internship services.
+URL: https://www.usi.edu/business/mba/faq

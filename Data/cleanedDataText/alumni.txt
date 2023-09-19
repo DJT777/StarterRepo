@@ -1,0 +1,34 @@
+URL: https://www.usi.edu/alumni
+cleanedDataText/alumni.txt
+
+URL: https://www.usi.edu/alumni
+Alumni
+
+    About Alumni
+    Alumni Resources
+    Screagles Mentoring Program
+    Volunteer USI
+    Update Your Information
+    Alumni Association Social Media Links: Facebook, Twitter, Instagram, LinkedIn
+
+Contact Details:
+
+    University Center West
+    Phone: 812-464-1924
+    Email provided on the site
+
+Stay Connected with USI
+
+    The USI Alumni Association keeps graduates connected with the university through volunteer opportunities, networking events, and staying in touch with former classmates.
+    Alumni are encouraged to refer family and friends to enroll at USI.
+    The USI Alumni Association has over 50,000 graduates and plays a vital role in the success of USI.
+    By actively engaging as an alumnus, you can benefit from various services provided and contribute to the reputation of USI.
+
+Alumni Resources:
+
+    Refer a Student to USI Admissions
+    Screagles Mentor Program
+    Share a Testimonial
+    Update My Alumni Info
+    USI License Plate: Available to Indiana residents as a way to show pride in the university and provide scholarships for deserving USI students.
+URL: https://www.usi.edu/alumni

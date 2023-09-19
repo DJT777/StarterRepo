@@ -1,0 +1,38 @@
+URL: https://www.usi.edu/athletics-council/members
+cleanedDataText/athletics-council_members.txt
+
+URL: https://www.usi.edu/athletics-council/members
+USI Athletics Council
+
+    Members:
+        - Nick LaRowe (UAC Chair)
+        - Brian McGuire (Faculty, Romain College of Business)
+        - Matt Hanka (Faculty, College of Liberal Arts)
+        - Sean Weir (Faculty, College of Nursing and Health Professions)
+        - Mark Creager (Faculty, Pott College of Science, Engineering, and Education)
+        - Chase Smith (Student-Athlete, Female)
+        - Evie Duncan (Student-Athlete, Male)
+        - Lucas Sakamaki (Student-Athlete, Male)
+        - Eileen Weber (Coach, Female Sport)
+        - Sue Kunkle (Coach, Male Sport)
+        - Chris Crawford (Student-Athlete Welfare & Equity)
+        - Kim Hille (NCAA Faculty Athletics Rep)
+        - Rashad Smith (Admissions)
+        - Angel Nelson (Registrar)
+        - Caleb Fendrich (Student Financial Assistance)
+        - Linda Willis (Varsity Club)
+        - Jon Mark Hall (Athletic Director)
+        - Andrea Gentry (University Development)
+        - Alex Eaton (NCAA Compliance and Senior Woman Admin)
+        - Ronald Rochon (University President)
+
+    Committees:
+        - Fiscal Integrity & Facilities
+        - Academic Progress & Integrity
+        - Student Athlete Welfare & Equity
+        - Governance and Compliance
+
+Contact Information:
+    Address: 8600 University Blvd, Evansville, IN 47712
+    Phone: 812-464-8600
+URL: https://www.usi.edu/athletics-council/members

@@ -1,0 +1,39 @@
+URL: https://www.usi.edu/about/academics-and-outcomes
+cleanedDataText/about_academics-and-outcomes.txt
+
+URL: https://www.usi.edu/about/academics-and-outcomes
+About Academics and Outcomes
+
+Profile:
+
+    Overview: The University of Southern Indiana (USI) has undergone significant improvements in academic programs and facilities.
+    Flexibility: Offers online, hybrid, accelerated, and traditional in-person courses and programs to cater to both traditional students and adult learners.
+    Degree Programs: Offers undergraduate, graduate, and doctoral programs, as well as certificate programs at various levels.
+    Academic Colleges: USI is organized into four academic colleges:
+        - Romain College of Business
+        - Pott College of Science, Engineering, and Education
+        - College of Liberal Arts
+        - College of Nursing and Health Professions
+
+Accreditations and Memberships:
+
+    Accreditation: USI is accredited by The Higher Learning Commission for ten years at the baccalaureate, master's, and doctoral levels.
+    Discipline-Specific Accreditations: Several programs at USI are accredited by professional organizations and state agencies.
+    Memberships: USI is a member of various national and regional associations and organizations related to higher education.
+
+Student Outcomes:
+
+    Licensure and Certification Pass Rates: Certain majors at USI require students to pass licensure or certification exams for employment after graduation. Pass rates for different programs are available on the USI website.
+    Graduation and Retention Rates: USI provides information on student demographics, retention rates, graduation rates, and faculty demographics in its annual Fact Book. The current 6-year graduation rate is 52.2%, and the one-year retention rate for new first-time freshmen is 74.9%.
+    Career Outcomes: USI collects information on the employment status of graduates within six months of graduation. The results are available on the Career Services and Internships website.
+
+Carnegie Foundation Classification:
+
+    Community Engagement Classification: USI has been selected by the Carnegie Foundation to receive its Community Engagement Classification. This classification recognizes the university's collaboration with its larger communities for the exchange of knowledge and resources.
+
+Contact Information:
+
+    Address: 8600 University Blvd, Evansville, IN 47712
+    Phone: 812-464-8600
+    Email: Provided on the USI website.
+URL: https://www.usi.edu/about/academics-and-outcomes

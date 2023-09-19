@@ -1,0 +1,32 @@
+URL: https://www.usi.edu/international/forms
+cleanedDataText/international_forms.txt
+
+URL: https://www.usi.edu/international/forms
+Center for International Programs
+
+Forms:
+
+    International Students:
+        Forms for admission, immigration, and scholarships.
+    
+    Study Abroad:
+        Scholarship applications.
+        Study abroad program applications.
+    
+    Extracurricular Programs:
+        International Outreach Program application (international students only).
+        International Orientation Assistant application.
+    
+    Faculty:
+        International Study/Travel Program Approval Participant Agreement and Release.
+        Visiting international faculty forms.
+
+Contact:
+    University Center East, Room 1235
+    Phone: 812-465-1248
+    Email provided on the site.
+
+Social Media Channels:
+    Facebook
+    Instagram
+URL: https://www.usi.edu/international/forms

@@ -1,0 +1,53 @@
+URL: https://www.usi.edu/business-office/bursar
+cleanedDataText/business-office_bursar.txt
+
+URL: https://www.usi.edu/business-office/bursar
+Bursar's Office
+
+    About Us
+        Description: The Bursar's Office handles tuition and fees, billing, payments, and other financial matters.
+        Location: Lower level of the Orr Center.
+
+    Tuition and Fees
+        Information about tuition and fees for students.
+
+    Billing and Payments
+        Guidelines and procedures for billing and making payments.
+
+    Forms
+        Forms for various financial transactions.
+
+    Non Student Accounts Receivable
+        Details about accounts receivable for non-students.
+
+    Financial Care Team
+        A team that assists students facing unexpected financial distress. Referrals can be submitted for students in need.
+
+    Frequently Asked Questions
+        Answers to common questions about financial matters.
+
+    Important Announcements
+        Operational hours and updates.
+
+    Fall 2023 Billing and Payment Information
+        Information specific to billing and payment for the Fall 2023 semester.
+
+    Payment Methods
+        Options for making payments, including payment plans, employer deferment, and third-party sponsors.
+
+    Understanding Your Bill
+        Explanation of tuition and fees, billing schedule, and eRefunds.
+
+    Contact Us
+        Bursar's Office contact information.
+
+    Forms
+        Forms for authorized users, 1098T tax forms, and non-student accounts receivable.
+
+    Financial Care Team
+        Referral form for students facing financial crisis.
+
+    Contact Information: Lower level of the Orr Center, Email.
+
+    Appointment: Appointments can be made by emailing the Bursar's Office, but are not required for cashier window transactions.
+URL: https://www.usi.edu/business-office/bursar

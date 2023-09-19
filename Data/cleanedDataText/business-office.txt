@@ -1,0 +1,24 @@
+URL: https://www.usi.edu/business-office
+cleanedDataText/business-office.txt
+
+URL: https://www.usi.edu/business-office
+Business Office
+
+Purpose: The Business Office is responsible for providing the University community with a service-oriented operation that facilitates financial record maintenance, acquisition of goods and services, payment of obligations, and adherence to institutional business policies.
+
+Office Hours: The Business Office is open from 8 a.m. to 4:30 p.m., Monday through Friday.
+
+Services:
+- Accounts Payable
+- Business Office Accounting
+
+Staff:
+- Mr. Jeffrey M. Sickman: Assistant Treasurer Controller
+- Mrs. Jina L. Platts: Assistant Controller
+- Mrs. Tamara L. Moll: Senior Employment Assistant
+
+Contact:
+- Location: Orr Center, OC 0029
+- Phone: 812-464-1967
+- Email provided on the site.
+URL: https://www.usi.edu/business-office

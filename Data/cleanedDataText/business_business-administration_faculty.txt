@@ -1,0 +1,34 @@
+URL: https://www.usi.edu/business/business-administration/faculty
+cleanedDataText/business_business-administration_faculty.txt
+
+URL: https://www.usi.edu/business/business-administration/faculty
+Romain College of Business Faculty
+
+Dr. Gary W. Black
+- Associate Professor of Decision Science
+
+Mrs. Cindi S. Clayton
+- Instructor in Business Communication
+
+Dr. Cristina M. Gilstrap
+- Associate Professor of Business Communication
+
+Dr. Curt A. Gilstrap
+- Associate Professor of Business Communication
+
+Dr. Ramadan S. Hemaida
+- Professor of Decision Sciences
+
+Dr. Carol M. Jansons
+- Adjunct - Accounting and Finance
+
+Dr. Jill M. Oeding
+- Associate Professor of Business Law
+
+Mrs. Jennifer L. Riester
+- Adjunct - Accounting and Finance
+- Adjunct - College of Business Career Coordinator
+
+Mrs. Jamie I. Robey
+- Adjunct - Accounting and Finance
+URL: https://www.usi.edu/business/business-administration/faculty

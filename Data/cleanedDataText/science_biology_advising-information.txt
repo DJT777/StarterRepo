@@ -1,0 +1,50 @@
+URL: https://www.usi.edu/science/biology/advising-information
+cleanedDataText/science_biology_advising-information.txt
+
+URL: https://www.usi.edu/science/biology/advising-information
+Biology Advising Information
+
+Programs:
+
+- Biology
+- Chemistry and Biochemistry
+- Engineering
+- Geology, Physics and Environmental Science
+- Kinesiology and Sport
+- Mathematical Sciences
+- Teacher Education
+- Pre-Professional Studies
+
+Biology:
+
+- Faculty
+    - Dr. R. Brent Summers (Associate Professor of Biology, Pre-Medicine, Aquatic & Marine Biology)
+    - Dr. Richard A. Bennett (Associate Professor of Biology, Cell & Molecular Biology, Pre-Medicine)
+    - Dr. Alex M. Champagne (Associate Professor of Biology, Pre-Dental, Pre-Medicine, Physiology, Ornithology)
+    - Dr. Kimberly J. Delaney (Associate Professor of Biology, Interim Assistant Dean of Pott College of Science, Engineering, and Education, Pre-Medicine, Pre-Pharmacy, Genetics, Molecular Biology)
+    - Dr. Cindy R. DeLoney-Marino (Chair of Biology, Professor of Biology, Microbiology, Pre-Medicine)
+    - Dr. Edith L. Hardcastle (Associate Professor of Biology, Science Teaching, Botany, Ecology)
+    - Dr. T. Kyle R. Mara (Associate Professor of Biology, Pre-Veterinary, Pre-Medicine, Herpetology, Vertebrate Biology)
+    - Dr. Henri R. Maurice (Associate Professor of Biology, Pre-Chiropractic, Pre-Physician Assistant, Science Teaching, Botany)
+    - Dr. Eric S. McCloud (Associate Professor of Biology, Pre-Medical Laboratory Sciences, Forestry, Wildlife Biology, Environmental Science, Zoology, Entomology)
+    - Dr. Rebecca L. Sparks-Thissen (Associate Professor of Biology, Pre-Medicine, Pre-Physical Therapy, Virology)
+    - Dr. Rex M. Strange (Associate Professor of Biology, Pre-Optometry, Ichthyology, Pre-Medicine)
+- Research, Alumni & Careers
+- USI Field and Nature Experiences
+- Student Organizations
+- Student Resources
+- Advising Information
+
+Advising Information:
+
+- First-year and initial transfer students are advised by Pott College Student Advising and Resource Center.
+- More advanced students are advised by biology faculty based on personal interests and goals.
+- Degree plans can be personalized based on goals, high school preparation, dual credit, AP scores, and interests.
+- Faculty specialize in different areas to provide tailored advising.
+
+Contact:
+
+Science Center 1273
+815-465-1084
+Email provided on the site.
+URL: https://www.usi.edu/science/biology/advising-information

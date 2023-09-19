@@ -1,0 +1,43 @@
+URL: https://www.usi.edu/bursar/billing-and-payments/payment-plan
+cleanedDataText/bursar_billing-and-payments_payment-plan.txt
+
+URL: https://www.usi.edu/bursar/billing-and-payments/payment-plan
+Bursar's Office
+
+    About Us:
+        - Information about the Bursar's Office
+
+    Tuition and Fees:
+        - Overview of tuition and fees
+
+    Billing and Payments:
+        - Information about billing and payments
+        - Forms related to billing and payments
+        - Non-Student Accounts Receivable
+
+    Financial Care Team:
+        - Information about financial assistance for students in financial distress
+
+    Frequently Asked Questions:
+        - Frequently asked questions about billing and payments
+
+    Payment Methods:
+        - Overview of payment methods
+
+    Authorized Users:
+        - Information about authorized users for payment plans
+
+    Payment Plan:
+        - Information about the university's payment plan
+        - Fall 2023 GOALS Payment Plan
+        - Standard Payment Plan
+        - Bi-weekly Payment Plan
+        - Comparison of Payment Plans
+        - Overview of Payments
+        - Changing Payment Method
+
+Contact Information:
+    - Lower level of the Orr Center
+    - Phone: 812-464-1842
+    - Email provided on the site.
+URL: https://www.usi.edu/bursar/billing-and-payments/payment-plan

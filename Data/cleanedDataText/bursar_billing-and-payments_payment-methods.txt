@@ -1,0 +1,53 @@
+URL: https://www.usi.edu/bursar/billing-and-payments/payment-methods
+cleanedDataText/bursar_billing-and-payments_payment-methods.txt
+
+URL: https://www.usi.edu/bursar/billing-and-payments/payment-methods
+Bursar's Office Payment Methods
+
+About Us:
+
+    Contact Information:
+        Phone: 812-464-1842
+        Email: provided on the site
+
+Tuition and Fees:
+
+    Billing and Payments:
+        Forms, Non Student Accounts Receivable, Financial Care Team, Frequently Asked Questions
+
+Payment Methods:
+
+    Authorized Users
+    Payment Plan
+    Third-Party Sponsors
+    Employer Deferment Program
+    Understanding My Bill
+    eRefunds
+
+Payment Options:
+
+    Online Payments:
+        Make online payments through TouchNet using eCheck, credit, or debit card. Access through MyUSI or the authorized user link. A processing fee of 2.85% (increasing to 2.95% from May 1, 2023) is applicable for debit or credit card payments. No processing fee for eCheck payments.
+
+    In-Person Payments:
+        Accepted during office hours. Cash, check, or money orders only. Debit or credit cards are not accepted.
+
+    Payments by Mail:
+        Include student's name and ID number on payment document or enclose a copy of the billing statement. Mail to:
+        University of Southern Indiana
+        Bursar's Office
+        PO Box 1226
+        Evansville, IN 47706
+
+    International Payments:
+        Processed through Flywire. A comprehensive payment solution that provides cost transparency and real-time payment tracking.
+
+Authorized Users:
+
+    Instructions and guidelines for setting up authorized users.
+
+Contact:
+    Located in Orr Center, Lower Level.
+    Phone: 812-464-1842
+    Email: provided on the site.
+URL: https://www.usi.edu/bursar/billing-and-payments/payment-methods

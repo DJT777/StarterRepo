@@ -1,0 +1,25 @@
+URL: https://www.usi.edu/bursar/forms/1098t-tax-form
+cleanedDataText/bursar_forms_1098t-tax-form.txt
+
+URL: https://www.usi.edu/bursar/forms/1098t-tax-form
+Bursar's Office - 1098T Tax Form
+
+About the Bursar's Office:
+- Provides information and assistance regarding tuition and fees, billing, payments, forms, and non-student accounts receivable.
+- Offers support through the Financial Care Team.
+- Frequently asked questions and various forms are available.
+
+1098T Tax Form:
+- The 1098T form is a tuition statement filed by USI to report payments received and payments due from the paying student for IRS tax purposes.
+- It serves as an alert to students that they may be eligible for federal income tax education credits.
+- The form includes information such as the student's name, address, taxpayer identification number, enrollment and academic status, qualified tuition and related expenses (QTRE) payments, and scholarships/grants.
+- Students can opt-in to receive their 1098T electronically through TouchNet.
+- An explanation of the different boxes on the form is provided.
+- Students who do not opt for electronic delivery will receive a paper form by mail.
+- The 1098T form is released by January 31 each year for the previous tax year.
+
+Frequently Asked Questions:
+- Questions and answers related to eligibility for receiving a 1098T form, qualified tuition and related expenses (QTRE), filing with the IRS, and the timeline for the form.
+- The importance of providing the correct social security number to comply with IRS requirements is explained.
+- The Bursar's Office does not provide legal, tax, or accounting advice.
+URL: https://www.usi.edu/bursar/forms/1098t-tax-form

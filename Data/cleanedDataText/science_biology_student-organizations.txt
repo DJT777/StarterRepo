@@ -1,0 +1,38 @@
+URL: https://www.usi.edu/science/biology/student-organizations
+cleanedDataText/science_biology_student-organizations.txt
+
+URL: https://www.usi.edu/science/biology/student-organizations
+Biology Student Organizations
+
+Biology Club:
+- Aims to unify Pott College students and provide a supportive, hands-on club environment for students exploring science.
+- Monthly meetings and participation in outreach events collaborating with organizations like Mesker Park Zoo and Girl Scouts of America.
+- Faculty Advisor: Dr. Henri Maurice
+- All students interested in biology are invited to join.
+
+TIMMY Global Health:
+- A community-based organization that helps people globally access primary health care.
+- Local activities and international work through trips, fundraising, and volunteer service.
+- Faculty Advisor: Dr. Kim Delaney
+
+Pre-Professional Health Club (PPHC):
+- For anyone interested in pursuing a health-focused professional career (medicine, dentistry, optometry, etc.).
+- Offers resources and networking opportunities to help students find the best path to reach their goals.
+- Faculty Advisor: Dr. Alex Champagne
+
+Be The Match:
+- Helps connect patients with their donor match for bone marrow transplants.
+- Campus chapter works on awareness, bone marrow registry drives, and fundraisers.
+- Faculty Advisor: Dr. Becky Sparks-Thissen
+
+Animal Club:
+- Educational, social, and involvement-based club for anyone interested in learning more about animals.
+- Aims to educate and create awareness of animals and endangered species.
+- Faculty Advisor: Dr. Kyle Mara
+
+Dental Club:
+- For students pursuing a career in dentistry.
+- Opportunities to learn from experts, network with students, and serve the community.
+- Activities include inviting speakers, teaching oral hygiene to elementary schools, and volunteering at the Evansville Christian Health Clinic.
+- Faculty Advisor: Dr. Alex Champagne.
+URL: https://www.usi.edu/science/biology/student-organizations

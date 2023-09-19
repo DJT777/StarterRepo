@@ -1,0 +1,51 @@
+URL: https://www.usi.edu/business-office/accounting/financial-managers
+cleanedDataText/business-office_accounting_financial-managers.txt
+
+URL: https://www.usi.edu/business-office/accounting/financial-managers
+Financial Managers
+
+- Business Office Accounting
+    - Financial Managers
+    - Grant Accounting
+    - Property Accounting
+    - Monthly Reports
+    - Forms and Documents
+    - Accounting Guidelines
+
+    Contact Information:
+    - Location: Orr Center, OC 0029
+    - Phone: 812-464-1967
+    - Email: [email protected]
+
+Financial Managers Spreadsheet
+- Lists currently valid fund/org combinations, financial managers, alternate financial managers, accounting contacts, budget contacts, and department contacts.
+- Expense account definitions are also available for reference.
+
+Roles and Responsibilities:
+- Financial Manager: A full-time employee assigned by the Vice President of Business Affairs.
+    - Review financial activity for accuracy and compliance with budget constraints.
+    - Ensure financial transactions comply with University guidelines and external restrictions.
+    - Approve charges and grant permission for others to view activity in assigned fund/orgs.
+
+- Alternate Financial Manager: Has the same responsibilities and authority as the primary financial manager.
+
+- Accounting Contact: A department's primary liaison with the Accounting Office.
+    - Furnish management reports and analyses of revenues and expenses.
+    - Assist with questions about transactions and institutional accounting procedures.
+    - Process requests related to financial transactions.
+
+- Budget Contact: A department's primary liaison with the Budget Office.
+    - Work with departments to develop and maintain annual operating budgets.
+    - Assist with questions about budget availability and flexibility.
+    - Process requests for budget transfers and reallocations.
+
+- Department Contact: A University employee who serves as the primary contact for the Business Office regarding fund/org-related inquiries and correspondence.
+    - Provide information regarding Financial Manager Changes.
+    - Submit required financial manager changes to the Accounting Contact, with approval from the current financial manager or supervisor.
+
+Contact Information:
+
+8600 University Blvd, Evansville, IN 47712
+Phone: 812-464-8600
+Email: [email protected]
+URL: https://www.usi.edu/business-office/accounting/financial-managers

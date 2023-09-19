@@ -1,0 +1,36 @@
+URL: https://www.usi.edu/health/diagnostic-medical-sonography/degree-and-program
+cleanedDataText/health_diagnostic-medical-sonography_degree-and-program.txt
+
+URL: https://www.usi.edu/health/diagnostic-medical-sonography/degree-and-program
+Degree and Program: College of Nursing and Health Professions
+- Dental Assisting
+- Dental Hygiene
+- Diagnostic Medical Sonography
+- Food and Nutrition
+- Health Administration
+- Health Informatics and Information Management
+- Health Services
+- Nursing
+- Graduate Nursing Program
+- Occupational Therapy
+- Occupational Therapy Assistant
+- Radiologic and Imaging Sciences
+- Respiratory Therapy
+
+Diagnostic Medical Sonography:
+- Program Admission
+- Faculty & Staff
+- Student Resources
+- Student Organizations
+- USI Bulletin (Course Catalog)
+- Advising Information
+- Student and Program Outcomes
+
+The Diagnostic Medical Sonography (DMS) Program at the University of Southern Indiana:
+- Provides a curriculum consisting of didactic courses, laboratory and clinical experiences.
+- Consists of 1 1/2 years of prerequisite general education courses, 1 1/2 years of abdominal and OBGYN sonography coursework, and one year of either vascular sonography or cardiac sonography coursework.
+- Leads to a Bachelor of Science degree.
+- Allows students to be eligible to apply for credentialing examinations administered by the American Registry for Diagnostic Medical Sonography (ARDMS).
+- Prerequisite courses must be completed with a grade of C or better.
+- More information and degree requirements can be found in the USI Bulletin.
+URL: https://www.usi.edu/health/diagnostic-medical-sonography/degree-and-program

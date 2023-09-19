@@ -1,0 +1,54 @@
+URL: https://www.usi.edu/emergency/emergency-procedures/earthquake
+cleanedDataText/emergency_emergency-procedures_earthquake.txt
+
+URL: https://www.usi.edu/emergency/emergency-procedures/earthquake
+Emergency Information:
+
+Earthquake Emergency Procedures
+
+If you are indoors during an earthquake:
+
+    Drop to the floor under a sturdy desk or table.
+    Cover your head and face with your arms.
+    Hold on and stay calm.
+    If suitable furniture is not nearby, sit on the floor against an interior wall and cover your head and face with your arms.
+    Stay clear of windows, bookcases, shelves, mirrors, and fireplaces.
+    Do not use elevators.
+    If possible, extinguish any open flames or sources of ignition immediately.
+
+If you are outdoors during an earthquake:
+
+    Get into an open area away from trees, buildings, walls, and power lines.
+    If driving, pull over to the side of the road, stop, and stay inside the vehicle until the shaking is over.
+    Avoid overpasses, bridges, and power lines.
+    If the earthquake has been severe, do not attempt to cross damaged bridges, overpasses, or sections of road.
+
+After the earthquake:
+
+    Check for injuries, starting with yourself.
+    Do not move seriously injured individuals unless they are in immediate danger.
+    Help people who are trapped by furniture or other items that do not require heavy tools to move.
+    Keep phone lines open for emergency calls.
+    Check for gas and water leaks, broken electrical wiring, and broken sewage lines in your area.
+    Check building for cracks and damage.
+    If there is gas leaking, extinguish all sources of ignition and do not turn on or off any electrical switches in the area.
+    Call USI Facility Operations and Planning or USI Public Safety for assistance.
+    If there is damage, report it to the Facility Operations and Public Safety.
+    Attempt to block off damaged areas to keep people away until additional help can arrive.
+    Do not touch downed power lines or damaged building equipment.
+    Check for hazardous materials spills and releases.
+    If the building is damaged, evacuate and attempt to secure the building against entry.
+    Notify Public Safety and Facility Operations of the damage and evacuation.
+    Do not re-enter damaged buildings.
+    If you have to evacuate to a predetermined evacuation area, post a message indicating your location.
+    Take communication devices with you.
+    Turn on a battery-powered radio for damage reports and information.
+    Monitor credible news sources for information and official University instructions.
+    Do not use your vehicle unless there is an emergency.
+    Be prepared for aftershocks and follow additional instructions.
+
+Contact:
+    8600 University Blvd
+    Phone: 812-464-8600
+    Email provided on the site.
+URL: https://www.usi.edu/emergency/emergency-procedures/earthquake

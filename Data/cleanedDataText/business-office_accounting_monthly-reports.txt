@@ -1,0 +1,76 @@
+URL: https://www.usi.edu/business-office/accounting/monthly-reports
+cleanedDataText/business-office_accounting_monthly-reports.txt
+
+URL: https://www.usi.edu/business-office/accounting/monthly-reports
+Business Office
+
+Monthly Reports:
+
+- Annual Reports
+- Forms and Documents
+- Accounts Payable
+- Business Office Accounting
+- Bursar
+
+Real-Time Financial Information:
+
+- Accessing Monthly Reports
+
+Contact:
+- Orr Center, OC 0029
+- Phone: 812-464-1967
+- Email provided on the site.
+
+Overview:
+The Business Office at the University of Southern Indiana (USI) has developed a series of reports for reviewing financial information. These reports replace the previously printed and mailed monthly reports for budget status and accounting transactions. They provide additional features and information such as budget transactions, three-year historical analysis, and month-to-month comparisons.
+
+Monthly Reports Information:
+
+1. M001 - Month End Budget Status:
+   - Shows budget availability as of the end of the fiscal period.
+   - Compares budget versus actual accounting activity.
+   - Presents adjusted budget, year-to-date actual, commitments, available balance, percent of budget used, and percent of budget available.
+
+2. M002 - Month End Transaction Detail:
+   - Provides a detailed list of actual revenue and expense transactions since the beginning of the fiscal year.
+   - Aids in reviewing transaction accuracy, fund/org allocation, and classification.
+   - Questions about transactions should be directed to the accounting contact for the specific fund/org.
+
+3. M003 - Month End Budget Transactions:
+   - Detailed list of budget transactions since the beginning of the fiscal year.
+   - Includes adopted budget, carried forward budget, and current-year budget adjustments.
+   - Helps review budget transactions for accuracy and information.
+   - Questions about transactions should be directed to the budget contact for the specific fund/org.
+
+4. M004 - Month End 3 Year Average Comparison:
+   - Shows revenue and expenses at the end of the fiscal period.
+   - Compares the current year's financial activity with the previous three fiscal years.
+   - Helps gauge financial performance and estimate fiscal year-end balances.
+
+5. M005 - Month End Fiscal Period Comparison:
+   - Shows cumulative financial activity for the fiscal year by each completed month.
+   - Allows comparison of accounting activity for each month of the current fiscal year.
+   - Helps identify exceptions, errors, and trends for planning purposes.
+
+6. M008 - Year to Date Organizational Spending Report:
+   - Shows current balance in agency funds.
+   - Detailed list of actual revenue and expense transactions since the beginning of the fiscal year.
+   - Aids in reviewing transaction accuracy, fund/org allocation, and classification.
+   - Ensures correct fund balances at the end of each month.
+   - Questions about balances and transactions should be directed to the accounting contact for the specific fund/org.
+
+7. P001 - Inception to Date Budget Status:
+   - Shows budget availability based on the inception of the grant.
+   - Compares budget versus actual accounting activity from the beginning of the grant to the current month.
+   - Presents adjusted budget, inception-to-date activity, commitments, and available balance.
+   - Aids in planning and decision making related to grant budgets.
+
+8. P002 - Grant Monthly Transaction History:
+   - Detailed list of actual revenue and expense transactions for each month of the grant period.
+   - Aids in reviewing transaction accuracy, fund/org allocation, and classification.
+   - Questions about transactions should be directed to the accounting contact for the specific fund/org.
+
+Note: The reports are available in Excel format through MyUSI in Finance Self Service. Banner Finance users will receive email notifications when reports for the month are available after each accounting period is closed.
+
+
+URL: https://www.usi.edu/business-office/accounting/monthly-reports

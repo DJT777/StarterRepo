@@ -1,0 +1,47 @@
+URL: https://www.usi.edu/cetl/teaching-and-learning/fact-program
+cleanedDataText/cetl_teaching-and-learning_fact-program.txt
+
+URL: https://www.usi.edu/cetl/teaching-and-learning/fact-program
+Center for Excellence in Teaching and Learning
+
+    Services Offered:
+
+        - Calendar of Events
+        - Newsletter
+        - Teaching and Learning Scholarship and Research
+        - Professional Development
+        - Faculty Learning Communities
+        - New Faculty Resources
+
+    Contact Information:
+
+        - University Center East, Room UC 2260
+        - Phone: 812-461-5476
+        - Email provided on the site
+
+    Formative Assessment of Classroom Teaching (FACT and eFACT) Program:
+
+        - Goal: To assist instructors in reflective teaching by providing mid-semester feedback from students.
+        - How to Request a FACT:
+            - Any faculty member can request a FACT or eFACT by completing a request form.
+            - Effective use of the feedback involves reflection and self-assessment, not evaluation.
+        - When to Schedule a FACT:
+            - Mid-semester (recommended during weeks 4-7)
+            - After students have received at least one grade item
+            - Enough time left in the semester for potential changes in teaching approaches
+            - Suggestions for choosing which course to request a FACT for can be discussed with CETL staff.
+        - What Happens in a FACT:
+            - Trained FACT Consultant visits the class during the last 20 minutes.
+            - Instructor is not present.
+            - Students reflect on their learning experiences and provide suggestions for improvement.
+            - Consultant and students discuss the responses and better understand the learning process.
+        - FACT Consultants:
+            - Provide the service to the USI community.
+            - Receive training to facilitate the FACT process.
+            - Adhere to confidentiality guidelines.
+
+    References:
+        - Responding to Student Feedback: An Opportunity to Make Our Teaching Visible (Rice University Center for Teaching Excellence, 2017)
+        - Soliciting and Using Mid-Semester Feedback (Vanderbilt University Center for Teaching, 2019)
+
+URL: https://www.usi.edu/cetl/teaching-and-learning/fact-program

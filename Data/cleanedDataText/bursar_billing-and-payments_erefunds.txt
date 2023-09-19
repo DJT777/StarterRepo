@@ -1,0 +1,43 @@
+URL: https://www.usi.edu/bursar/billing-and-payments/erefunds
+cleanedDataText/bursar_billing-and-payments_erefunds.txt
+
+URL: https://www.usi.edu/bursar/billing-and-payments/erefunds
+Bursar's Office
+
+- About Us:
+  - Provides information and services related to tuition and fees.
+  
+- Tuition and Fees:
+  - Details about the cost of attending USI and how to pay.
+  
+- Billing and Payments:
+  - Information on how to manage billing and make payments.
+  - Payment methods, including authorized users and payment plans.
+  - Third-party sponsors and employer deferment program.
+  - Understanding the billing statement.
+  
+- Forms:
+  - Access to necessary forms related to the bursar's office.
+  
+- Non-Student Accounts Receivable:
+  - Information for non-students who have financial obligations to USI.
+  
+- Financial Care Team:
+  - Assistance and support for students facing financial difficulties.
+  
+- Frequently Asked Questions:
+  - Answers to common questions about tuition and fees, billing, and payments.
+  
+- eRefunds:
+  - Option to have financial aid refunds directly deposited into a checking or savings account.
+  - Benefits include convenience, quick access, and safety.
+  - Instructions for enrolling in eRefunds through TouchNet in MyUSI.
+
+Contact:
+- Lower level of the Orr Center
+- Phone: 812-464-1842
+- Email provided on the site.
+
+Social Media Channels: Facebook, TikTok, YouTube, Instagram.
+Website: https://www.usi.edu/bursar/
+URL: https://www.usi.edu/bursar/billing-and-payments/erefunds

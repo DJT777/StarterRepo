@@ -1,0 +1,27 @@
+URL: https://www.usi.edu/cetl/contact-us
+cleanedDataText/cetl_contact-us.txt
+
+URL: https://www.usi.edu/cetl/contact-us
+Center for Excellence in Teaching and Learning (CETL)
+
+Location:
+    University Center East (UC 2260)
+
+Contact Information:
+    Phone: 812-461-5476
+    Email: CETL@usi.edu
+
+Director:
+    Amy B. Chan Hilton, Ph.D, P.E., F.EWRI
+    Professor of Engineering
+    Phone: 812-461-5476
+    Email: amy.chanhilton@usi.edu
+
+Services and Resources:
+- Calendar of Events
+- Newsletter
+- Teaching and Learning Scholarship and Research
+- Professional Development
+- Faculty Learning Communities
+- New Faculty Resources
+URL: https://www.usi.edu/cetl/contact-us

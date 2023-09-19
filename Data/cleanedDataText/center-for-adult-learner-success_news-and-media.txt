@@ -1,0 +1,40 @@
+URL: https://www.usi.edu/center-for-adult-learner-success/news-and-media
+cleanedDataText/center-for-adult-learner-success_news-and-media.txt
+
+URL: https://www.usi.edu/center-for-adult-learner-success/news-and-media
+Center for Adult Learner Success
+
+    About Us:
+        Overview of the Center for Adult Learner Success.
+
+    News and Media:
+        Access to news and media related to adult learners.
+
+    Adult Learner Interest Form:
+        Form for adult learners to express their interest.
+
+    Contact:
+        Location: 3082 Health Professions Center
+        Phone: 812-465-1045
+        Email provided on the site.
+
+    Can my work experience and training certifications count toward college credit?
+        Overview:
+            Provides an answer to the question, stating that work experience and training certifications can count toward college credit for adult learners.
+        University Belief:
+            States that the University of Southern Indiana acknowledges the value of knowledge gained through professional experience and field-specific certifications.
+        Read More... 
+            Clickable link to access further information.
+
+    Social Media Channels:
+        Facebook, Instagram.
+
+Additional Information
+
+    Contact:
+        Location: 8600 University Blvd, Evansville, IN 47712
+        Phone: 812-464-8600
+        Email provided on the site.
+    Social Media Channels:
+        Facebook, TikTok, YouTube, Instagram.
+URL: https://www.usi.edu/center-for-adult-learner-success/news-and-media

@@ -1,0 +1,50 @@
+URL: https://www.usi.edu/science/chemistry/faculty-research
+cleanedDataText/science_chemistry_faculty-research.txt
+
+URL: https://www.usi.edu/science/chemistry/faculty-research
+Pott College of Science, Engineering, and Education - Faculty Research in Chemistry and Biochemistry
+
+Faculty and Research Areas:
+
+1. Dr. Brian Bohrer
+   - Ph.D. in Analytical Chemistry from Indiana University
+   - Research: Environmental analysis of water samples to detect agricultural and pharmaceutical pollutants using chromatography and mass spectrometry instrumentation
+
+2. Dr. Shelly Blunt
+   - Ph.D. in Organic Chemistry from the University of Iowa
+   - Research: Synthesis of quinoline alkaloids as breast cancer target agents and nucleosides as HIV/AIDS target agents, asymmetric epoxidations for chiral drug targets
+
+3. Dr. Jeannie Collins
+   - Ph.D. in Biochemistry from the University of Southern Mississippi
+   - Research: Cytoskeletal proteins involved in motility, structural support, organelle transport, intracellular communication, DNA replication in slime molds and plants
+
+4. Dr. Priya Hewavitharanage
+   - Ph.D. in Photochemical Sciences from Bowling Green State University
+   - Research: Synthesis of fluorescent molecules for biological applications like photodynamic therapy for cancer treatment
+
+5. Dr. Mark Krahling
+   - Ph.D. in Analytical Chemistry from the University of Wisconsin-Madison
+   - Research: Elemental analysis using atomic spectroscopy, gas chromatography-mass spectrometry, and mass spectrometry for environmental analysis
+
+6. Dr. Jacob Lutter
+   - Ph.D. in Inorganic Chemistry from the University of Michigan
+   - Research: Synthesis of metallacrowns for imaging agents, energy upconverters, and other applications using trivalent lanthanide ion guests
+
+7. Dr. Evan Millam
+   - Ph.D. in Physical Chemistry from the University of Minnesota
+   - Research: Electronic spectroscopy, computational chemistry, determination of molecular electronic spectra, transition state calculations, calorimetry
+
+8. Dr. Ken Walsh
+   - Ph.D. in Organic Chemistry from the University of Bristol
+   - Research: Synthesis of carbohydrates and analogs, organocatalysis, adaption of synthetic techniques for teaching laboratory
+
+Contact Information:
+- Location: SC 2255
+- Phone: 812-464-1701
+- Email: Provided on the site
+
+Social Media Accounts:
+- Facebook page for Chemistry and Biochemistry
+- Twitter account for Chemistry and Biochemistry
+- Instagram account for Chemistry and Biochemistry
+URL: https://www.usi.edu/science/chemistry/faculty-research

@@ -1,0 +1,45 @@
+URL: https://www.usi.edu/health/nursing/student-resources/graduate-writing-resources
+cleanedDataText/health_nursing_student-resources_graduate-writing-resources.txt
+
+URL: https://www.usi.edu/health/nursing/student-resources/graduate-writing-resources
+Online Learning
+
+    Online Programs: Explore a list of online programs offered by USI.
+    Student Services: Access resources and support for online students.
+        Exam Proctoring: Learn about online exam proctoring with Proctorio and find FAQs.
+        Covid-19 Special Resources: Access lab software through USI's Windows Virtual Desktop.
+        Academic Resources: Get information about the Blackboard app and online academic tools.
+        Accessibility Statements: View accessibility information for various online technologies.
+        Technical Support: Contact the IT Help Desk for technical assistance.
+
+Student Services
+
+    We are here to help you succeed! The student services section provides access to resources and support.
+    Topics covered include:
+        Exam Proctoring: FAQs and troubleshooting tips for Proctorio.
+        Covid-19 Special Resources: Access to lab software with USI's Windows Virtual Desktop.
+        Academic Resources: Information on the Blackboard app, Microsoft Teams, VoiceThread, Zoom, and more.
+        Support Services: Academic services, Disability Resources, research assistance, and more.
+        Campus Store: Link to the campus store website.
+        Center for Adult Learner Success: Resources and support for adult learners.
+        Eagle Access Card: Request an Eagle Access Card (student ID) to be sent to you.
+        Registration: Online learning course registration and schedule revision instructions.
+        Rice Library: Access online resources and research assistance.
+        David L. Rice: Information about Dr. David L. Rice, the former president of USI.
+
+Student Services
+
+    Online Learning: Provides access to resources and support for online students.
+        Online Programs: Explore the list of online programs offered by USI.
+        Student Services: Access resources and support for online students.
+        Faculty Resources: Resources for faculty members teaching online courses.
+        News and Media: Stay up-to-date with news and events related to online learning.
+        Quality Matters at USI: Information about USI's commitment to quality online education.
+        RemoteLab Instructions: Instructions for accessing lab software remotely.
+        Student VPN Access: Information on accessing USI's network using a VPN.
+        Common Troubleshooting Tips for Proctorio: Tips for troubleshooting issues with Proctorio exam proctoring.
+
+Request Info
+Visit
+Apply
+URL: https://www.usi.edu/health/nursing/student-resources/graduate-writing-resources

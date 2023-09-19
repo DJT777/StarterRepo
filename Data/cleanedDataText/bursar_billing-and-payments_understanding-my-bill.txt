@@ -1,0 +1,45 @@
+URL: https://www.usi.edu/bursar/billing-and-payments/understanding-my-bill
+cleanedDataText/bursar_billing-and-payments_understanding-my-bill.txt
+
+URL: https://www.usi.edu/bursar/billing-and-payments/understanding-my-bill
+Understanding My Bill - Bursar's Office
+
+    Billing and Payments:
+        Payment Methods
+        Authorized Users
+        Payment Plan
+        Third-Party Sponsors
+        Employer Deferment Program
+        eRefunds
+
+    Contact:
+        Location: Lower level of the Orr Center
+        Phone: 812-464-1842
+        Email provided on the site
+
+    Billing Statements:
+
+        Delivery: Emailed to your USI email and authorized user(s) on the first business day of each month.
+        Contents: Snapshot of charges and credits.
+        Checking Balance: View the Account Activity in TouchNet to see current balance.
+        Itemized Account Activity: Can be printed or exported to Excel.
+
+    Glossary (Terms on Billing Statement):
+
+        Authorized aid: Pending aid awaiting disbursement.
+        Memo aid: Pending aid requiring action from the student. View requirements in MyUSI.
+        Memo items: Pending credits.
+        Payment plan: If enrolled, monthly installments are listed.
+        Employer Deferment: Deferred payment amount if tuition deferment form completed with employer.
+        Past due balance: Previously billed amount past the due date.
+        Previous balance: Balance from previous statement.
+        Current balance: Total charges minus applied credits, excluding authorized and memo aid.
+        Total amount due: Current billed balance minus authorized aid, excluding memo aid.
+
+    Detailed Fees: Explanation of Fees page (link provided on the site)
+
+    Contact Information:
+
+        Phone: 812-464-8600
+        Email: Provided on the site.
+URL: https://www.usi.edu/bursar/billing-and-payments/understanding-my-bill

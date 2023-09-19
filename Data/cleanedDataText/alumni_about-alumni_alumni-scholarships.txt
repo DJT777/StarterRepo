@@ -1,0 +1,34 @@
+URL: https://www.usi.edu/alumni/about-alumni/alumni-scholarships
+cleanedDataText/alumni_about-alumni_alumni-scholarships.txt
+
+URL: https://www.usi.edu/alumni/about-alumni/alumni-scholarships
+Alumni Scholarships
+
+- About Alumni: Information about the USI Alumni Association and its mission to improve members' personal, professional, and intellectual well-being.
+- Alumni Resources: Resources available to alumni.
+- Screagles Mentoring Program: Program for alumni to mentor current USI students.
+- Volunteer USI: Opportunities for alumni to volunteer and give back to the university.
+- Update Your Information: Information on how alumni can update their contact information.
+
+Alumni Scholarships
+
+- Description: Scholarships awarded to students based on their application for admission.
+- Scholarship Criteria: Criteria for scholarships, subject to change.
+- AwardSpring: Unified scholarship application that allows students to apply for Foundation scholarships and Alumni Association Scholarships.
+- Deadlines: Application deadline for AwardSpring is the end of January each year.
+- Scholarships Offered:
+  - Twelve $1,000 Scholarships: For USI students with 32-78 credits, currently enrolled in 12 credits, in good standing with the university, and minimum GPA of 3.0.
+  - Twelve $500 Grants: For USI students with 32-78 credits, currently enrolled in 12 credits, in good standing with the university, and minimum GPA of 3.0.
+  - One $1,500 Leadership Award: For graduating high school seniors from Indiana high schools with extensive leadership qualities and in the top 20% of their graduating class. Required essay submission.
+  - Four $1,500 Legacy Scholarships (Renewable): For graduating high school seniors who have a parent/guardian or grandparent who is a USI alum. Renewable for subsequent years.
+  - One $500 Founders' Day Speech Award: For USI students who submit a speech entry to the contest.
+  - One $1,500 Faculty Recognition Award: Selected by previous-year's faculty recipient and presented at the annual Founders' Day Celebration.
+  - One $1,500 Sherrianne Standley University Service Scholarship: For USI students who demonstrate exceptional commitment to and involvement in campus activities, community activities, and academic achievement.
+  - One Tuition Reimbursement: For USI students enrolled in a graduate program that fulfill the requirements of the office's Graduate Assistant position. Selected through an interview process. Tuition reimbursement split between Fall, Spring, and Summer semesters.
+
+Contact Information:
+
+University Center West
+Phone: 812-464-1924
+Email provided on the site.
+URL: https://www.usi.edu/alumni/about-alumni/alumni-scholarships

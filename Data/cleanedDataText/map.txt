@@ -1,0 +1,22 @@
+URL: https://www.usi.edu/map
+cleanedDataText/map.txt
+
+URL: https://www.usi.edu/map
+University of Southern Indiana (USI) Contact Information
+
+Address: 8600 University Blvd, Evansville, IN 47712
+Phone: 812-464-8600
+Email: Contact information available on the website
+
+- Undergraduate Admissions:
+    - Phone: 800-467-1965
+    - Email: enroll@usi.edu
+
+- International Admissions:
+    - Phone: 800-467-1965
+    - Email: i.apply@usi.edu
+
+- Graduate Studies:
+    - Phone: 812-465-7015
+    - Email: Graduate.Studies@usi.edu
+URL: https://www.usi.edu/map

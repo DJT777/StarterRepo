@@ -1,0 +1,44 @@
+URL: https://www.usi.edu/dean-of-students/academic-integrity
+cleanedDataText/dean-of-students_academic-integrity.txt
+
+URL: https://www.usi.edu/dean-of-students/academic-integrity
+Section 5: Academic Integrity
+
+The University of Southern Indiana (USI) upholds a culture of academic integrity, emphasizing respect for students' rights to a safe and quality learning environment. Academic integrity is essential to the university's mission and values. The following outlines the university's academic integrity policy.
+
+5.0 Academic Integrity
+
+Academic integrity encompasses behaviors that demonstrate respect for all students' rights to a safe and quality learning environment. It prohibits actions that interfere with others' educational goals and promotes professional and ethical behaviors. Key aspects of academic integrity include appropriately citing the ideas and work of others, maintaining the integrity of academic endeavors, and reserving unauthorized assistance. Academic integrity ensures fairness, academic honor, and a culture of civility. Failure to uphold academic integrity diminishes the value of a degree and threatens the credibility of the institution and its students.
+
+5.1 Violations of Academic Integrity
+
+USI classifies violations of academic integrity into several categories:
+
+5.1.A. Cheating: Intentionally using unauthorized materials, information, or study aids in any academic exercise.
+5.1.B. Interference: Behaviors that detract from a safe and quality learning environment, such as disruptive or disrespectful behavior.
+5.1.C. Fabrication: Creating false information or citations for the purpose of deception.
+5.1.D. Plagiarism: Using the work or ideas of another person without appropriate acknowledgment.
+5.1.E. Academic Sabotage: Intentionally impeding another student's academic progress.
+5.1.F. Facilitating Academic Dishonesty: Intentionally or knowingly helping or attempting to help another commit an act of academic dishonesty.
+5.1.G. Violation of Research or Professional Ethics: Violating ethical codes, professional standards, or university policies.
+5.1.H. Violations Involving Potentially Criminal Activity: Actions such as theft, fraud, forgery, and distribution of unauthorized materials.
+5.1.I. Repeated Academic Integrity Violations: Multiple violations of academic integrity may result in further action, such as disciplinary probation or expulsion.
+
+5.2 Student Rights and Due Process in the Academic Integrity Process
+
+Students have several rights and due process protections during the academic integrity process. These include the right to an informal resolution, the right to formal resolution if desired, the right to present information and witness testimony, and the right to an advisor. The standard of proof for determining responsibility is whether a violation is "more likely than not" to have occurred.
+
+5.3 Academic Integrity Resolution Procedures
+   5.3.A. Academic Integrity Authority: The Provost's Office oversees the academic integrity process at USI.
+   5.3.B. University Hearing Board: The University Hearing Board, appointed and trained by the Dean of Students, is responsible for hearing cases related to academic integrity.
+   5.3.C. Administrative Hearings: Most complaints are resolved through administrative hearings, involving the student, the hearing officer (typically an academic department chair), and any other necessary individuals to determine responsibility.
+   5.3.D. University Hearing Board Procedures: When cases require a hearing before the University Hearing Board, the accused student and the complainant present their cases, question witnesses, and offer evidence. After deliberation, the University Hearing Board reaches a decision based on the evidence and may impose sanctions if necessary.
+   5.3.E. Conflict of Interest: Members of the hearing board or hearing officers with a conflict of interest must recuse themselves from the proceedings.
+   5.3.F. Findings and Sanctions: Hearings may result in charges being dropped, finding the student not responsible, or finding the student responsible. Sanctions are determined based on the severity of the offense and may include educational activities, failing assignments or classes, probation, dismissal from a program, academic probation, or expulsion.
+   5.3.G. Appeals: Students found responsible for a violation of academic integrity may appeal the decision based on specific grounds, such as violations of due process or disproportionate sanctions. Appeals are reviewed by the Dean of the academic college, and further review can be requested from the Provost's Office.
+   5.3.H. Levels of Violations and Sanctions: Violations are classified into three levels based on severity, and sanctions are determined accordingly.
+
+Please refer to the USI website for the complete Academic Integrity Policy for more detailed information.
+
+
+URL: https://www.usi.edu/dean-of-students/academic-integrity

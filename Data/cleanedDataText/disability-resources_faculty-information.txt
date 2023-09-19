@@ -1,0 +1,54 @@
+URL: https://www.usi.edu/disability-resources/faculty-information
+cleanedDataText/disability-resources_faculty-information.txt
+
+URL: https://www.usi.edu/disability-resources/faculty-information
+Disability Resources for Faculty
+
+    Collaborative Process:
+        Providing accommodations in the classroom is a collaborative effort between students, faculty, and Disability Resources (DR).
+        Contact DR for any questions or assistance in providing accommodations.
+
+    Goal of Accommodations:
+        Accommodations aim to minimize the impact of disabilities and provide equal access to education.
+        Accommodations should not require significant changes to the curriculum or essential course elements.
+        All students should be required to meet the same course objectives.
+
+    Faculty FAQ's:
+        Check the ADA Coordinator's web page for Frequently Asked Questions (FAQs) from faculty.
+
+    Testing Accommodations:
+        Two options for administering exams:
+            Administer exams with approved accommodations yourself.
+            Utilize the DR testing area, where student exams can be electronically monitored and recorded upon request.
+        
+        Submitting Exams:
+            Exams can be submitted electronically via the electronic test submission form.
+            Exams may also be delivered in person to the DR office, with testing instructions included for each student.
+            Exams should be delivered or submitted no later than 4pm the day before testing.
+
+        Additional Information:
+            The DR office provides scantrons, basic calculators, and scratch paper for electronically submitted exams.
+            Professors can pick up completed exams or request them to be sent via campus mail.
+            Adjust exam start times for students with multiple exams in a day to ensure they receive their extended time on each exam.
+
+    Resources:
+        How to add extra time to Blackboard Exams.
+        Tips for Online Learning.
+        Creating an accessible course environment:
+            Ensure accessibility for screen reading software for students with vision impairments.
+            Use standard page formatting and fonts without serifs.
+            Provide good contrast between print and background.
+            Avoid using color as the sole means of conveying meaning.
+            Create uncluttered pages.
+            Consider the needs of students with ADHD and learning disabilities.
+            Ensure all videos have accurate captions for students with hearing impairments.
+            Make sure required actions can be done with a keyboard for students with physical impairments.
+            Avoid Skype, live chats, and telephone conversations for students with speech impairments.
+            Prevent attention-grabbing flickers for students with seizure disorders.
+            Teach students discussion board etiquette and provide multiple ways to access materials.
+        
+    Contact:
+        Email: Provided on the site.
+
+
+URL: https://www.usi.edu/disability-resources/faculty-information

@@ -1,0 +1,31 @@
+URL: https://www.usi.edu/cetl/about
+cleanedDataText/cetl_about.txt
+
+URL: https://www.usi.edu/cetl/about
+Center for Excellence in Teaching and Learning (CETL)
+
+    About CETL
+        Mission: Foster excellence in all areas of faculty work and support the success of the faculty and academic staff at the University of Southern Indiana (USI).
+        Values:
+            Fostering inquiry and learning.
+            Using impact-driven and evidence-based practices.
+            Serving with excellence and integrity.
+            Providing support.
+            Facilitating connections.
+            Nurturing inclusive environments.
+        Goals:
+            Develop and provide programming to enhance student learning through evidence-based teaching practices.
+            Support faculty in their academic goals through professional development.
+            Document the impacts of faculty work.
+            Foster connections and community.
+            Foster a culture of inclusion.
+            Facilitate continuous improvement of CETL programs through evaluation.
+        
+    Contact Information
+        Location: University Center East, UC 2260
+        Phone: 812-461-5476
+        Email provided on the site.
+        
+    Connect with CETL
+        Social Media Channels: Facebook, YouTube, Instagram.
+URL: https://www.usi.edu/cetl/about

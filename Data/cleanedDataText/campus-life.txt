@@ -1,0 +1,27 @@
+URL: https://www.usi.edu/campus-life
+cleanedDataText/campus-life.txt
+
+URL: https://www.usi.edu/campus-life
+Center for Campus Life
+
+    Fraternity and Sorority Life: Information and resources for joining and participating in Greek organizations.
+    O'Daniel Leadership Programs: Opportunities for students to develop leadership skills through workshops, conferences, and other programs.
+    The Source: Resources and support for LGBTQIA+ students.
+    Student Organizations: Various clubs and organizations for students to get involved in.
+    Exploring Evansville: Activities and events to help students explore and engage with the local community.
+    SpringFest 2024: Details about the annual SpringFest event.
+    Homecoming 2024: Information about the annual Homecoming celebration.
+
+Contact Information
+
+    Location: University Center East, UC 0235
+    Office Hours: Monday-Friday, 8 a.m. - 4:30 p.m.
+    Appointment Scheduling: Virtual and in-person appointments available.
+    Contact Information: Phone - (812) 228-5107, Email - getinvolved@usi.edu
+
+Staff Members
+
+    Ms. Jennifer L. Garrison: Associate Director of Center for Campus Life
+    Mr. J. Matthew Hanks: Assistant Director, Fraternity and Sorority Life
+    Ms. Allison L. Weihe: Assistant Director of Student Activities and Traditions
+URL: https://www.usi.edu/campus-life

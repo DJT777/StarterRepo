@@ -1,0 +1,45 @@
+<!-- JANELL SCHIRTZINGER CIS477 HTML CODE BELOW -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <!--linking the css styles-->
+    <link rel="stylesheet" href="static/styles.css">
+    <!--Title of ArchieBot website-->
+    <title>ArchieBot</title>
+</head>
+<!--Start of body-->
+<body>
+<form id="chat-form">
+   <!-- first division for the entire chat box-->
+    <div class="chat-container">
+        <!-- Second division for the header with the image choosen in class by team -->
+        <div class="chat-header">
+        </div>
+        <!-- end second division (for styling)-->
+        <!--image for Archiebot -->
+        <img src="static/Icons/Icon2.png">
+        <!--third division for the chat bot messages -->
+        <div class="chat-messages" id="chat-messages">
+            <div class="message received">Hello! I am ArchieBot, how can I assist you today?</div>
+        </div>
+        <!-- end third division -->
+        <!--image for user
+        <img id="user" src="eagles.png" -->
+        <!-- fourth divison for the user input message -->
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <!--Creating send button -->
+            <button id="send-button"></button>
+        </div>
+        <!-- end fourth division -->
+    </div>
+    <!--end first divison -->
+
+    <!-- linking java script to call the "listener" for the send button and bot responses-->
+    <script src="static/script.js"></script>
+    </form>
+</body>
+<!--end body-->
+</html>
+<!--end html -->

@@ -1,0 +1,37 @@
+URL: https://www.usi.edu/science/biology/research
+cleanedDataText/science_biology_research.txt
+
+URL: https://www.usi.edu/science/biology/research
+Pott College of Science, Engineering, and Education - Biology Department
+
+    Faculty Research Interests:
+        - Dr. Richard Bennett: Relationship between Chemical Weapons & Cancer
+        - Dr. Alex Champagne: Evolutionary Physiology and Lipid Biochemistry
+        - Dr. Kimberly Delaney: RNA Binding Proteins and DNA Genome Organization
+        - Dr. Cindy DeLoney-Marino: Symbiosis between Bioluminescent Bacterium & Bobtail Squid
+        - Dr. Edith Hardcastle: Conservation of Rare Plants & Plant Communities
+        - Dr. Kyle Mara: Functional Morphology of Feeding & Locomotion
+        - Dr. Henri Maurice: Plant Growth & Development and Prospecting for Biomedicines
+        - Dr. Eric McCloud: Insect Behavior & Functional Morphology, Chemical Ecology, and Conservation Biology of Forests
+        - Dr. Rebecca Sparks-Thissen: Viral Replication
+        - Dr. Rex Strange: Molecular & Evolutionary Genetics of Fishes; Histology and Embryology
+        - Dr. Brent Summers: Marine and Freshwater invertebrate ecology, Marine Protected Area Conservation Biology
+
+    Undergraduate Opportunities:
+        - Hands-On Research Experiences
+        - Opportunity to work alongside faculty on unique research questions
+        - Opportunities to present research at scientific conferences
+
+    Recent Biology Department Publications:
+        - List of faculty research interests and publications
+
+    Research Funding Opportunities:
+        - Barnett Research Award
+        - Endeavor! Award
+        - USI Foundation funding
+
+Contact Information:
+- Science Center 1273
+- Phone: 815-465-1084
+- Email provided on the site.
+URL: https://www.usi.edu/science/biology/research

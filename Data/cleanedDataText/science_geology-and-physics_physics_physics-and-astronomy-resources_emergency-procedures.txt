@@ -1,0 +1,43 @@
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/emergency-procedures
+cleanedDataText/science_geology-and-physics_physics_physics-and-astronomy-resources_emergency-procedures.txt
+
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/emergency-procedures
+Pott College of Science, Engineering, and Education Emergency Procedures:
+
+1. In emergency or accident situations involving radioactive materials:
+    a. Restrict access to the immediate area and establish a restricted area boundary for authorized personnel only.
+    b. Maintain constant surveillance of the restricted area until deemed safe for occupancy.
+    c. Notify the authorized user supervising the material involved in the accident immediately.
+    d. Assess minor spills and follow proper procedures for containment and cleanup.
+    e. Assess major spills and follow proper procedures for evacuation, containment, and decontamination.
+    f. Handle fires, explosions, or major emergencies by notifying all personnel to evacuate, contacting the fire department, and cooperating with RSO (Radiation Safety Officer) and other facility safety personnel.
+
+2. For minor spills of liquids and solids:
+    a. Notify individuals in the area of the spill.
+    b. Cover the spill with absorbent paper and clean it up using gloves and absorbent paper.
+    c. Dispose of contaminated materials in a radioactive waste container.
+    d. Conduct surveys to check for contamination in the area and on personnel.
+    e. Report the incident to the RSO promptly.
+
+3. For major spills of liquids and solids:
+    a. Clear the area and survey all uninvolved personnel, then vacate the room.
+    b. Limit movement to prevent the spread of contamination.
+    c. Shield the source if possible without causing further contamination or significant exposure.
+    d. Secure the area and notify the RSO immediately.
+    e. Decontaminate personnel by removing contaminated clothing and flushing skin with lukewarm water and mild soap.
+    f. Cooperate with RSO for investigation, decontamination, and documentation.
+
+4. For minor fires:
+    a. Attempt to put out the fire using approved methods if no other hazards are present.
+    b. Notify all personnel to vacate the area and call the RSO and fire department.
+    c. Survey individuals involved in firefighting for possible contamination.
+    d. Decontaminate personnel and follow instructions from the RSO for decontamination and area cleanup.
+
+5. For fires, explosions, or major emergencies:
+    a. Notify all personnel to leave the area immediately.
+    b. Notify the fire department and the RSO.
+    c. Collaborate with the RSO and facility safety personnel to provide information on location of radioactive materials and precautions to avoid exposure or contamination risks.
+    d. Cooperate with the RSO for investigation and follow their instructions for decontamination and documentation.
+
+Note: Proper training and supervision are required for handling radioactive materials and conducting decontamination and recovery operations.
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/emergency-procedures

@@ -1,0 +1,39 @@
+URL: https://www.usi.edu/cap/liaison
+cleanedDataText/cap_liaison.txt
+
+URL: https://www.usi.edu/cap/liaison
+USI Faculty Liaisons
+
+- Introduction:
+    - Thank you for your involvement as a liaison in USI's dual credit program.
+    - Your oversight and support of CAP (College Achievement Program) teachers in high schools is crucial for the success of the program.
+    - Resources available to help you in your role as a CAP liaison.
+
+- Liaison Responsibilities:
+    - Visit and Orientation Forms:
+        - Virtual Observation Visit: Pre/Post Checklist (pdf)
+        - Approved Instructor Observation Form (pdf, Word)
+        - Prospective Instructor Observation Form (pdf, Word)
+        - New Instructor Orientation Checklist (pdf)
+        - Professional Development Documentation Form (Word)
+        - Online Syllabus Review Web Form (submission of this form sends a syllabus review summary to the CAP inbox, which is then shared with the CAP instructor on your behalf)
+        - Syllabus Review Form (Word) (for liaisons who prefer to review a syllabus on paper while submitting visit paperwork)
+        - How to Create a Travel Pre-Approval in Chrome River (for observation visit mileage)
+        - Discipline-Specific Orientation Checklist for New CAP Instructors (pdf, Word)
+    
+    - Other Resources:
+        - NACEP Standards
+        - Participating CAP High Schools
+        - Instructor Assistance Resources
+        - Administrative Guide
+        - Advising Information
+        - Applying to CAP
+        - Transferring CAP Credits
+
+- Contact:
+    - University Center (UC) East 2245
+    - Phone: 812-228-5022
+    - Email provided on the site.
+
+- Social Media Channels: Facebook, Twitter.
+URL: https://www.usi.edu/cap/liaison

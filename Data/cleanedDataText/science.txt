@@ -1,0 +1,42 @@
+URL: https://www.usi.edu/science
+cleanedDataText/science.txt
+
+URL: https://www.usi.edu/science
+Pott College of Science, Engineering, and Education at USI
+
+    Programs Offered: 
+        Biology
+        Chemistry and Biochemistry
+        Engineering
+        Geology, Physics and Environmental Science
+        Kinesiology and Sport
+        Mathematical Sciences
+        Teacher Education
+        Pre-Professional Studies
+    
+    Welcome Message:
+
+    The Pott College of Science, Engineering, and Education at USI is dedicated to empowering the next generation of inventive thinkers and transforming lives through the power of discovery. The faculty, staff, and alumni are committed to academic excellence and provide hands-on learning experiences to each student. The college fosters a culture of caring and connection, and strives to prepare students to be creative problem solvers and influential leaders. 
+
+    Interim Dean: 
+    William Elliott, Ph.D.
+    
+    Resources:
+        - Faculty & Staff
+        - Prospective Students
+        - Student Resources
+        - Advising & Resource Center
+        - Pott College Student Campus Community
+        - Southwest Indiana STEM Opportunities Spotlight
+
+    Recent News:
+        - Dr. William Elliott appointed as the Interim Dean of the Pott College.
+        - Dr. Tori Colson, Assistant Dean of Pott College, recognized for contributions to diversity.
+        - Call for Testimony to the Council for Accreditation of Educator Preparation.
+        - Elissa Tam awarded the 2022 Trustees Distinguished Merit Award.
+
+    Contact Information:
+        Address: 8600 University Blvd
+        Phone: 812-464-8600
+        Email provided on the site
+URL: https://www.usi.edu/science

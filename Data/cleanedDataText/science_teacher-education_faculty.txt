@@ -1,0 +1,65 @@
+URL: https://www.usi.edu/science/teacher-education/faculty
+cleanedDataText/science_teacher-education_faculty.txt
+
+URL: https://www.usi.edu/science/teacher-education/faculty
+Pott College of Science, Engineering, and Education - Teacher Education Department
+
+Department Overview:
+
+    Programs:
+        Biology
+        Chemistry and Biochemistry
+        Engineering
+        Geology, Physics and Environmental Science
+        Kinesiology and Sport
+        Mathematical Sciences
+        Teacher Education
+        Pre-Professional Studies
+
+Teacher Education:
+
+    Faculty and Staff:
+        Dr. Lara M. Christoun (Associate Professor of Education, Chair of Teacher Education)
+        Mrs. Lisa K. Bartley (Instructor in Teacher Education)
+        Ms. Teresa L. Branson (Adjunct - Teacher Education)
+        Miss Briana L. Campbell (Adjunct - Teacher Education)
+        Ms. Kelly J. Carlton (Adjunct - Teacher Education)
+        Dr. Robin E. Carroll (Assistant Professor of Education)
+        Dr. Stephanie J. Ciolli-Stewart (Adjunct - Teacher Education)
+        Dr. Tori L. Colson (Assistant Dean of Pott College of Science, Engineering, and Education, Associate Professor of Education)
+        Mrs. Kimberly A. Derk (Adjunct - Teacher Education)
+        Dr. Khalilah T. Doss (Adjunct - Teacher Education, Vice President for Student Affairs)
+        Mrs. Twaunette L. Eberhart (Adjunct - Teacher Education)
+        Mrs. Brenda K. Ferguson (Adjunct - Teacher Education)
+        Mrs. Elizabeth A. Haig (Adjunct - Teacher Education)
+        Mrs. Judy J. Hamsley (Adjunct - Teacher Education)
+        Ms. Erin B. Hollinger (Coordinator of Educator Services)
+        Mrs. LaDonna K. Huber (Adjunct - Teacher Education)
+        Mrs. Carol D. Hudson (Adjunct - Teacher Education)
+        Mrs. Marguerite C. Kayser (Adjunct - Teacher Education)
+        Dr. Timothy S. Mattison (Assistant Professor of Education)
+        Dr. Catherine M. Minihan (Adjunct - Teacher Education)
+        Ms. Jean C. Moore (Instructor in Education, Teacher Education Assessment Manager)
+        Dr. Stacey R. Murray (Assistant Professor of Education)
+        Mrs. Elise C. Murray (Instructor in Education)
+        Dr. Simone E. Nance (Assistant Professor of Education)
+        Mrs. Dekarla Y. Owens (Adjunct - Teacher Education)
+        Mrs. Janell E. Pycior (Adjunct - Teacher Education)
+        Dr. Jill M. Raisor (Professor of Teacher Education)
+        Ms. Susan J. Rice (Adjunct - Teacher Education)
+        Mrs. Joyce A. Rietman (Director of Clinical Internships)
+        Dr. Ronald S. Rochon (President, Professor of Education)
+        Mrs. Tamara R. Skinner (Adjunct - Teacher Education)
+        Dr. Moriah J. Smothers (Associate Professor of Education, Director of Masters and Certificate Programs in Education)
+        Dr. Kelly M. Sparks (Associate Professor of Education)
+        Dr. Jeff A. Thomas (Professor of Education)
+        Dr. Sarah C. Wannemuehler (Director of Clinical Practice)
+        Dr. Elizabeth M. Wilkins (Assistant Professor of Education, Director of Doctoral Program in Education)
+    
+    
+Contact Information:
+
+    Education Center, ED 3114
+    Phone: 812-465-7024
+    Email provided on the site
+URL: https://www.usi.edu/science/teacher-education/faculty

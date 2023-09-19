@@ -1,0 +1,48 @@
+URL: https://www.usi.edu/international/student-services
+cleanedDataText/international_student-services.txt
+
+URL: https://www.usi.edu/international/student-services
+Center for International Programs (CIP)
+
+    Contact Information:
+        University Center East, Room 1235
+        Phone: 812-465-1248
+        Email: intlprog@usi.edu
+    
+    Welcome to the University of Southern Indiana and the city of Evansville! The CIP is here to support international students in their academic and personal journeys. Our staff is available to assist you with any questions or concerns you may have.
+
+    New Student Checklist:
+        1. Activate your myUSI account at my.usi.edu using your University ID number.
+        2. Complete online modules before attending the in-person orientation.
+        3. Attend in-person orientation.
+        4. Take the university placement test.
+        5. Meet with an academic advisor and register for classes.
+        6. Obtain your Eagle Access Card (student ID).
+        7. Purchase books at the USI Campus store.
+        8. Pay tuition and fees through the Bursar.
+        9. Submit copies of your immunization record or complete the Student Immunization Form.
+        10. Complete the International Student Data Form.
+        11. Print your health insurance card.
+        12. Sign up for a meal plan.
+        13. Complete SEVIS transfer procedures if applicable.
+        14. Sign up for RAVE alerts.
+        15. Finalize your housing application if not done already.
+        16. Notify the CIP of any changes in address or phone number.
+        17. Apply for a Social Security card if you have an on-campus job or an ITIN card if you receive a scholarship from a U.S. source.
+    
+    USI Academic Information:
+        - USI has different academic expectations compared to your home country.
+        - Placement tests (reading, math, and English) may be required.
+        - Changing majors or minors requires completing a Change of Academic Program Form and obtaining a new I-20 from the CIP.
+        - A hold is placed on international students' registrations each semester to ensure compliance with immigration regulations.
+        - USI uses Blackboard, a course management system, for many courses.
+        - The academic calendar provides important dates and holidays.
+
+    Immigration Regulations:
+        - Information on travel regulations, international services, and required forms.
+        - Guidance on healthcare, employment, getting involved on campus, transportation, banks, and U.S. taxes for international students.
+
+    Contact and Connect:
+        - Additional contact information for the CIP.
+        - Social media links to connect with the Center for International Programs.
+URL: https://www.usi.edu/international/student-services

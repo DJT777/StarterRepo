@@ -1,0 +1,50 @@
+URL: https://www.usi.edu/emergency/emergency-procedures/utility-and-technology-failure
+cleanedDataText/emergency_emergency-procedures_utility-and-technology-failure.txt
+
+URL: https://www.usi.edu/emergency/emergency-procedures/utility-and-technology-failure
+Utility and Technology Failure Emergency Information
+
+    Campus Snow Routes: Information about designated routes during snowy conditions.
+    Emergency Procedures:
+        - Active Shooter / Hostage Situation
+        - Bomb Threat
+        - Fire and Building Evacuation
+        - Hazardous Spills and Odors
+        - Utility and Technology Failure
+        - Severe Weather
+        - Medical Emergencies
+        - Violence and Suspicious Activity
+        - Demonstrations / Protests
+        - Earthquake
+        - Shelter-In-Place
+        - Reporting Emergencies
+    Utility Failure:
+        - In case of a utility failure, contact USI Facility Planning and Operations and USI Public Safety.
+        - Provide building name, floor and room number, nature of the problem, and a contact person.
+        - If necessary, evacuate the area and await further instructions.
+    Electrical / Light Failure:
+        - All buildings are equipped with temporary emergency lighting.
+        - Evacuate the building while the emergency lights are on.
+        - Close fume hoods and biosafety cabinet sashes in laboratories.
+        - Do not enter the building until power is restored.
+    Elevator Failure:
+        - If trapped in an elevator, use the emergency phone to notify Public Safety.
+        - Turn on the emergency alarm.
+    Plumbing / Water Leak:
+        - Contact Facility Planning and Public Safety in case of leaking water.
+        - Cease using electrical equipment and avoid the area.
+    Natural Gas Leak:
+        - If a natural gas leak is discovered, cease all operations.
+        - Evacuate the area immediately and notify Facility Planning and Public Safety.
+    Steam Line Failure:
+        - Cease operations and evacuate the area if necessary.
+        - Notify Facility Planning and Public Safety.
+    Ventilation Problem:
+        - If smoke or odors come from the ventilation system, notify Facility Planning and Public Safety.
+        - Cease operations and evacuate the area if necessary.
+    Technology Failure:
+        - In the event of a technology failure, contact USI Information Technology or the IT Help Desk.
+        - Provide detailed information about the outage or failure, systems impacted, and any suspicious items.
+
+Contact: 8600 University Blvd, Phone: 812-464-8600, Email provided on the site.
+URL: https://www.usi.edu/emergency/emergency-procedures/utility-and-technology-failure

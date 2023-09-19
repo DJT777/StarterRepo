@@ -1,0 +1,36 @@
+URL: https://www.usi.edu/health/nursing/faculty-staff
+cleanedDataText/health_nursing_faculty-staff.txt
+
+URL: https://www.usi.edu/health/nursing/faculty-staff
+College of Nursing and Health Professions - Faculty & Staff
+
+    Assistant Dean for Nursing and Chief Nurse Administrator:
+        Dr. Jennifer L. Evans
+
+    Assistant Dean of Nursing and Associate Professor of Nursing:
+        Dr. Ryan M. Butler
+
+    Nursing Program Chairs:
+        Dr. Charlotte S. Connerton (Chair of RN-BSN Completion Program)
+        Dr. Kathy B. Riedford (Chair of BSN-DNP Program)
+
+    APRN Program Directors:
+        Dr. Kathy B. Riedford (Director of BSN-DNP Program)
+        Mrs. Michelle J. Wakefield (Director of MSN APRN Tracks)
+
+    Faculty Members:
+        - Including Associate Professors, Professors, Clinical Assistant Professors, Assistant Professors, and Instructors in Nursing
+
+    Administrative Staff:
+        Mrs. Tamara J. Hall (Senior Administrative Assistant)
+        Mrs. Ami L. Lloyd (Nursing Recruitment and Retention Coordinator)
+        Miss Lauren N Mygatt (Senior Administrative Assistant)
+
+    Other roles listed:
+        Adjunct - Nursing
+
+    Contact Information:
+        Health Professions Center 2068
+        Phone: 812-461-5226
+        Email provided on the site
+URL: https://www.usi.edu/health/nursing/faculty-staff

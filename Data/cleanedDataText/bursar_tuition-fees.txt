@@ -1,0 +1,106 @@
+URL: https://www.usi.edu/bursar/tuition-fees
+cleanedDataText/bursar_tuition-fees.txt
+
+URL: https://www.usi.edu/bursar/tuition-fees
+Tuition and Fees at the University of Southern Indiana (USI)
+
+Bursar's Office
+
+    About:
+        Responsible for managing tuition and fees
+    Contact Information:
+        Location: Lower level of the Orr Center
+        Phone: 812-464-1842
+
+Tuition Rates and Fees:
+
+Undergraduate Tuition:
+
+    Indiana Resident:
+        Fall 2022 - Summer 2023: $280.51/credit hour
+        Fall 2023 - Summer 2024: $289.70/credit hour
+        RN to BSN online completion: $345/credit hour
+        RRT to BSRT online completion: $345/credit hour
+
+    Non-Resident:
+        Fall 2022 - Summer 2023: $681.99/credit hour
+        Fall 2023 - Summer 2023: $704.25/credit hour
+        Non-Resident Reciprocity (KY): Students from certain Kentucky counties pay fees equal to those of resident students.
+        RN to BSN online completion: $345/credit hour
+        RRT to BSRT online completion: $345/credit hour
+
+    Program fees in addition to tuition rates:
+        Computer Science Program fee: $75/credit hour
+        Engineering Undergraduate Program Fee: $75/credit hour for Engineering courses 200-level and above
+        Health Informatics Program fee: $50/credit hour
+        Nursing Program Fee (BSN): $40/credit hour
+        Respiratory Therapy Program fee: $50/credit hour
+        Social Work Program fee: $50/credit hour
+
+    University Services Fee:
+        $30 (8 or more credit hours per semester)
+        $22.75 (4-7 credit hours per semester)
+        $10 (3 or fewer credit hours per semester)
+
+Graduate Tuition:
+
+    Indiana Resident:
+        Fall 2022 - Summer 2023: $419.06/credit hour
+        Fall 2023 - Summer 2024: $432.78/credit hour
+        Master of Business Administration Online: $430/credit hour
+        Master of Health Administration Online: $432/credit hour
+
+    Non-Resident:
+        Fall 2022 - Summer 2023: $820.86/credit hour
+        Fall 2023 - Summer 2024: $847.66/credit hour
+        Non-Resident Reciprocity (KY): Students from certain Kentucky counties pay fees equal to those of resident students.
+        Master of Business Administration Online: $430/credit hour
+        Master of Health Administration Online: $432/credit hour
+
+    Online Program*:
+        Fall 2022 - Summer 2023: $419.06/credit hour
+        *Students enrolled in all online courses are assessed in-state tuition, except for the MBA and MHA online program.
+
+    Program fees in addition to tuition rates:
+        Master of Science in Nursing: $100/credit hour
+        Master of Science in Occupational Therapy: $100/credit hour
+        Master of Social Work: $50/credit hour
+        Doctor of Nursing Practice: $150/credit hour
+
+    University Services Fee:
+        $30 (8 or more credit hours per semester)
+        $22.75 (4-7 credit hours per semester)
+        $10 (3 or fewer credit hours per semester)
+
+Other Fees:
+
+    Application Fee: $40 (non-refundable)
+    New Student Fee: $475 (undergraduate only)
+    Transportation and Parking Fee (per semester): $150
+    Student Activity Fee: $100
+    Counseling Fee (undergraduate students only): $65
+    Online Learning Fee (per online course): $50
+    Hybrid Learning Fee (per hybrid course): $25
+    Non-Resident Distance Education Fee (per credit hour): $50
+    Lab Fees: $75
+
+    Program Insurance Fees (per academic year/practicum):
+        KIN Profession Insurance Fee: $20
+        NURS Profession Insurance Fee: $20
+        PSY Profession Insurance Fee: $20
+        SOCW Profession Insurance Fee: $20
+
+    Athletics Fee: $120
+    International Student Fee: $200
+    Deaconess Office Visit Plan: $100
+    Archie's Book Bundle (per credit hour for undergraduates): $24
+    Campus Store Inclusive Access (price varies per class)
+    Campus Housing Fees (varies based on accommodations)
+    Meal Plans (varies based on plan)
+
+Other Costs to Consider:
+
+    Books/Supplies: Estimated $600 per semester (costs may vary)
+
+Note: For more detailed information about each fee, please visit the Explanation of Fees page on the USI website. Additionally, information about tuition, fees, and other costs can be found on the Financial Aid Cost of Attendance page. Prospective undergraduate students seeking an estimate of costs can use the Net Price Calculator provided on the site.
+URL: https://www.usi.edu/bursar/tuition-fees

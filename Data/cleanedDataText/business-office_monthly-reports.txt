@@ -1,0 +1,39 @@
+URL: https://www.usi.edu/business-office/monthly-reports
+cleanedDataText/business-office_monthly-reports.txt
+
+URL: https://www.usi.edu/business-office/monthly-reports
+Business Office
+
+Monthly Reports
+
+- Annual Reports
+- Forms and Documents
+- Accounts Payable
+- Business Office Accounting
+- Bursar Monthly Reports
+- Real Time Financial Information
+
+Accessing Monthly Reports
+
+Contact:
+- Orr Center, OC 0029
+- Phone: 812-464-1967
+- Email provided on the site
+
+The Business Office at the University of Southern Indiana has implemented a series of Reports for reviewing financial information. These reports replace the previous monthly reports that were printed and distributed through campus mail. The new reports offer several features to benefit financial managers, department contacts, and authorized individuals viewing University financial information. They provide additional information such as budget transactions, three-year historical analysis, and month-to-month comparisons.
+
+Month End Report Information:
+
+- M001 - Month End Budget Status: Shows budget availability at the end of the fiscal period. Includes adjusted budget, year-to-date actual, commitments, available balance, and the percentage of budget used and available.
+- M002 - Month End Transaction Detail: Provides a detailed list of actual revenue and expense transactions since the beginning of the fiscal year. Helps ensure accurate fund/org posting, correct amounts, and proper classification.
+- M003 - Month End Budget Transactions: Detailed list of budget transactions since the beginning of the fiscal year. Includes adopted budget, carried-forward budget, and current-year adjustments.
+- M004 - Month End 3 Year Average Comparison: Displays revenue and expenses at the end of the fiscal period and compares them with the previous three fiscal years.
+- M005 - Month End Fiscal Period Comparison: Shows cumulative financial activity for the fiscal year, comparing month-to-month values and providing a total.
+- M008 - Year to Date Organizational Spending Report: Shows the current balance in agency funds and provides a detailed list of revenue and expense transactions since the beginning of the fiscal year.
+- P001 - Inception to Date Budget Status: Shows budget availability based on the inception of a grant, including adjusted budget, inception-to-date actual, commitments, and available balance.
+- P002 - Grant Monthly Transaction History: Detailed list of actual revenue and expense transactions for each month of a grant.
+
+For further information and specific questions regarding these reports, contact the Business Office at the provided contact details.
+
+
+URL: https://www.usi.edu/business-office/monthly-reports

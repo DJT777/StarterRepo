@@ -1,0 +1,15 @@
+URL: https://www.usi.edu/international/student-services/banks-in-evansville
+cleanedDataText/international_student-services_banks-in-evansville.txt
+
+URL: https://www.usi.edu/international/student-services/banks-in-evansville
+Local Banks in Evansville
+
+    Fifth Third Bank
+    Old National Bank
+    Evansville Teachers Federal Credit Union
+    German American Bank
+    Heritage Federal Credit Union
+    First Bank
+
+These banks are close to the University of Southern Indiana (USI), with some having ATMs on campus.
+URL: https://www.usi.edu/international/student-services/banks-in-evansville

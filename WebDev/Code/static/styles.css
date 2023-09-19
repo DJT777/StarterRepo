@@ -1,0 +1,108 @@
+/*JANELL SCHIRTZINGER CIS 477 CSS CODE BELOW */
+
+body {
+   /*using snas-serif*/
+    font-family: sans-serif;
+    /*Grey color*/
+    background-color: #E6E7E8;
+}
+/*style profile images*/
+img{
+  width: 50px;
+  height:50px;
+}
+
+/* Not working
+#user {
+  margin-left: 20rem;
+  width: 70px;
+  height:50px;
+}
+*/
+
+/*container for chat box*/
+.chat-container {
+    width: 90%;
+    margin: 50px auto;
+    /*background for chat box is white*/
+    background-color: #ffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/*Chat header with favorite choose in class by team*/
+.chat-header {
+    background: url("Icons/header.png");
+    /*positioning the image*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*Adjusting the hight and padding*/
+    height: 11rem;
+    padding: 10px;
+}
+
+/*Styling chat messages*/
+.chat-messages {
+    padding: 5px;
+    /*move to next line*/
+    overflow-y: auto;
+    max-height: 300px;
+    /*white*/
+    background-color: #ffff;
+    width: 60%;
+    margin-left:1rem;
+}
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.received {
+   /*Grey color*/
+    background-color: #E6E7E8;
+    text-align: left;
+}
+
+/*USER MESSAGE*/
+.sent {
+   /*Blue color*/
+    background-color: #002856;
+    /*WHite*/
+    color: #ffff;
+    /*aligning text to left*/
+    text-align: left;
+    margin-left: 5rem;
+
+}
+
+.chat-input {
+    display: flex;
+    padding: 10px;
+    /*Grey Color*/
+    background-color: #E6E7E8;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid black;
+    margin-right: 13rem;
+    border-radius: 30px;
+
+}
+
+#send-button {
+    background: url("Icons/send.png");
+    /*positioning the image*/
+    height:3rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+URL: https://www.usi.edu/science/engineering/programs
+cleanedDataText/science_engineering_programs.txt
+
+URL: https://www.usi.edu/science/engineering/programs
+Pott College of Science, Engineering, and Education
+
+    Degrees and Programs:
+        Biology
+        Chemistry and Biochemistry
+        Engineering
+        Geology, Physics, and Environmental Science
+        Kinesiology and Sport
+        Mathematical Sciences
+        Teacher Education
+        Pre-Professional Studies
+
+    Engineering:
+
+        Degrees and Programs:
+            Bachelor of Science in Manufacturing Engineering Technology
+            Bachelor of Science in Civil Engineering
+            Bachelor of Science in Engineering (BSE)
+            Bachelor of Science in Electrical Engineering
+            Bachelor of Science in Manufacturing Engineering
+            Bachelor of Science in Mechanical Engineering
+
+        Program Information:
+            Program Educational Objectives & Student Outcomes
+            Scholarships and Aid
+            Faculty Awards and Recognition
+            Advising Information
+            Engineering Student Resources
+            USI Bulletin (Course Catalog)
+
+        Core 39:
+            In addition to the departmental degree requirements, undergraduate students must complete the University Core 39.
+
+    Contact: 8600 University Blvd, Phone: 812-464-8600, Email provided on the site.
+
+    Social Media Channels: Facebook, Instagram
+URL: https://www.usi.edu/science/engineering/programs

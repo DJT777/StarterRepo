@@ -1,0 +1,47 @@
+URL: https://www.usi.edu/business/computer-information-systems/program-objectives-and-student-outcomes
+cleanedDataText/business_computer-information-systems_program-objectives-and-student-outcomes.txt
+
+URL: https://www.usi.edu/business/computer-information-systems/program-objectives-and-student-outcomes
+Romain College of Business - Computer Information Systems (CIS) Program
+
+Mission:
+The CIS Program's mission is to prepare students to identify and analyze business opportunities, utilize information technology in business process management, and provide operational and strategic IT solutions.
+
+Program Objectives:
+1. Introduce students to relevant business information technologies, teamwork, and decision making for integrating business processes with IT.
+2. Provide students with an understanding of the strategic use of IT.
+3. Prepare students to use the systems development life cycle to develop computer-based information systems.
+4. Equip students with the ability to analyze IT security policy technologies and practices.
+5. Provide students with web development and object-oriented programming skills.
+6. Develop students' database skills for data analysis, design, and administration.
+7. Provide students with knowledge of data communications networks and future developments.
+8. Prepare students for the development of computer-based systems projects.
+
+Student Outcomes (Competencies):
+1. Use computer-based information systems and technologies to solve business problems.
+2. Analyze business scenarios and recommend strategic use of IT.
+3. Apply various forms of the systems development life cycle.
+4. Identify and mitigate risks associated with the security of organizational data.
+5. Implement web-based business applications.
+6. Utilize database designs, SQL, and advanced techniques for databases.
+7. Understand hardware and software that make networks more efficient.
+8. Complete a computer-based systems project from request to implementation.
+
+Program Performance Criteria:
+Objective 1: Assignments, labs, quizzes, exams, Major Field Test, SIM game performance and presentation.
+Objective 2: Case analysis (written and oral), exams, Major Field Test.
+Objective 3: Case analysis (written and oral), exams, Major Field Test.
+Objective 4: Labs, exercises, projects, exams, senior project, Major Field Test.
+Objective 5: Exercises, projects, exams, Major Field Test.
+Objective 6: Labs, assignments, exams.
+Objective 7: Labs, assignments, exams, cases, projects.
+Objective 8: Senior project.
+
+Contact Information:
+BE1015
+812-464-1718
+Email provided on the site.
+
+Social Media Channels:
+Facebook, Twitter, YouTube, Instagram, LinkedIn.
+URL: https://www.usi.edu/business/computer-information-systems/program-objectives-and-student-outcomes

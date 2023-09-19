@@ -1,0 +1,46 @@
+URL: https://www.usi.edu/career-services/career-ready-competencies
+cleanedDataText/career-services_career-ready-competencies.txt
+
+URL: https://www.usi.edu/career-services/career-ready-competencies
+Career Services and Internships
+
+    Contact: 
+        Orr Center, OC 074
+        Phone: 812-464-1865
+        Email provided on the site.
+    Social Media Channels: Facebook, Instagram, LinkedIn.
+
+    Career Ready Competencies:
+
+        Definition: Foundational skills that help students succeed in the workforce.
+        Importance: Key to successful entry into the workforce and career development.
+        Framework: Provides a framework for addressing career-related goals and outcomes.
+        NACE (National Association of Colleges and Employers) Competencies (2021):
+            - Career and Self Development
+            - Communication
+            - Critical Thinking
+            - Equity & Inclusion
+            - Leadership
+            - Professionalism
+            - Teamwork
+            - Technology
+
+    Career Resources for Students:
+        - Provide students with resources to develop career-related skills.
+        - Internship and Co-Op opportunities.
+        - Career fairs and events.
+        - Career Launch/Symplicity.
+
+    Information for Employers:
+        - Information on how employers can engage with USI students.
+    
+    Information for Faculty/Staff:
+        - Information on how faculty and staff can support student career development.
+
+    Career Outcomes:
+        - Information on the career outcomes and success of USI graduates.
+
+    Frequently Asked Questions: Common questions about career services and internships.
+
+
+URL: https://www.usi.edu/career-services/career-ready-competencies

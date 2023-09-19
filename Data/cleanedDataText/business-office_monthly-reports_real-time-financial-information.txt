@@ -1,0 +1,32 @@
+URL: https://www.usi.edu/business-office/monthly-reports/real-time-financial-information
+cleanedDataText/business-office_monthly-reports_real-time-financial-information.txt
+
+URL: https://www.usi.edu/business-office/monthly-reports/real-time-financial-information
+Real Time Financial Information - Business Office
+
+Monthly Reports:
+
+- Accessing Monthly Reports:
+    1. Log onto the Internet and go to www.usi.edu.
+    2. Click on the MyUSI link in the lower left hand corner.
+    3. Click on the Sign In link in the upper right hand corner of the MyUSI start page.
+    4. Ensure that the Self Service icon is highlighted and enter your User Name and Password. Contact the IT help desk at 812-465-1080 if you do not know your user name and/or password.
+    5. Click Sign In.
+    6. Click the Finance tab.
+    7. To view financial information, click the Fund-Org Budget Status link.
+    8. Scroll down the page to view summary information for fund-org combinations accessible based on Banner security.
+    9. Select a fund-org and click Show Detail to see more details.
+    10. Click Return to go back to summary information or More Detail to show detail transactions.
+    11. Options are available in the bottom right hand corner of each level to download the information to a printer-friendly view or Microsoft Excel.
+
+- Helpful Information and Tips:
+    - The tool defaults to current financial information. Use the filter to view financial information from another period.
+    - Financial information from the past three years is available using this tool.
+
+Contact Information:
+Orr Center, OC 0029
+812-464-1967
+Email provided on the site.
+
+
+URL: https://www.usi.edu/business-office/monthly-reports/real-time-financial-information

@@ -1,0 +1,37 @@
+URL: https://www.usi.edu/environmental-health-and-safety/general-safety/environmental-health
+cleanedDataText/environmental-health-and-safety_general-safety_environmental-health.txt
+
+URL: https://www.usi.edu/environmental-health-and-safety/general-safety/environmental-health
+Environmental Health and Safety
+
+    Programs:
+        Contractor Safety
+        Emergency Procedures
+        General Safety
+        Risk Management
+
+    General Safety:
+        Fire Safety, Prevention, and Preparedness
+        Environmental Health
+        Hazardous Materials
+        Lab Safety and Research
+        Occupational Safety
+
+    Asbestos:
+        Asbestos-containing material defined as any material containing more than one-percent asbestos.
+        Asbestos used in various building construction products.
+        USI follows regulations of OSHA, EPA, and the state of Indiana for asbestos removal.
+        USI has an Asbestos Management Program and policy in place.
+
+    Mold:
+        Mold removal requires addressing the cause of moisture and mold contaminants.
+        USI follows guidelines from the New York City Department of Health & Mental Hygiene.
+        Environmental Health and Safety (EHS) provides technical assistance and develops a mold abatement strategy.
+        EHS assists with abatement priorities, contracts, supervision, monitoring, waste disposal, and compliance.
+        USI has a Mold Management Program to address mold in university buildings.
+
+    Contact:
+        8600 University Blvd
+        Phone: 812-464-8600
+        Email provided on the site.
+URL: https://www.usi.edu/environmental-health-and-safety/general-safety/environmental-health

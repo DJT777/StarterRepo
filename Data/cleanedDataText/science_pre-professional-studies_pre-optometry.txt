@@ -1,0 +1,43 @@
+URL: https://www.usi.edu/science/pre-professional-studies/pre-optometry
+cleanedDataText/science_pre-professional-studies_pre-optometry.txt
+
+URL: https://www.usi.edu/science/pre-professional-studies/pre-optometry
+Pott College of Science, Engineering, and Education - Pre-Optometry
+
+    Programs:
+        - Biology
+        - Chemistry and Biochemistry
+        - Engineering
+        - Geology, Physics and Environmental Science
+        - Kinesiology and Sport
+        - Mathematical Sciences
+        - Teacher Education
+
+    Pre-Professional Studies:
+        - Pre-Medicine
+        - Pre-Dentistry
+        - Pre-Chiropractic
+        - Pre-Optometry
+        - Pre-Physician Assistant
+        - Pre-Pharmacy
+        - Pre-Occupational Therapy
+        - Pre-Physical Therapy
+        - Pre-Veterinary
+        - Medical Laboratory Science
+
+    Resources:
+        - Pre-Optometry Frequently Asked Questions
+
+    Optometry Overview:
+        - Optometry is an independent primary health care profession focusing on eye and vision disorders.
+        - There are 23 Optometry Schools in the US.
+        - USI students often attend Indiana School of Optometry and University of Missouri-Saint Louis College of Optometry.
+
+    Success Stories:
+        - Dr. Kera Kay '10, UMSL College of Optometry - Assoc. Optometrist, MyOptix Family Eyecare
+        - Josh Dudek '20, UMSL College of Optometry - Third-year student
+
+    Contact Information:
+        - Biology: Dr. Rex M. Strange, Associate Professor of Biology
+        - Chemistry & Biochemistry: Dr. Priyadarshine Hewavitharanage, Professor of Chemistry
+URL: https://www.usi.edu/science/pre-professional-studies/pre-optometry

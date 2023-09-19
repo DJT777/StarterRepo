@@ -1,0 +1,44 @@
+URL: https://www.usi.edu/international/study-abroad/contact-us
+cleanedDataText/international_study-abroad_contact-us.txt
+
+URL: https://www.usi.edu/international/study-abroad/contact-us
+Contact Information:
+
+Center for International Programs:
+
+- Main Office:
+    - Location: University Center East, Room 1234
+    - Phone: 812-465-1248
+    - Email: intlprog@usi.edu
+    - Office Hours: Monday - Friday, 8 a.m. - 4:30 p.m. (central time)
+
+International Admissions:
+- Location: Orr Center, Room 1096
+- Phone:
+    - Local: 812-464-1765
+    - Toll-Free: 800-467-1965
+- Email: i.apply@usi.edu
+- Office Hours: Monday - Friday, 8 a.m. - 4:30 p.m. (central time)
+
+Intensive English Program:
+- Location: Orr Center, Room 3054
+- Phone: 812-461-5365
+- Email: usi1iep@usi.edu
+- Office Hours: Monday - Friday, 8 a.m. - 4:30 p.m. (central time)
+
+Contact for International Programs:
+
+- Mr. Hunter C. Baird: Program Advisor
+- Ms. Melissa S. Gonnerman: Associate Director of the Center for International Programs
+- Ms. Terry L. McIntosh: International Programs Services Coordinator
+- Mr. Christopher O. Pedo: Program Coordinator
+- Graham Quinn: Program Assistant
+- Dr. Emilija Zlatkovska: Affiliate Assistant Professor of English, Director of Intensive English Program, Executive Director of International Programs and Services
+
+Contact for Intensive English Program:
+
+- Dr. Mokhtar A. Al-Zuraiki: Affiliate Assistant Professor of Intensive English
+- Ms. Lisa L. Chamberlin: Instructor in Intensive English
+- Ms. Gracie A. Money: Senior Administrative Assistant
+- Dr. Emilija Zlatkovska: Affiliate Assistant Professor of English, Director of Intensive English Program, Executive Director of International Programs and Services
+URL: https://www.usi.edu/international/study-abroad/contact-us

@@ -1,0 +1,25 @@
+URL: https://www.usi.edu/business/marketing/faculty
+cleanedDataText/business_marketing_faculty.txt
+
+URL: https://www.usi.edu/business/marketing/faculty
+Romain College of Business
+
+Faculty:
+
+- Dr. Sang T. Choe: Professor of Marketing
+- Mr. Jonathan R. Dierlam: Adjunct - Economics and Marketing
+- Dr. Jessica Felix Martinez: Assistant Professor of Marketing
+- Dr. Nicolas Jankuhn: Assistant Professor of Marketing
+- Ms. Aleisha L. Jones: Instructor in Marketing
+- Dr. Chad M. Milewicz: Chair of Economics and Marketing Department, Professor of Marketing
+- Dr. Sabinah Wanjugu: Assistant Professor of Marketing
+- Ms. Lisa A. Wiltsie: Adjunct - Economics and Marketing
+
+Contact Information:
+BE1015
+812-464-1718
+Email
+
+Social Media Channels:
+Facebook, Twitter, YouTube, Instagram, LinkedIn.
+URL: https://www.usi.edu/business/marketing/faculty

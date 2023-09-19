@@ -1,0 +1,44 @@
+URL: https://www.usi.edu/science/chemistry/program-objectives-and-student-outcomes
+cleanedDataText/science_chemistry_program-objectives-and-student-outcomes.txt
+
+URL: https://www.usi.edu/science/chemistry/program-objectives-and-student-outcomes
+Pott College of Science, Engineering, and Education - Chemistry and Biochemistry Program
+
+Faculty:
+- Provides information about the faculty members in the Chemistry and Biochemistry program.
+
+Program Objectives and Student Outcomes:
+- Program mission: Prepare graduates for success in industry, graduate programs, professional schools, or high school teaching through rigorous chemistry education.
+- Program objectives:
+   1. Provide students with scientific skills and chemical knowledge.
+   2. Train students in laboratory techniques and safety.
+   3. Develop effective scientific communication skills.
+   4. Encourage lifelong learning.
+   5. Foster ethical and social responsibilities.
+- Student outcomes:
+   - Have a firm foundation in chemical theories and applications.
+   - Possess critical thinking, problem-solving, and analytical reasoning skills.
+   - Conduct and analyze chemical experiments, following safety practices and techniques.
+   - Use library resources effectively.
+   - Communicate research findings to both chemists and non-chemists.
+   - Find employment, pursue further education, or work in school systems.
+   - Demonstrate personal and ethical attributes as effective scientists.
+   - Understand ethical considerations, safety issues, and waste disposal requirements.
+
+Program Performance Criteria (Metrics):
+- Objective 1: Subject-specific exams, Major Field Test, lab exams.
+- Objective 2: Exams, lab notebooks, lab reports, proposals.
+- Objective 3: Rubrics for lab notebooks, written reports, poster presentations, oral presentations.
+- Objective 4: Literature search assignments, written reports, oral presentations on recent chemistry literature.
+- Objective 5: Poster presentations on material with social implications, papers/research reports.
+
+Map of Program Objectives to Student Outcomes:
+- Shows the alignment between program objectives and student outcomes.
+
+Map of Courses to Student Outcomes:
+- Shows the alignment between courses in the Chemistry and Biochemistry program and student outcomes. Includes course codes and specific outcomes addressed.
+
+For more information, contact the Chemistry and Biochemistry department at SC 2255, 812-464-1701, or visit their social media channels.
+
+
+URL: https://www.usi.edu/science/chemistry/program-objectives-and-student-outcomes

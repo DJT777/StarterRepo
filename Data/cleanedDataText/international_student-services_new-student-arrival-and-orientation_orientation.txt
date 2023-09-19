@@ -1,0 +1,34 @@
+URL: https://www.usi.edu/international/student-services/new-student-arrival-and-orientation/orientation
+cleanedDataText/international_student-services_new-student-arrival-and-orientation_orientation.txt
+
+URL: https://www.usi.edu/international/student-services/new-student-arrival-and-orientation/orientation
+Orientation Center for International Programs
+
+- Invitation to Orientation:
+    - The Center for International Programs invites students to a special orientation program to help them adjust as they begin their journey.
+    - Completion of online orientation modules prior to arrival on campus is mandatory.
+    - Access online orientation modules in English: [link]
+    - Access online orientation modules in Spanish: [link]
+    - In-person orientation for Fall 2023 starts at 8:00 a.m. on August 16, 2023.
+    - Required sessions will mostly run between 8 am - 5 pm.
+    - In-person orientation activities include:
+        - Taking required placement exams
+        - Fulfilling immigration requirements
+        - Meeting with an academic advisor
+        - Registering for classes
+        - Getting familiar with the campus
+        - Having fun!
+    - Students must bring the following documents to the in-person orientation:
+        - Passport
+        - I-20 or DS-2019
+        - $15 or $65 for the TB test
+        - Immunization records
+        - Official transcripts
+    - Join the Center for International Programs' social media on Facebook and Instagram.
+    - Sign up for RAVE alerts by logging in to myUSI and clicking on the RAVEAlert icon.
+    - Download the USI app.
+
+Contact Information:
+University Center East, Room 1235
+Phone: 812-465-1248
+URL: https://www.usi.edu/international/student-services/new-student-arrival-and-orientation/orientation

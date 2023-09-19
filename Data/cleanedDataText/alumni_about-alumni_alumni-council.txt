@@ -1,0 +1,42 @@
+URL: https://www.usi.edu/alumni/about-alumni/alumni-council
+cleanedDataText/alumni_about-alumni_alumni-council.txt
+
+URL: https://www.usi.edu/alumni/about-alumni/alumni-council
+USI Alumni Association
+
+    Alumni Council:
+        - Consists of 21 elected members.
+        - Conducts bi-monthly meetings and an annual meeting in May.
+        - 2023-2024 Council Officers:
+            - Melanie N. Rasche ’10 M’16: President
+            - Ashley K. Elpers ’05 M’21: President Elect
+            - Rileigh M. Lear ’13: Secretary
+            - Heather L. O’Grady ’03: Treasurer
+            - Jennifer K. Bartek ’85 M’07: Immediate Past President
+        - Other Council Members are listed on the website.
+
+    Alumni Resources:
+        - Screagles Mentoring Program
+        - Volunteer Opportunities
+        - Update Your Information
+
+    Alumni Chapters and Groups:
+        - Listed on the website.
+
+    Alumni Awards:
+        - Recognition for alumni achievements.
+
+    Alumni Scholarships:
+        - Scholarships available for alumni.
+
+    Alumni Benefits:
+        - Benefits available to alumni.
+
+    Contact Information:
+        - University Center West
+        - Phone: 812-464-1924
+        - Email provided on the site.
+
+    Social Media Channels:
+        - Facebook, Twitter, Instagram, LinkedIn.
+URL: https://www.usi.edu/alumni/about-alumni/alumni-council

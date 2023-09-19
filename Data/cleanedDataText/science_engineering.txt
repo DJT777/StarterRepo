@@ -1,0 +1,48 @@
+URL: https://www.usi.edu/science/engineering
+cleanedDataText/science_engineering.txt
+
+URL: https://www.usi.edu/science/engineering
+Pott College of Science, Engineering, and Education at University of Southern Indiana (USI)
+
+    Engineering Programs Offered:
+        - General Engineering
+        - Manufacturing Engineering
+        - Mechanical Engineering
+        - Civil Engineering
+        - Electrical Engineering
+
+    Technology Degree Programs Offered:
+        - Bachelor of Science in Manufacturing Engineering Technology
+        - Bachelor of Science in Industrial Supervision
+
+    Faculty:
+        - Professors with industry experience, providing theoretical and practical perspectives
+        - Emphasis on student-teacher interaction, with small class sizes
+
+    Facilities and Equipment:
+        - Business and Engineering Center serves as the primary location for classes and labs
+        - Applied Engineering Center (AEC) houses advanced technology and machinery
+        - AEC also supports the Center for Applied Research, providing prototype design services to outside companies
+
+    Careers and Opportunities:
+        - Graduates find employment in various industries
+        - ABET-accredited engineering degree allows students to sit for the Fundamentals of Engineering (PE) exam
+        - Access to advanced facilities and equipment prepares students for real-world applications
+
+    Scholarship Opportunities:
+        - William F. Bennett Memorial Scholarship
+        - Charles H. and Margaret A. Braun Scholarship
+        - Robert and Suzanne Calvert Engineering Scholarship
+        - Jeffrey S. Deering Memorial Scholarship
+        - Thomas H. & Beatrice Colvin Dunning Scholarship
+        - Priscilla Boots Effinger Memorial Scholarship
+        - And more
+
+    Student Testimonial:
+        - Kelsey Likens '20 shares the opportunities for hands-on experience and the support from faculty members.
+
+    Contact Information:
+        - 8600 University Blvd, Evansville, IN 47712
+        - Phone: 812-464-8600
+        - Email provided on the site.
+URL: https://www.usi.edu/science/engineering

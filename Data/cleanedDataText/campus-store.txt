@@ -1,0 +1,23 @@
+URL: https://www.usi.edu/campus-store
+cleanedDataText/campus-store.txt
+
+URL: https://www.usi.edu/campus-store
+USI Campus Store
+
+Location: University Center West
+
+Contact:
+- Phone: 812-464-1717
+- Email: Provided on the site
+
+Bookstore Hours: Monday - Friday, 8:30am to 4:30pm
+
+Services:
+- Archie's Book Bundle: A textbook rental program that lowers the cost of course materials and ensures students have their required course materials on the first day of class.
+- Apparel and Spirit Shop
+- Textbooks
+
+Connect with USI through social media channels: Facebook, TikTok, YouTube, Instagram.
+
+Contact information for general inquiries about USI is also provided.
+URL: https://www.usi.edu/campus-store

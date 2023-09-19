@@ -1,0 +1,55 @@
+URL: https://www.usi.edu/athletics-council/committees
+cleanedDataText/athletics-council_committees.txt
+
+URL: https://www.usi.edu/athletics-council/committees
+University Athletics Council
+
+Committees:
+
+1. Academic Progress and Integrity
+   - Varsity Club
+   - Faculty (2)
+   - Registrar
+   - Current Faculty Athletic Representative
+
+   Responsibilities:
+   - Monitoring the academic progress and integrity of student-athletes
+   - Reviewing and evaluating academic progress, attendance, and status of student-athletes
+   - Constructing a data dashboard to convey academic trends and achievements of student-athletes
+
+2. Governance and Compliance
+   - Chair of the University Athletics Council
+   - Faculty (1)
+   - Financial Aid
+   - Past Faculty Athletic Representative
+   - Admission Registrar
+   - Compliance Coordinator
+
+   Responsibilities:
+   - Ensuring that the mission and goals of intercollegiate athletics align with the university's mission and goals, as well as conference and national policies
+   - Reviewing and making recommendations on matters related to policy, procedures, control, and compliance
+   - Constructing a data dashboard to communicate findings regarding governance and compliance
+
+3. Student-Athlete Welfare and Equity
+   - Student members (2)
+   - Senior Woman Administrator
+   - Faculty Members (2)
+   - Athletic Director
+
+   Responsibilities:
+   - Monitoring fair and equitable treatment of student-athletes
+   - Protecting the physical, educational, and emotional welfare of student-athletes
+   - Monitoring the university's commitment to sportsmanship and ethical conduct
+   - Constructing a data dashboard to convey findings regarding student-athlete welfare and equity
+
+4. Facility Planning and Fiscal Integrity
+   - Athletic Director
+   - Faculty (1)
+   - Alumnus
+   - Foundation Business Affairs
+
+   Responsibilities:
+   - Developing a shared vision for the university's athletic facilities and programs
+   - Monitoring financial practices and fiscal and facility management
+   - Constructing a data dashboard to convey findings regarding facilities and programs
+URL: https://www.usi.edu/athletics-council/committees

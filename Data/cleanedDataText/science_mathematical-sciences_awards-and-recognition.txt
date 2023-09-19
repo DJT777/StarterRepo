@@ -1,0 +1,42 @@
+URL: https://www.usi.edu/science/mathematical-sciences/awards-and-recognition
+cleanedDataText/science_mathematical-sciences_awards-and-recognition.txt
+
+URL: https://www.usi.edu/science/mathematical-sciences/awards-and-recognition
+Pott College of Science, Engineering, and Education
+
+    Departments:
+        - Biology
+        - Chemistry and Biochemistry
+        - Engineering
+        - Geology, Physics, and Environmental Science
+        - Kinesiology and Sport
+        - Mathematical Sciences
+        - Teacher Education
+        - Pre-Professional Studies
+
+    Mathematical Sciences
+
+        Program Outcomes and Objectives
+        Scholarships and Aid
+        Faculty
+        Student Resources
+        Student Organizations
+
+        Awards and Recognition:
+
+            - Dr. Donald D. Bennett Memorial Scholarship
+            - David W. Kinsey Mathematics Scholarship (two recipients: Keegan Silen and Madison Taylor)
+            - Labhart-Olsen Family Annual Scholarship (recipient: Julia Smith)
+            - Labhart-Olsen Family Renewable Scholarship (recipient: Katelyn Grell)
+            - Stuart Bennett Mathematical Sciences Merit Scholarship
+            - Bill Stegemoller Memorial Scholarship (recipient: Courtney Gates)
+            - Academic Achievement Award for Calculus (recipient: Alyssa Kempf)
+            - Academic Achievement Award for Mathematics (recipient: Joel Humphrey)
+            - Academic Achievement Award for Mathematics Teaching (recipient: Yijing Niu)
+            - Chloe McIssac
+
+    Contact Information:
+        8600 University Blvd
+        Phone: 812-464-8600
+        Email provided on the site.
+URL: https://www.usi.edu/science/mathematical-sciences/awards-and-recognition

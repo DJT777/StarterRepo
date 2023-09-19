@@ -1,0 +1,30 @@
+URL: https://www.usi.edu/business/economics/faculty
+cleanedDataText/business_economics_faculty.txt
+
+URL: https://www.usi.edu/business/economics/faculty
+Romain College of Business Faculty
+
+- Dr. Perry A. Burnett: Associate Professor of Economics
+- Dr. Marie A. Bussing: Adjunct - Economics and Marketing
+- Mrs. Elizabeth J. Byrne: Adjunct - Economics and Marketing
+- Dr. Cathy Carey: Professor of Economics
+- Dr. Peter S. Cordo: Professor of Economics
+- Dr. Prasenjit N. Ghosh: Assistant Professor of Ag Business
+- Mrs. Hayley E. Harrison: Adjunct - Economics and Marketing
+- Dr. Chad M. Milewicz: Chair of Economics and Marketing Department, Professor of Marketing
+- Dr. Sudesh N. Mujumdar: Dean of the Romain College of Business, Professor of Economics
+- Dr. Curtis R. Price: Associate Professor of Economics
+- Dr. Timothy J. Schibik: Assistant Dean of the Romain College of Business, Professor of Economics
+- Dr. Daria P. Sevastianova: Associate Professor of Economics
+- Dr. Bohan Ye: Assistant Professor of Economics
+
+Contact Information:
+
+    Building: Romain College of Business
+    Email: [email protected]
+    Facebook: Romain College of Business Facebook page
+    Twitter: Romain College of Business Twitter page
+    YouTube: Romain College of Business YouTube page
+    Instagram: Romain College of Business Instagram page
+    LinkedIn: Romain College of Business LinkedIn page
+URL: https://www.usi.edu/business/economics/faculty

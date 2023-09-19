@@ -1,0 +1,35 @@
+URL: https://www.usi.edu/cetl/teaching-and-learning/ai-tools-and-teaching
+cleanedDataText/cetl_teaching-and-learning_ai-tools-and-teaching.txt
+
+URL: https://www.usi.edu/cetl/teaching-and-learning/ai-tools-and-teaching
+Center for Excellence in Teaching and Learning at USI
+
+AI Tools and Teaching
+
+The Center for Excellence in Teaching and Learning (CETL) at the University of Southern Indiana (USI) provides information and guidance on the use of AI tools in teaching, specifically in relation to academic integrity. The following FAQs address common questions and concerns regarding the use of AI tools in coursework:
+
+Q1: Is work created by AI tools considered plagiarism or cheating?
+A1: Yes, work created by AI tools, such as ChatGPT, is subject to academic integrity policies at USI. Using generative AI tools without proper authorization or acknowledgment can be considered academic dishonesty.
+
+Q2: What should be included in syllabus statements regarding AI tools?
+A2: Instructors are advised to include clear statements in their syllabi regarding the use of AI tools. Duke University, the University of Iowa, Colorado State University, and Salem State University provide suggested language that instructors can adapt for their own courses.
+
+Q3: How should instructors discuss AI tools and academic integrity with students?
+A3: Instructors are encouraged to have open discussions with students about USI's academic integrity policies and the appropriate use of AI tools. These conversations can take place throughout the semester, covering the benefits, ethical considerations, and limitations of AI tools.
+
+Q4: How can instructors design assessments to mitigate the use of AI tools and enhance learning?
+A4: Instructors can adapt assignments to focus on specific skills and learning outcomes that go beyond information retrieval. Emphasizing processes like outlining, drafting, revising, and peer editing can help develop critical thinking and writing skills. Providing clear guidelines for citation and acknowledgment of sources, including AI tools, is essential.
+
+Q5: How can instructors detect if AI tools were used in student work?
+A5: Detecting the use of AI tools in student work is challenging. Familiarity with students' writing styles and prompt revisions can provide some clues but may not be foolproof. Currently, there are no reliable tools to detect AI-generated content, and existing plagiarism detectors may not recognize it.
+
+The CETL provides additional resources and guidance on the use of AI tools in teaching, including examples from other universities and compilations of relevant information.
+
+Contact Information:
+University Center East UC 2260
+Phone: 812-461-5476
+Email provided on the site.
+
+Social Media Channels:
+Facebook, TikTok, YouTube, Instagram.
+URL: https://www.usi.edu/cetl/teaching-and-learning/ai-tools-and-teaching

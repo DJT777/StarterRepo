@@ -1,0 +1,48 @@
+URL: https://www.usi.edu/science/geology-and-physics/physics/research
+cleanedDataText/science_geology-and-physics_physics_research.txt
+
+URL: https://www.usi.edu/science/geology-and-physics/physics/research
+University of Southern Indiana (USI) - Pott College of Science, Engineering, and Education
+
+    Programs Offered:
+
+        Biology
+        Chemistry and Biochemistry
+        Engineering
+        Geology, Physics and Environmental Science
+        Kinesiology and Sport
+        Mathematical Sciences
+        Teacher Education
+        Pre-Professional Studies
+
+    Geology, Physics and Environmental Science
+
+        Geology
+        Environmental Science
+        Physics
+
+        Program Objectives & Outcomes
+        Faculty
+        Student Organizations
+        Awards and Recognition
+        Advising Information
+        Field Trips
+        Careers in Environmental Science and Geology
+        New Harmony Physics
+
+    Physics Program
+
+        Opportunities in experimental condensed matter physics, experimental nuclear physics, theoretical astrophysics, radio astronomy, physics education, and computational (bio)physics.
+        Physics faculty available to work with undergraduate students on their projects.
+        Research areas:
+            Experimental Nuclear Physics - Researching radioactive sources in geological formations, plasma formation in the upper atmosphere, proton-induced x-ray emission studies, and sputtering of thin films on optical surfaces.
+            Experimental Condensed Matter Physics - Investigating properties of materials in extreme conditions of high pressure, high magnetic field, and low temperatures at the National High Magnetic Field Laboratory in Tallahassee, FL.
+            Particle-Astrophysics - Focusing on sub-fields related to particle-astrophysics, including quantum gravitational collapse, cosmological de Sitter space particle production, alternative models for the expansion of the universe, and the topology of the universe. Establishing a quantum mechanics lab.
+            Radio Astronomy and Communication Systems - Specializing in instrumentation for radio astronomy and communication systems. Working on the GUSTO project and developing a balloon-based communication satellite for high-speed interplanetary communications.
+            Astrophysics - Studying the physics concepts behind objects in the universe, particularly active galactic nuclei. Involves data processing, analysis, and computer programming.
+
+    Contact Information:
+        Science Center 2214
+        Phone: 812-461-5326
+        Email provided on the site.
+URL: https://www.usi.edu/science/geology-and-physics/physics/research

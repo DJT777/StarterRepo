@@ -1,0 +1,100 @@
+URL: https://www.usi.edu/science/mathematical-sciences/faculty
+cleanedDataText/science_mathematical-sciences_faculty.txt
+
+URL: https://www.usi.edu/science/mathematical-sciences/faculty
+Pott College of Science, Engineering, and Education - Mathematical Sciences Department
+
+Department Contacts:
+
+    Dr. Rick A. Hudson
+    - Chair of Mathematical Sciences Department
+    - Professor of Mathematics
+
+    Mrs. Pamela K. Kobe
+    - Senior Administrative Assistant
+
+Faculty:
+
+    Mrs. Kathryn A. Allen
+    - Instructor in Mathematics
+
+    Ms. Carrie L. Andersen
+    - Coordinator of Mathematics Instructors
+    - Instructor in Mathematics
+
+    Mr. Glenn C. Ballard
+    - Instructor in Mathematics
+
+    Mr. Keith W. Carter
+    - Instructor in Mathematics
+
+    Mr. Larry J. Cook
+    - Instructor in Mathematics
+
+    Dr. Heather L. Cook
+    - Assistant Professor of Statistics
+
+    Dr. Mark A. Creager
+    - Associate Professor of Mathematics
+
+    Dr. John R. Donnelly
+    - Professor of Mathematics
+
+    Mrs. Olga M. Donnelly
+    - Instructor in Mathematics
+
+    Ms. Kathleen A. Elliott
+    - Instructor in Mathematics
+
+    Dr. Adrian P. Gentle
+    - Associate Professor of Mathematics
+
+    Ms. George Ann Griffin
+    - Instructor in Mathematics
+
+    Dr. Sangwoo Heo
+    - Professor of Mathematics
+
+    Ms. Mary S. Knust
+    - Instructor in Mathematics
+
+    Dr. Kyong-Hee Melody Lee
+    - Associate Professor of Mathematics
+
+    Dr. Doris J. Mohr
+    - Associate Professor of Mathematics
+
+    Dr. Misty D. Ostergaard
+    - Associate Professor of Mathematics
+
+    Mr. Andrew P. Ostergaard
+    - Instructor in Mathematics
+
+    Dr. Edward E. Rehkopf
+    - Associate Chair of Mathematical Sciences
+    - Associate Professor of Mathematics
+
+    Mr. David B. Ritterskamp
+    - Instructor in Mathematics
+
+    Mr. Christopher K. Robinson
+    - Instructor in Mathematics
+
+    Dr. Kathy V. Rodgers
+    - Adjunct - Mathematical Sciences
+
+    Dr. Yalcin Sarol
+    - Associate Professor of Mathematics
+
+    Mrs. Amanda L. Scott
+    - Instructor in Mathematics
+
+    Dr. Uditha A. Wijesuriya
+    - Associate Professor of Mathematics
+
+    Dr. William G. Wilding
+    - Associate Professor of Mathematics
+
+    Mrs. Judith A. Williams
+    - Instructor in Mathematics
+URL: https://www.usi.edu/science/mathematical-sciences/faculty

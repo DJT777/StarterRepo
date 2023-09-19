@@ -1,0 +1,53 @@
+URL: https://www.usi.edu/business/economics/program-objectives-and-student-outcomes
+cleanedDataText/business_economics_program-objectives-and-student-outcomes.txt
+
+URL: https://www.usi.edu/business/economics/program-objectives-and-student-outcomes
+Romain College of Business - Program Objectives and Student Outcomes
+
+Programs:
+
+1. Accounting
+2. Business Administration
+3. Computer Information Systems
+4. Computer Science
+5. Economics
+6. Finance
+7. Management
+8. Marketing
+9. Master of Business Administration
+10. Certificate Programs
+
+Economics:
+
+- Judith A. and Robert E. Griffin Experimental Economics Laboratory
+- Academy of Business Economics
+
+Program Objectives and Student Outcomes:
+
+1. Developing competency with the cost-benefit approach to decision-making.
+   - Learning Outcomes: Explaining various microeconomic and macroeconomic phenomena (e.g., price movements in markets for specific products, interest-rate setting by the Federal Reserve).
+   - Measurement Tools: ETS Business Major Field Test, ETS Economics Major Field Test, Test of Understanding of College Economics (TUCE), Class assignments.
+   - Course Coverage: ECON 208, ECON 209, ECON 308, ECON 309 (across all Economics courses except ECON 175).
+
+2. Developing competency in transferring acquired knowledge and skills to unfamiliar contexts.
+   - Learning Outcomes: Conducting independent research on economic issues.
+   - Measurement Tools: Research papers.
+   - Course Coverage: ECON 499: Senior Seminar in Economics.
+
+3. Experience with a statistical software package.
+   - Learning Outcomes: Identify patterns and associations in data.
+   - Measurement Tools: Class assignments/Research papers.
+   - Course Coverage: ECON 265, ECON 499, some sections of ECON 208 and upper-level economics courses.
+
+4. Analytical problem-solving.
+   - Learning Outcomes: Use relevant concepts and information to address problems, perform relevant mathematical operations appropriately, interpret results from the operations.
+   - Measurement Tools: ETS Economics Major Field Test, Test of Understanding of College Economics (TUCE), Class assignments.
+   - Course Coverage: ECON 208, ECON 209, ECON 308, ECON 309, ECON 433.
+
+5. Written communication.
+   - Learning Outcomes: Use clear statement of purpose, use clear organization and logic, use clear, accurate, and relevant information and concepts, use standard English and appropriate vocabulary, use clear and effective summary, conclusion, and/or recommendation and closing statement.
+   - Measurement Tools: Class assignments, Research papers.
+   - Course Coverage: ECON 361, ECON 499: Senior Seminar in Economics.
+
+For more information and contact details, please visit the Romain College of Business website.
+URL: https://www.usi.edu/business/economics/program-objectives-and-student-outcomes

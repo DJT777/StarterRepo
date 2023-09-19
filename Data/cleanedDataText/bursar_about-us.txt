@@ -1,0 +1,60 @@
+URL: https://www.usi.edu/bursar/about-us
+cleanedDataText/bursar_about-us.txt
+
+URL: https://www.usi.edu/bursar/about-us
+Bursar's Office
+
+    Location: Lower level of the Orr Center
+    Contact: 812-464-1842
+    Email provided
+
+Office Hours
+
+Fall and Spring:
+
+    Monday through Thursday: 8:15 am to 4:00 pm
+    Friday: 8:15 am to 3:30 pm
+
+Summer (effective May 8 through July 31):
+
+    Monday through Thursday: 8:15 am to 12:30 pm, 1:30 pm to 4:00 pm
+    Friday: 8:15 am to 12:30 pm, 1:30 pm to 3:30 pm
+
+Responsibilities of the Bursar's Office
+
+    Assessing student fees
+    Billing students and third-party vendors
+    Collection of fees and other University revenue
+    Processing account refunds
+
+Appointment Availability for Bill and Payment Questions
+
+    Appointments are not required but can be scheduled for one-on-one advisement.
+    Availability: Monday through Friday
+    Contact the Bursar's Office to check availability or to schedule an appointment.
+
+Policies and Procedures
+
+University Money Handling Procedure
+
+    The Bursar's Office is responsible for controlling, accounting for, and safeguarding cash at the University of Southern Indiana.
+    Employees should not accept money in the name of the University without properly recording the income with an official University receipt.
+    Departments approved to accept money must issue receipts and make daily deposits.
+    Money includes currency, coin, checks, money orders, or cashier checks.
+    Departments should record and document all transactions with an official University receipt.
+    Deposit tickets or forms must be completed, subtotalling currency, coins, and credit cards.
+    Sales involving tax or distributed sales among different Fund, Org, and Account (FOA) should be itemized on the deposit ticket or form.
+    Departments with a safe may store their deposit until the next business day if completed after hours.
+    Departments without a safe or approved locked storage must deliver the deposit the same business day.
+    All checks should be made payable to the University of Southern Indiana.
+    Departments must establish a separation of duties for cash handling.
+    The Bursar's Office must receive all deposits of cash or checks, and departments should not send deposits through campus mail.
+    Access to cash and combinations/keys to safes should be limited to authorized employees.
+    Departments must complete the Daily Deposit Qualtrics form each business day.
+    Departments should follow additional requirements for point of sales transactions and online store transactions.
+    There is a Return Check Policy for payments that are returned for insufficient funds.
+
+Information provided on how to schedule appointments, handle money, and complete various transactions in compliance with University policies and procedures.
+
+
+URL: https://www.usi.edu/bursar/about-us

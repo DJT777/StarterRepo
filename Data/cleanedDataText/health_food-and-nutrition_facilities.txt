@@ -1,0 +1,20 @@
+URL: https://www.usi.edu/health/food-and-nutrition/facilities
+cleanedDataText/health_food-and-nutrition_facilities.txt
+
+URL: https://www.usi.edu/health/food-and-nutrition/facilities
+Food and Nutrition Facilities at the College of Nursing and Health Professions
+
+    Location: Health Professions Center at the College of Nursing and Health Professions.
+
+    Facilities:
+        Quantity Foods Kitchen: Equipped with modern food preparation equipment and a cooking demonstration station.
+        Assessment Lab: Used for completing measurements such as anthropometrics (body measurements), body composition, blood pressure, glucose, and cholesterol.
+        Counseling and Education Room: Contains up-to-date nutrition education materials, models, curriculum, journals, and audiovisuals. Used for client consultations and telehealth sessions.
+        Learning Resource Center: Interdisciplinary space with computers and software for recipe analysis, diet analysis, and data work.
+    Virtual Tour: A 360-degree tour of Food and Nutrition's classroom facilities is available.
+
+Contact Information:
+    Address: Health Professions Center, 3042
+    Phone: 812-228-5151
+    Email: [email address]
+URL: https://www.usi.edu/health/food-and-nutrition/facilities

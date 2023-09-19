@@ -1,0 +1,41 @@
+URL: https://www.usi.edu/center-for-adult-learner-success/about-us
+cleanedDataText/center-for-adult-learner-success_about-us.txt
+
+URL: https://www.usi.edu/center-for-adult-learner-success/about-us
+Center for Adult Learner Success
+
+    About Us
+        Location: 3082 Health Professions Center
+        Phone: 812-465-1045
+        Email: Provided on the site
+        Social Media Channels: Facebook, Instagram
+
+    Our Team
+        Ms. Kristie L. Byrns: Director of Center for Adult Learner Success
+        Mrs. Jaymi L. Johnston: Adult Learner Support Specialist
+        Ms. Paige Rogers: Marketing Manager of the Center for Adult Learner Success
+        Ms. Amy V.B. Wilkerson: Adult Learner Support Specialist
+
+    Office Hours:
+        Monday - Thursday: 8 a.m. - 6:30 p.m.
+        Friday: 8 a.m. - 4:30 p.m.
+        Saturday - Sunday: Closed
+
+    Accreditation:
+        The University of Southern Indiana (USI) is accredited for ten years at the baccalaureate and master's levels by The Higher Learning Commission. Specific programs are accredited by appropriate professional organizations and state agencies.
+
+    Mission:
+        The Center for Adult Learner Success serves as an advocate for adult learners interested in pursuing higher education at USI. It collaborates with academic colleges, Outreach and Engagement, and campus support services to be the primary contact point for potential and current adult students.
+
+    Vision:
+        The Center for Adult Learner Success, guided by USI's strategic goals, aims to become a premier provider of education offerings for the adult learner population.
+
+    Our Stories:
+        - Kristie Byrns: Director, shared her journey as an adult learner and the benefits of achieving one's educational goals.
+        - Nicole Glover: Intake Specialist, discussed her experiences as an adult learner and her commitment to assisting other adult learners.
+        - Jaymi Johnston: Support Specialist, shared her challenges of balancing higher education with work and family responsibilities.
+        - Paige Rogers: Marketing Manager, talked about her educational journey and the empowerment of pursuing a graduate degree.
+        - Amy Wilkerson: Support Specialist, shared her experience of returning to college after a long gap, fulfilling her dream of higher education.
+
+
+URL: https://www.usi.edu/center-for-adult-learner-success/about-us

@@ -1,0 +1,56 @@
+URL: https://www.usi.edu/bursar
+cleanedDataText/bursar.txt
+
+URL: https://www.usi.edu/bursar
+Bursar's Office
+
+About Us:
+    - Information about the Bursar's Office.
+Tuition and Fees:
+    - Details about tuition and fees.
+Billing and Payments:
+    - Information regarding billing and payment processes.
+Forms:
+    - Access to necessary forms.
+Non-Student Accounts Receivable:
+    - Information about accounts receivable for non-students.
+Financial Care Team:
+    - Assistance for students experiencing unexpected financial distress.
+Frequently Asked Questions:
+    - Answers to common questions.
+Contact:
+    - Contact information for the Bursar's Office.
+
+Important Announcements:
+    - Operating hours and appointment information.
+
+Fall 2023 Billing and Payment Information:
+    - Details about payment plans for the fall 2023 semester.
+
+Refunds:
+    - Explanation of eRefunds and how to enroll.
+
+Financial Care Team:
+    - Information about the Financial Care Team and how to seek assistance.
+
+Payment Methods:
+    - Details about various payment methods, including payment plans, employer deferment, and third-party sponsors.
+
+Understanding Your Bill:
+    - Information to help students understand their tuition and fee bills.
+
+Forms:
+    - Access to forms for various Bursar's Office processes.
+
+Authorized Users:
+    - Information for authorized users accessing student billing information.
+
+1098T Tax Form:
+    - Information about accessing and understanding the 1098T tax form.
+
+Non-Student Accounts Receivable:
+    - Information about accounts receivable for non-students.
+
+Financial Care Team:
+    - How to submit a referral for a student in financial crisis.
+URL: https://www.usi.edu/bursar

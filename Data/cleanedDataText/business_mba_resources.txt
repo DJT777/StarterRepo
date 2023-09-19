@@ -1,0 +1,66 @@
+URL: https://www.usi.edu/business/mba/resources
+cleanedDataText/business_mba_resources.txt
+
+URL: https://www.usi.edu/business/mba/resources
+Romain College of Business
+
+    Programs:
+        - Accounting
+        - Business Administration
+        - Computer Information Systems
+        - Computer Science
+        - Economics
+        - Finance
+        - Management
+        - Marketing
+        - Master of Business Administration
+        - Certificate Programs
+
+    Master of Business Administration (MBA) Information:
+        - Orientation Schedule & Course Descriptions
+        - FAQ
+        - How to Apply
+        - MBA Program Goals
+        - Accolades and Testimonials
+        - Resources
+        - Registering for Class (link to external page)
+        - Online Accelerated Program (link to external page)
+
+    Contact Information:
+        - BE 1015
+        - Phone: 812-464-1926
+        - Email
+
+    Social Media Channels:
+        - Facebook
+        - Twitter
+        - YouTube
+        - Instagram
+        - LinkedIn
+
+Resources
+
+    Student Support Resources and Services:
+        - Academic Skills
+        - Blackboard Online Help
+        - Bursar's Office
+        - Campus Store/Textbooks
+        - Career Services
+        - Code of Conduct
+        - Commencement
+        - Counseling and Psychological Services
+        - Disability Resources
+        - Information Technology
+        - Online Learning
+        - Professionalism in MBA courses
+        - Registrar
+        - Research Online
+        - David L. Rice Library
+        - Tutoring (online writing lab, math, subject-based, The Writer's Room, etc.)
+        - Romain College of Business
+        - School of Graduate Studies
+        - Student Financial Assistance
+        - Technical Support (IT Helpdesk)
+        - USI Netiquette
+        - Veteran, Military, and Family Resource Center
+URL: https://www.usi.edu/business/mba/resources

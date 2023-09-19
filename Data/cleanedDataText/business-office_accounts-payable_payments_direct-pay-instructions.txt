@@ -1,0 +1,31 @@
+URL: https://www.usi.edu/business-office/accounts-payable/payments/direct-pay-instructions
+cleanedDataText/business-office_accounts-payable_payments_direct-pay-instructions.txt
+
+URL: https://www.usi.edu/business-office/accounts-payable/payments/direct-pay-instructions
+Accounts Payable at the University of Southern Indiana (USI)
+
+Payment Methods:
+
+Direct Pay Instructions:
+- Contact: Orr Center, OC 0029
+- Phone: 812-464-1967
+- Email: Provided on the site
+- Follow the instructions in the Direct Pay Form:
+    - Enter payee information
+    - Provide address for payment mailing or direct deposit
+    - Describe the transaction and business purpose
+    - Answer additional information questions
+    - Enter Fund, Orgn, Acct, and optional Actv numbers
+    - Allocate amount to each Fund/Orgn/Acct/Actv combination
+    - Obtain financial manager's signature (can be electronic or physical)
+    - Save supporting documentation electronically
+    - Submit the completed form and supporting documentation via email to accounts.payable@usi.edu
+
+Frequently Misunderstood Points:
+- A copy of the direct pay form is not mailed with the check.
+- Description in the direct pay form should be in layman's terms, not copied exactly from supporting documentation.
+- The Fund, Orgn, and Acct numbers each consist of five digits for a total of 15 digits.
+- Only authorized financial managers can approve direct pay forms.
+- Accounts Payable does not call or fax orders to vendors.
+- Departments should make their own photocopies of forms.
+URL: https://www.usi.edu/business-office/accounts-payable/payments/direct-pay-instructions

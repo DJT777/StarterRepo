@@ -1,0 +1,42 @@
+URL: https://www.usi.edu/business-office/forms-and-documents
+cleanedDataText/business-office_forms-and-documents.txt
+
+URL: https://www.usi.edu/business-office/forms-and-documents
+Business Office
+
+    Forms and Documents
+        Monthly Reports
+        Annual Reports
+        Accounts Payable
+        Business Office Accounting
+        Bursar
+
+    Contact Information:
+        Orr Center, OC 0029
+        Phone: 812-464-1967
+        Email provided on the site.
+
+    Forms and Documents:
+
+        Accounts Payable:
+            - Purchasing Card Cardholder Agreement
+            - Purchasing Card Cardholder Guide
+            - Direct Deposit Secure Portal
+            - Direct Pay Form
+            - Student Off Campus Account Disclosure
+            - W-9 Form (available in English and Spanish)
+
+        Accounting:
+            - List of Financial Managers
+            - List of Banner Account Codes
+            - Lease vs. Buy Analysis
+            - Lease Contract Questionnaire
+            - Embedded Lease Questionnaire
+            - Evergreen Lease Term Estimate
+
+Contact:
+
+    Address: 8600 University Blvd, Evansville, IN 47712
+    Phone: 812-464-8600
+    Contact Email: Provided on the site.
+URL: https://www.usi.edu/business-office/forms-and-documents

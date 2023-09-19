@@ -1,0 +1,48 @@
+URL: https://www.usi.edu/science/chemistry/faculty
+cleanedDataText/science_chemistry_faculty.txt
+
+URL: https://www.usi.edu/science/chemistry/faculty
+Pott College of Science, Engineering, and Education
+
+    Departments:
+
+        Biology
+        Chemistry and Biochemistry
+        Engineering
+        Geology, Physics, and Environmental Science
+        Kinesiology and Sport
+        Mathematical Sciences
+        Teacher Education
+        Pre-Professional Studies
+
+Chemistry and Biochemistry Department
+
+    Faculty:
+
+        Dr. Shelly B. Blunt - Deputy Title IX Coordinator, Interim Provost, Professor of Chemistry
+        Dr. Brian C. Bohrer - Associate Professor of Chemistry
+        Dr. Jeannie T. Collins - Associate Professor of Chemistry
+        Mr. Stephen J. Glueckert - Instructor in Chemistry
+        Dr. Scott F. Grady - Assistant Professor of Chemistry
+        Dr. Priyadarshine Hewavitharanage - Professor of Chemistry
+        Mr. Christopher L. Hogue - Laboratory Supervisor
+        Ms. Vandana L. Keniya - Adjunct, Chemistry and Biochemistry
+        Dr. Mark D. Krahling - Associate Professor of Chemistry
+        Dr. Anne-Claire Limon-Lewis - Contract Assistant Professor of Chemistry
+        Dr. Jacob C. Lutter - Assistant Professor of Chemistry
+        Dr. Evan L. Millam - Associate Professor of Chemistry
+        Dr. Mary D. Tucker - Contract Assistant Professor of Chemistry
+        Dr. Kenneth E. Walsh - Associate Professor of Chemistry and Chair of Chemistry and Biochemistry Department
+
+    Department Staff:
+
+        Mr. Randall E. Feller - Science and Engineering Lab Tech
+
+Contact Information:
+
+    Location: SC 2255
+    Phone: 812-464-1701
+    Email provided on the site
+
+Social Media Channels: Facebook, Twitter, Instagram.
+URL: https://www.usi.edu/science/chemistry/faculty

@@ -1,0 +1,55 @@
+URL: https://www.usi.edu/cap/courses
+cleanedDataText/cap_courses.txt
+
+URL: https://www.usi.edu/cap/courses
+USI CAP Courses
+
+The College Achievement Program (CAP) at the University of Southern Indiana (USI) offers over 30 courses in participating high schools. Effective Summer 2023, CAP courses are offered at no charge to students and families. These courses not only apply to USI but also have a high rate of transferability to other institutions. More than half of the USI CAP courses are part of the Indiana Core Transfer Library (CTL), which helps determine how college credits transfer among Indiana public institutions and some independent colleges and universities.
+
+Using the Indiana Core Transfer Library:
+
+1. Visit www.transferin.net/transfer-resources/transfer-databases/core-transfer-library
+2. Use the drop-down menu under Institution to filter by college or university, AND/OR
+3. Use the CTL Name to filter by course name (see list below)
+4. To remove the filter, click on 'Clear Filters' or de-select the college or course in the drop-down menu.
+
+The CTL Name represents various course names across the state. All courses shown under a CTL course name are equivalent courses. For example, USI's ENG 101, Rhetoric and Composition I: Literacy & the Self, can be found under the CTL course title of English Composition 1. As long as the course is completed with a grade of C or higher, all institutions showing an equivalent course should accept the USI course. If your prospective college or university is not listed or if you have questions about the Notes category, contact the Registrar's Office there to inquire about accepting USI credit before submitting your CAP application.
+
+Please refer to the USI Academic Bulletin for complete course descriptions by clicking on the USI course titles in the chart.
+
+USI CAP Courses:
+
+- Biology (BIOL) 105: Biology of Human Concern (4 credit hours)
+- Biology (BIOL) 251: Environmental Conservation (3 credit hours)
+- Chemistry (CHEM) 142: Survey of General Chemistry (4 credit hours)
+- Chemistry (CHEM) 143: Survey of Organic & Biochemistry (4 credit hours)
+- Communication Studies (CMST) 101: Introduction to Public Speaking (3 credit hours)
+- Economics (ECON) 175: Fundamentals of Economics (3 credit hours)
+- English (ENG) 101: Rhetoric and Composition I: Literacy and the Self (3 credit hours)
+- English (ENG) 105: Introduction to Literature (3 credit hours)
+- French (FREN) 203: Intermediate French I (3 credit hours)
+- French (FREN) 204: Intermediate French II (3 credit hours)
+- Geography (GEOG) 112: Earth System Science (3 credit hours)
+- German (GERM) 203: Intermediate German I (3 credit hours)
+- German (GERM) 204: Intermediate German II (3 credit hours)
+- Health Professions (HP) 115: Medical Terminology for the Health Professions (2 credit hours)
+- Health Professions (HP) 211: The Healthcare Delivery System (3 credit hours)
+- History (HIST) 101: The United States to 1877 (3 credit hours)
+- History (HIST) 102: The United States since 1877 (3 credit hours)
+- Journalism (JRN) 180: Journalism Workshop (1 credit hour)
+- Kinesiology (KIN) 188: Introduction to Kinesiology and Sport (2 credit hours)
+- Kinesiology (KIN) 281: Personal Health Science (3 credit hours)
+- Kinesiology (KIN) 282: CPR and Sports Injury Prevention (2 credit hours)
+- Mathematics (MATH) 111: College Algebra (4 credit hours)
+- Mathematics (MATH) 112: Trigonometry (3 credit hours)
+- Mathematics (MATH) 114: Quantitative Reasoning (3 credit hours)
+- Music (MUS) 161: Music Theory I (3 credit hours)
+- Physics (PHYS) 101: Introduction to the Physical Sciences (3 credit hours)
+- Political Science (POLS) 102: Introduction to American Politics (3 credit hours)
+- Psychology (PSY) 201: Introduction to Psychology (3 credit hours)
+- Radio/Television (RTV) 150: Practicum in Broadcasting (1 credit hour)
+- Radio/Television (RTV) 151: Survey of Contemporary Broadcasting (3 credit hours)
+- Social Work (SOCW) 224: Introduction to Social Justice (3 credit hours)
+- Spanish (SPAN) 203: Intermediate Spanish I (3 credit hours)
+- Spanish (SPAN) 204: Intermediate Spanish II (3 credit hours)
+URL: https://www.usi.edu/cap/courses

@@ -1,0 +1,39 @@
+URL: https://www.usi.edu/cetl/teaching-and-learning/open-class-celebration/open-class-schedule
+cleanedDataText/cetl_teaching-and-learning_open-class-celebration_open-class-schedule.txt
+
+URL: https://www.usi.edu/cetl/teaching-and-learning/open-class-celebration/open-class-schedule
+Center for Excellence in Teaching and Learning
+
+    Open Class Schedule:
+
+        2023 Schedule:
+            - Tuesday, February 14, 10:45am-12:35pm: Kristi Hape, OT 663 Occupation Centered Practice (Visit via Zoom or in-person)
+            - Wednesday, February 15, 11am-12:50pm: Robert Millard-Mendez, ART104 Design in Materials
+            - Wednesday, February 15, 12-12:50pm: Kent Scheller, Physics 101 Conceptual Physics (Large lecture, incorporation of demos)
+            - Tuesday, February 21, 1:30-2:45pm: Jill Oeding, BLAW 263 Legal Environment of Business
+            - Tuesday, February 21, 3:00-4:15pm: Stephanie Young, CMST 101 Intro to Public Speaking
+            - Thursday, February 23, 9-10:15am: Rob Carroll, EDUC 221 Diversity and Equity in Education
+            - Thursday, February 23, 10:45am-12:35pm: Kristi Hape, OT 663 Occupation Centered Practice (Visit via Zoom or in-person)
+            - Thursday, February 23, 1:30-2:45pm: Zachary Ward, HA 496 Marketing & Competitive Strategies in Healthcare
+            - Friday, February 24, 12-12:50pm: Kent Scheller, Physics 101 Conceptual Physics (Large lecture, incorporation of demos)
+
+        2022 Schedule:
+            - Monday, February 7, 12:00-12:50 pm: Kent Scheller, PHYS 101 Conceptual Physics (Large lecture, incorporation of demos)
+            - Tuesday, February 8, 10:30-11:45 am: Nicolas Jankuhn, MKTG 332 Consumer Behavior
+            - Tuesday, February 8, 12:00-1:15 pm: Trent Engbers, POLS 332 Statistics and Data Analysis (Flipped class)
+            - Wednesday, February 9, 10:00-10:50 am: Rob Carroll, EDUC 221 Diversity and Equity-Education
+            - Tuesday, February 15, 12:00-1:15 pm: Trent Engbers, POLS 332 Statistics and Data Analysis (Direct instruction)
+            - Tuesday, February 15, 1:30-2:45 pm: Kevin Valadares, IPH 356 Ethics and Health Care
+            - Thursday, February 17, 10:30-11:45 am: Sabinah Wanjugu, MKTG 355 Digital Marketing
+            - Thursday, February 17, 10:30-11:45 am: Xue Han, CS 321 Computer Organization and Architecture (Exam Review via Zoom)
+            - Thursday, February 17, 1:30-2:45 pm: Jill Oeding, BLAW 263 Legal Environment of Business
+            - Friday, February 18, 11:00 am-12:50 pm: Rob Millard-Mendez, ART 104 Design in Materials (All-class critique)
+            - Friday, February 18, 1-1:50 pm: Reflection discussion for all participants
+            - Tuesday, February 22, 12-12:50 pm: Reflection discussion for all participants
+
+    Contact:
+        University Center East
+        UC 2260
+        Phone: 812-461-5476
+        Email provided
+URL: https://www.usi.edu/cetl/teaching-and-learning/open-class-celebration/open-class-schedule

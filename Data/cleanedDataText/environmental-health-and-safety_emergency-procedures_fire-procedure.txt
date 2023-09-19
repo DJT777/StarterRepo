@@ -1,0 +1,101 @@
+URL: https://www.usi.edu/environmental-health-and-safety/emergency-procedures/fire-procedure
+cleanedDataText/environmental-health-and-safety_emergency-procedures_fire-procedure.txt
+
+URL: https://www.usi.edu/environmental-health-and-safety/emergency-procedures/fire-procedure
+Fire Procedure
+
+    Contact:
+        8600 University Blvd
+        Phone: 812-464-8600
+        Email provided on the site
+
+    Introduction:
+        A fire emergency exists when a building fire alarm is sounding or when there is a presence of smoke or flame.
+        Campus buildings shall be immediately and totally evacuated whenever the building fire alarm is sounding.
+        Upon discovery of a fire, contact Public Safety at 7777.
+        Follow the University's procedures for fire evacuations.
+
+    Fire Evacuation Plan:
+        In the event of a fire or other emergency, seconds count.
+        The safe, orderly, and prompt evacuation of building occupants depends on having the physical safety features of a building in operating condition as well as having an emergency evacuation plan.
+        Cooperation and participation of every building occupant is essential.
+        Every person living and working in a building on campus has an individual responsibility to know how to evacuate in an emergency and to accomplish the evacuation when the fire alarm device sounds or when directed by an authority.
+        The plan helps individuals prepare for emergency situations and includes:
+            - Fire Alarm Notification System
+            - Pre-planning escape routes
+            - Evacuation maps
+            - Recognizing the sound of the fire alarm
+            - Gathering areas
+            - Actions for discovering a fire
+            - Evacuation procedure
+            - Reporting a fire or explosion
+            - Fire drills
+            - Laboratory/hazardous operation procedures
+            - Evacuation guide for people with physical disabilities
+            - Additional fire safety precautions
+
+    Fire Alarm Notification System:
+        All building evacuations will occur when an alarm sounds continuously and/or upon notification by emergency personnel.
+        Various methods are used for hazard notification, including audible alarms, flashing lights, voice enunciation systems, digital text boards, RAVE messages, and public address systems.
+
+    Pre-Plan Your Escape:
+        Evacuation maps are posted in each building, indicating exits, evacuation areas, severe weather areas, fire extinguishers, and pull stations.
+        Learn the location of fire alarm pull box locations.
+        Ensure there are at least two unobstructed ways out on your floor.
+        Do not use elevators.
+        Know the location of fire-rated stairwells.
+        Learn the sound of your building's fire alarm.
+        Know the location of your gathering area.
+        If a fire or fire alarm occurs, everyone must evacuate.
+        If a fire or smoke condition is discovered, sound the building alarm by activating the nearest pull station.
+        Make a follow-up call to University Public Safety (security).
+        When the fire alarm sounds, leave immediately.
+        Do not assume the fire alarm is false or wait to see what others do.
+        Do not call the Public Safety Office or switchboard to inquire about the validity of the alarm.
+        Assist others, including persons with disabilities or special needs, if it is safe to do so.
+        Do not re-enter the building to search for someone missing.
+
+    If You Discover a Fire:
+        Take all alarms seriously.
+        Before opening a door, check for heat using the back of your hand.
+        If the door or knob feels hot, do not open it.
+        If cool, open the door slowly, leave the area, and close the door behind you.
+        Stay low if there is smoke.
+        Find an alternate route if the main exit is blocked by fire or smoke.
+        Close doors and seal cracks to keep smoke out.
+        Call University Public Safety (security) and let them know your location.
+        Signal from a window if trapped.
+
+    Reporting a Fire or Explosion:
+        Call University Public Safety (security) and provide vital information:
+            - Location (building and room number if known)
+            - Type of fire or explosion if known
+            - Extent of the fire
+            - Caller's name
+            - Number/location of injured persons
+
+    Fire Drills:
+        Building occupants should participate in fire drills to practice the evacuation plan.
+        Treat each drill as if it were a real emergency.
+
+    Laboratory/Hazardous Operation Procedures:
+        Areas with hazardous operations, including laboratories, should have emergency shutdown procedures in place.
+        Equipment and processes should be secured during evacuations.
+
+    Evacuation Guide for People with Physical Disabilities:
+        Individuals with disabilities should develop a pre-plan for evacuation.
+        Identify exit routes, safe areas of refuge, and communication methods.
+        Establish a buddy system for assistance during evacuation.
+        Inform instructors or colleagues about special needs.
+        During an evacuation, follow the agreed plan and notify University Public Safety (security).
+
+    Additional Fire Safety Precautions:
+        Keep exits clear of obstructions.
+        Conduct fire drills regularly.
+        Follow emergency shutdown procedures for laboratories and hazardous operations.
+
+    Contact:
+        8600 University Blvd
+        Phone: 812-464-8600
+        Email provided on the site
+URL: https://www.usi.edu/environmental-health-and-safety/emergency-procedures/fire-procedure

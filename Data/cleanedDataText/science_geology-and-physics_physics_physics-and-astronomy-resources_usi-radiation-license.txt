@@ -1,0 +1,82 @@
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/usi-radiation-license
+cleanedDataText/science_geology-and-physics_physics_physics-and-astronomy-resources_usi-radiation-license.txt
+
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/usi-radiation-license
+Pott College of Science, Engineering, and Education - Radiation License
+
+    Biology
+    Chemistry and Biochemistry
+    Engineering
+    Geology, Physics, and Environmental Science
+    Kinesiology and Sport
+    Mathematical Sciences
+    Teacher Education
+    Pre-Professional Studies
+
+Geology, Physics, and Environmental Science
+
+    Geology
+    Environmental Science
+    Physics
+        Program Objectives & Outcomes
+        Faculty
+        Student Organizations
+        Awards and Recognition
+        Advising Information
+        Field Trips
+        Careers in Environmental Science and Geology
+        New Harmony Physics
+            Degree and Programs
+            Research
+            Teaching Physics and Astronomy
+            Resources
+                Eclipse 2024
+                USI Radiation License
+                Procedures for Safely Opening Packages Containing Radioactive Material
+                Operating Procedures for the Safe Use of Radioactive Isotopes
+                Emergency Procedures
+                Student Training Certification and Disposition
+                Semi-Annual Radioisotope Inventory - April
+                Semi-Annual Radioisotope Inventory - October
+
+    Contact:
+        Science Center 2214
+        Phone: 812-461-5326
+        Email
+
+Undergraduate 
+
+    Applicant: University of Southern Indiana
+    Address: 8600 University Boulevard, Evansville, IN 47712
+    Radioactive Material:
+        - Hydrogen 3 (Any form, Maximum amount requested: 20 millicuries)
+        - Carbon 14 (Any form, Maximum amount requested: 15 millicuries)
+        - Phosphorus 32 (Any form, Maximum amount requested: 30 millicuries)
+        - Phosphorus 35 (Any form, Maximum amount requested: 30 millicuries)
+        - Sulfur 35 (Any form, Maximum amount requested: 15 millicuries)
+        - Iodine 125 (Any form, Maximum amount requested: 10 millicuries)
+        - Cesium 137 (Sealed Source, Maximum amount requested: 5 millicuries)
+        - Cobalt 60 (Sealed Source, Maximum amount requested: 5 millicuries)
+        - Strontium 90 (Sealed Source, Maximum amount requested: 5 millicuries)
+        - Americium 241 (Sealed Source, Maximum amount requested: 1 millicurie)
+        - Nickel 63 (Sealed Foil Sources, Maximum amount requested: No single source to exceed 15 millicuries)
+    Purpose: Laboratory research, teaching, and training of biology and physics students
+    Individuals responsible for radiation safety program:
+        - RSO: Dr. Kent W. Scheller, Ph.D.
+        - AU: Several faculty members with respective expertise
+    Training: Training for individuals responsible for using licensed material will take place once every two years. New users will receive training before using radioactive material.
+    Facilities and Equipment: Radioactive sources will be stored in designated areas in the Science Center on campus.
+    Radiation Monitoring Instruments: Victoreen Model 290 Geiger Monitor will be used for required surveys.
+    Material Receipt and Accountability: All purchases of radioactive material will be initiated by an AU and approved by the RSO. Receipt of material will be documented, and physical inventories will be conducted twice a year.
+    Occupational Dose: Prospective evaluation concludes that unmonitored individuals are unlikely to receive a radiation dose in excess of 10 percent of the allowable limits.
+    Safe Use of Radionuclides and Emergency Procedures: Operating procedures for the safe use of isotopes and emergency procedures have been established and will be followed.
+    Waste Management: Model waste procedures will be followed for proper waste disposal.
+
+Contact:
+    Pott College of Science, Engineering, and Education Facebook
+    Science Center
+    Phone: 812-461-5326
+    Email
+
+
+URL: https://www.usi.edu/science/geology-and-physics/physics/physics-and-astronomy-resources/usi-radiation-license

@@ -1,0 +1,41 @@
+URL: https://www.usi.edu/business-office/accounts-payable/payments
+cleanedDataText/business-office_accounts-payable_payments.txt
+
+URL: https://www.usi.edu/business-office/accounts-payable/payments
+Accounts Payable
+
+Vendor Information
+
+Payments
+
+Guidelines and Procedures
+
+Forms and Documents
+
+Payments Direct Pay Instructions
+
+Contact: Orr Center, OC 0029
+
+Phone: 812-464-1967
+
+Email provided on the site.
+
+Accounts Payable Overview
+Accounts Payable oversees three payment processes: payments against a purchase order, payments by procurement card (p-card), and payments by Direct Pay Form. The appropriate payment process depends on the payee, the vendor's business practices, and the account code to be charged for the payment.
+
+Payments against a purchase order
+Purchase orders are initiated by University departments and issued by Procurement for goods or services. When the University receives the goods or services, the vendor sends an invoice to Accounts Payable for payment. (Non-invoice Payments should be used when an invoice is not available.)
+
+Payments by procurement card (p-card)
+The University's procurement card (p-card) program allows for the purchase of goods and services without a purchase order. The p-card should be used for purchases from approved vendors that accept Visa. The administrative functions of the p-card program are shared by Procurement and Accounts Payable.
+
+Payments by Direct Pay Form
+Use the Direct Pay Form to initiate payments to companies or individuals when specific conditions are met. This includes direct refunds of income, remittances from asset or liability accounts, employee benefit payments to third parties, and travel awards for students. Completed forms, along with financial manager approval and supporting documentation, should be emailed to accounts.payable@usi.edu.
+
+Additional Information:
+
+Contact: Orr Center, OC 0029,
+Phone: 812-464-1967,
+Email provided on the site.
+
+URL: https://www.usi.edu/business-office/accounts-payable/payments

@@ -1,0 +1,64 @@
+URL: https://www.usi.edu/business-office/accounting/property-accounting
+cleanedDataText/business-office_accounting_property-accounting.txt
+
+URL: https://www.usi.edu/business-office/accounting/property-accounting
+Property Accounting in the Business Office
+
+Property Accounting is responsible for managing and tracking capital equipment at the University of Southern Indiana (USI).
+
+Purpose:
+
+- Tag newly purchased capital equipment with a "Property of University of Southern Indiana" label.
+- Enter capital equipment into the Fixed Asset Control System, including information such as the responsible person, total cost, account number, vendor name, building, and room number.
+- Conduct an annual inventory with the department's assistance.
+- Perform routine spot checks throughout the year.
+- Pass annual audits conducted by university auditors and the State Board of Account Auditors.
+
+Capital Assets:
+
+- Individual items valued at $5,000 or more are generally tagged, including systems with a total value of $5,000 or more.
+- Exceptions include University vehicles, grounds equipment, cleaning equipment, and furniture.
+- Items valued under $5,000 are not generally tagged, except for those on the University Maintenance Pool.
+
+Tagging:
+
+- Items are tagged once they have been paid for by the Accounts Payable Department.
+- The control system coordinator receives an asset report twice monthly and coordinates the labeling process.
+
+Inventory Process:
+
+- The University conducts an annual inventory of fixed assets.
+- Reports of capital items are produced by the Buyer/Fixed Asset Coordinator.
+- Physical inventory is conducted and necessary changes are made in the Fixed Asset Control System.
+- Changes may include new locations, added items, disposed items, sold items, or items in storage.
+- Results of the inventory are kept for audit purposes.
+
+Transfer or Disposal of University Property:
+
+- Departments contact the Procurement Office for instructions when an item is no longer wanted.
+- The Procurement Office attempts to redistribute the item within the university.
+- If there is no need for the item within the university, it may be sold or disposed of through various methods.
+- Unusable property or parts are properly discarded as instructed by the Procurement Department.
+
+Property Policy:
+
+- Fixed assets are maintained in accordance with GASB 34/35, which requires depreciation for not-for-profit organizations.
+- Equipment with a useful life of more than two years and an acquisition cost of more than $5,000 is capitalized.
+- Repairs to capital assets may also be capitalized if they extend the item's life.
+- Real property assets, such as buildings, are divided into functional units with different useful lives.
+- Improvements to real property are also capitalized.
+
+Off Campus Use of Capital Equipment:
+
+- Employees must receive approval from the college dean or department's financial manager to use property away from campus.
+- The use and approval must be in writing or electronically recorded and kept on file with the approving authority.
+- The equipment must be used for University purposes only and returned in satisfactory condition.
+- The employee assumes liability for repair and/or replacement costs of any property not returned in satisfactory condition.
+
+Contact Information:
+
+Orr Center, OC 0029
+Phone: 812-464-1967
+Email provided on the site.
+
+URL: https://www.usi.edu/business-office/accounting/property-accounting

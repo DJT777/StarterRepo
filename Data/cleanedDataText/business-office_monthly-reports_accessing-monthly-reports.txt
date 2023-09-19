@@ -1,0 +1,59 @@
+URL: https://www.usi.edu/business-office/monthly-reports/accessing-monthly-reports
+cleanedDataText/business-office_monthly-reports_accessing-monthly-reports.txt
+
+URL: https://www.usi.edu/business-office/monthly-reports/accessing-monthly-reports
+Business Office
+
+    Monthly Reports
+        Real Time Financial Information
+        Accessing Monthly Reports
+
+    Annual Reports
+
+    Forms and Documents
+
+    Accounts Payable
+
+    Business Office Accounting
+
+    Bursar
+
+    Contact Information:
+        Orr Center, OC 0029
+        Phone: 812-464-1967
+        Email provided on the site
+
+Accessing Monthly Reports
+
+To access monthly finance reports through Banner Self Service:
+
+    Log onto the Internet and go to www.usi.edu.
+    Click on the MyUSI link in the lower left hand corner.
+    Click on the Sign In link in the upper right hand corner of the MyUSI start page.
+    Ensure that the Self Service icon is highlighted and enter your User Name and Password.
+    Click Sign In and then the Finance tab.
+    To view standard finance reports click the Finance Report Selection link.
+    Indicate your preferences if you are looking for a specific month, report, fund, or orgn. Otherwise, leave blank.
+    Click Submit.
+    If fewer choices are desired, make selection(s) in step 9 to filter results.
+    To select a report, click the View link in the Selection column.
+    This will open a new window with the report shown.
+    Note: If selecting XLS reports, there may be a warning box stating that the report is not in the correct format. Click Yes to open the file.
+    To print reports from Microsoft Excel 2007:
+        Select the Page Layout tab, click Orientation from the Page Setup group, and then click Landscape.
+        On the Page Layout tab, select 1 page from the Width drop down box in the Scale to Fit group.
+        Click the Microsoft Office button and select Print.
+    To print reports from previous versions of Microsoft Excel:
+        Select Page Setup from the File menu.
+        On the Page tab, select the radio button for Fit to. Enter 1 in the box for Page(s) wide. Highlight 1 in the box for Tall and delete it, leaving this box blank. Click okay.
+        Select Print from the file menu.
+    Useful Tips:
+        The choices in the drop-down lists for Chart, Fund, and Organization are based on your access according to Banner security.
+        The Calendar Period selection lists only the values where reports exist. This may not correspond to reports you can view due to Banner security.
+        Expand the window to full-screen size for better viewing.
+        Once viewing the report in Excel, you can save a copy to your computer using the usual options.
+
+Note: Windows 7 users may need to adjust settings in Excel to print chosen reports (instructions provided).
+
+
+URL: https://www.usi.edu/business-office/monthly-reports/accessing-monthly-reports

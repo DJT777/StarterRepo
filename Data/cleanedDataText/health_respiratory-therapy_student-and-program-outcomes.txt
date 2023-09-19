@@ -1,0 +1,62 @@
+URL: https://www.usi.edu/health/respiratory-therapy/student-and-program-outcomes
+cleanedDataText/health_respiratory-therapy_student-and-program-outcomes.txt
+
+URL: https://www.usi.edu/health/respiratory-therapy/student-and-program-outcomes
+Respiratory Therapy Program at the University of Southern Indiana (USI)
+
+- Program Offerings:
+    - Degrees and Programs:
+        - Dental Assisting
+        - Dental Hygiene
+        - Diagnostic Medical Sonography
+        - Food and Nutrition
+        - Health Administration
+        - Health Informatics and Information Management
+        - Health Services Nursing
+        - Graduate Nursing Program
+        - Occupational Therapy
+        - Occupational Therapy Assistant
+        - Radiologic and Imaging Sciences
+        - Respiratory Therapy
+    - Frequently Asked Questions
+    - Faculty & Staff
+    - Scholarships and Aid
+    - Student Resources
+    - Student Organizations
+    - USI Bulletin (Course Catalog)
+    - Advising Information
+    - Career Info
+    - Preceptor Resources
+
+- Respiratory Therapy Program:
+    - Program Goals: 
+        - To prepare graduates with demonstrated competence in the knowledge, skills, and behavior required for respiratory care practice as performed by registered respiratory therapists (RRT’s).
+        - To provide community leadership through engagement, service learning, and organizational involvement.
+        - To provide an inclusive learning, caring community that supports students’ success and graduation.
+        - To serve as a leader in respiratory education, evidence-based practice, research, and healthcare.
+        - To promote and advance personal development and inter-professional collaboration of respiratory faculty, staff, graduates, and health professionals.
+
+    - Student Outcomes for the BSRT-Traditional 4-Year Degree:
+        - Upon successful completion of all respiratory therapist program requirements, graduates will be able to:
+            1. Demonstrate proficiency as a respiratory care practitioner, as described by the National Board of Respiratory Care and the Commission on Accreditation for Respiratory Care.
+            2. Demonstrate professional behaviors consistent with the respiratory care code of ethics, ethical obligations, and professional conduct.
+            3. Demonstrate appropriate critical thinking and problem-solving skills, time management skills, interpersonal communication skills, and technical skills necessary to provide competent respiratory care in multidisciplinary care settings.
+            4. Demonstrate the ability to communicate effectively in oral, written, and visual forms.
+            5. Show proficiency in establishing an evidence base for best practices through research and the critique and interpretation of professional scientific literature.
+            6. Display knowledge of current issues and trends in healthcare, including public policy, access, quality improvement, and legal and ethical topics.
+            7. Exhibit knowledge of the roles in respiratory education and management.
+            8. Assist physicians in the diagnosis, management, and treatment of patients affected by cardiopulmonary disorders.
+            9. Demonstrate the ability to apply and evaluate information relevant to their role as an advanced-level respiratory therapist.
+            10. Demonstrate basic competencies in alternate care sites (i.e., home care, rehabilitation centers, and long-term mechanical ventilator centers).
+
+    - Faculty Achievements:
+        - Jody Delp, MEd, RRT, CPFT, Chair and Clinical Assistant Professor of Respiratory Therapy, holds a special certification in pulmonary function technology.
+        - Elizabeth Schnarr, MSRC, RRT, RRT-ACCS, AE-C, CCM, Assistant Professor of Respiratory, is a Certified Asthma Educator and Adult Critical Care Specialist.
+        - Mary Phillips, MEd, RRT, AE-C, Assistant Professor in Respiratory Therapy, is a certified asthma educator.
+
+    - Class of 2023 Achievements:
+        - 100% pass rate on the NBRC Therapist Multiple Choice (TMC) exam.
+        - Graduates secured employment prior to graduation.
+        
+For more information, contact the Health Professions Center at 2148, or by email.
+URL: https://www.usi.edu/health/respiratory-therapy/student-and-program-outcomes

@@ -1,0 +1,21 @@
+URL: https://www.usi.edu/health/health-administration/program-admission
+cleanedDataText/health_health-administration_program-admission.txt
+
+URL: https://www.usi.edu/health/health-administration/program-admission
+Bachelor of Science in Health Administration (BSHA) Program Admission
+
+    Program Information:
+        College: College of Nursing and Health Professions
+        Degree: Bachelor of Science in Health Administration
+        Admission Process: No formal application process to declare the BSHA program.
+        Major Declaration: Students can declare the major upon entering the university or by completing a change of major form at any time.
+        Prerequisites: Completion of prerequisite courses and a minimum GPA of 2.75 prior to starting an internship or Administrator-In-Training (AIT) opportunity.
+
+    Contact Information:
+        Department: Health Administration
+        Office location: HP3007
+        Phone: 812-465-1172
+        Email: [provided on the site]
+
+To request more information, visit the university's website or contact the department directly.
+URL: https://www.usi.edu/health/health-administration/program-admission

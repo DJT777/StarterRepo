@@ -1,0 +1,43 @@
+URL: https://www.usi.edu/emergency/emergency-procedures/active-shooter-hostage-situation
+cleanedDataText/emergency_emergency-procedures_active-shooter-hostage-situation.txt
+
+URL: https://www.usi.edu/emergency/emergency-procedures/active-shooter-hostage-situation
+Emergency Information
+
+Active Shooter / Hostage Situation
+
+- Active Shooter: A person actively engaged in killing or attempting to kill people using firearms in a populated area.
+    - Recommendations:
+        - Run: Always try to escape or evacuate. Call USI Public Safety (7777 or 812-492-7777) to report the incident. Have a safe escape route. Warn others and prevent them from entering the danger zone.
+        - Hide: If escape is not possible, shelter in a designated area of safety. Follow instructions from authorities. Turn off lights, close blinds, lock doors, and silence cell phones.
+        - Fight: As a last resort and only when in imminent danger, attempt to incapacitate the shooter. Work with others. Use physical aggression and throw objects.
+
+- Hostage Situation: Managed by specialized law enforcement units and can shift to an active shooter situation.
+    - Observing a Hostage Situation:
+        - Call USI Public Safety (812-492-7777) if you see someone being taken hostage. Provide complete information about employees or students in the area.
+    - Hostage Conduct:
+        - Do not fight back or struggle physically.
+        - Comply with the instructions of the captors.
+        - Take note of captors' habits, speech, mannerisms, and movements.
+        - If removed from the workplace, make mental notes of all movements.
+        - Establish rapport, but remember captors are not on your side.
+
+Emergency Contacts:
+- USI Public Safety: 812-492-7777
+- Emergency: 911
+
+Additional Emergency Procedures:
+- Bomb Threat
+- Fire and Building Evacuation
+- Hazardous Spills and Odors
+- Utility and Technology Failure
+- Severe Weather
+- Medical Emergencies
+- Violence and Suspicious Activity
+- Demonstrations / Protests
+- Earthquake
+- Shelter-In-Place
+- Reporting Emergencies
+
+For more detailed information and updates, monitor credible news sources and official University instructions (Rave Alerts, USI homepage, and Emergency site).
+URL: https://www.usi.edu/emergency/emergency-procedures/active-shooter-hostage-situation
